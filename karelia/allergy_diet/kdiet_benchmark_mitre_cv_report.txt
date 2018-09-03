@@ -1,0 +1,17 @@
+Point summary: 
+              AP   AUC    F1   MCC  fn  fp  precision  recall  tn  tp
+fold_0     0.429 0.538   0.6 0.182   0  12      0.429       1   1   9
+fold_1     0.429 0.538     0     0   9   0          0       0  13   0
+fold_2     0.398 0.554 0.333 0.134   6   2        0.5    0.25  12   2
+fold_3     0.364   0.5     0     0   8   0          0       0  14   0
+fold_4     0.381   0.5     0     0   8   0          0       0  13   0
+median/sum 0.398 0.538     0     0  31  14          0       0  53  11
+
+Ensemble summary: 
+              AP   AUC  F1  MCC  fn  fp  precision  recall  tn  tp
+fold_0     0.427 0.538   0    0   9   0          0       0  13   0
+fold_1     0.696 0.675   0    0   9   0          0       0  13   0
+fold_2     0.668 0.741   0    0   8   0          0       0  14   0
+fold_3     0.714 0.786   0    0   8   0          0       0  14   0
+fold_4      0.68 0.721   0    0   8   0          0       0  13   0
+median/sum  0.68 0.721   0    0  42   0          0       0  67   0

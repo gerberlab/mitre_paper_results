@@ -1,0 +1,32 @@
+BAYES FACTOR FOR THE EMPTY RULE SET: 0.0153
+
+
+POINT SUMMARY:
+Rule list with 1 rules (overall likelihood -0.0804):
+If NO rules apply: positive outcome probability 0.999 (0.944 -- 1) (log-odds: 6.67 (2.83 -- 8.3))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.00875 (0.000184 -- 0.737)):
+	 Odds of positive outcome DECREASE (log-odds change by -11.4 (-15.3 -- -5.64)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria slope is above -0.0001
+This rule applies to 8/16 (0.500) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+POINT SUMMARY CLASSIFIER PERFORMANCE:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 8]]
+
+ENSEMBLE CLASSIFIER PERFORMANCE:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 8]]
+
+89999 total samples after 10000 burnin
+Most frequent rule list lengths (counting total number of primitives):
+	frequency	length
+	0.719		1
+	0.15		2
+	0.0631		3
+	0.0283		4
+	0.0151		0

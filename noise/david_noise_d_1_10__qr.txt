@@ -1,0 +1,32 @@
+BAYES FACTOR FOR THE EMPTY RULE SET: 0.0152
+
+
+POINT SUMMARY:
+Rule list with 1 rules (overall likelihood -3.58):
+If NO rules apply: positive outcome probability 0.0347 (0.00237 -- 0.133) (log-odds: -3.33 (-6.04 -- -1.88))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.884 (0.723 -- 0.993)):
+	 Odds of positive outcome INCREASE (log-odds change by 5.36 (4.29 -- 8.23)), if:
+		Between time 2.500 and time 5.500, variable 7899 average is below 0.0039
+This rule applies to 10/19 (0.526) subjects in dataset, 9/10 with positive outcomes (0.900).
+
+POINT SUMMARY CLASSIFIER PERFORMANCE:
+AUC: 0.950
+Confusion matrix: 
+	[[9 1]
+	 [0 9]]
+
+ENSEMBLE CLASSIFIER PERFORMANCE:
+AUC: 1.000
+Confusion matrix: 
+	[[10  0]
+	 [ 0  9]]
+
+9499 total samples after 500 burnin
+Most frequent rule list lengths (counting total number of primitives):
+	frequency	length
+	0.668		1
+	0.166		2
+	0.0652		3
+	0.0477		4
+	0.0169		5

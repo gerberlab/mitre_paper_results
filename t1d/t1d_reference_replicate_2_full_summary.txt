@@ -1,0 +1,2111 @@
+BAYES FACTOR FOR THE EMPTY RULE SET: 0.00853
+
+
+POINT SUMMARY:
+Rule list with 1 rules (overall likelihood -0.143):
+If NO rules apply: positive outcome probability 0.996 (0.952 -- 1) (log-odds: 5.6 (2.99 -- 8.41))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.0136 (0.000582 -- 0.727)):
+	 Odds of positive outcome DECREASE (log-odds change by -9.88 (-13 -- -4.62)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria slope is above -0.0001
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+POINT SUMMARY CLASSIFIER PERFORMANCE:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+ENSEMBLE CLASSIFIER PERFORMANCE:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+89999 total samples after 10000 burnin
+Most frequent rule list lengths (counting total number of primitives):
+	frequency	length
+	0.73		1
+	0.139		2
+	0.0673		3
+	0.0315		4
+	0.0138		5
+
+ Best (highest posterior probability) rule list clusters: 
+Rule list cluster 0: posterior probability 0.128
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.037):
+If NO rules apply: positive outcome probability 0.00429 (4.96e-07 -- 0.18) (log-odds: -5.45 (-14.5 -- -1.52))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.561 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 13.6 (5.69 -- 26.5)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Escherichia|s__Escherichia_coli slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 1: posterior probability 0.123
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.038):
+If NO rules apply: positive outcome probability 0.0044 (5.73e-07 -- 0.183) (log-odds: -5.42 (-14.4 -- -1.5))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.579 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 13.5 (5.74 -- 26.5)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 2: posterior probability 0.12
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.039):
+If NO rules apply: positive outcome probability 0.00447 (4.05e-07 -- 0.181) (log-odds: -5.41 (-14.7 -- -1.51))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.578 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 13.4 (5.72 -- 26.7)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 3: posterior probability 0.118
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.0356):
+If NO rules apply: positive outcome probability 0.996 (0.841 -- 1) (log-odds: 5.62 (1.66 -- 14.9))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000375 (5.86e-10 -- 0.469)):
+	 Odds of positive outcome DECREASE (log-odds change by -13.5 (-26.9 -- -5.74)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae slope is above -0.0001
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 4: posterior probability 0.117
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.0365):
+If NO rules apply: positive outcome probability 0.0042 (4.86e-07 -- 0.179) (log-odds: -5.47 (-14.5 -- -1.52))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.548 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 13.5 (5.66 -- 26.6)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 5: posterior probability 0.111
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.0359):
+If NO rules apply: positive outcome probability 0.996 (0.841 -- 1) (log-odds: 5.61 (1.67 -- 14.9))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000371 (8.3e-10 -- 0.498)):
+	 Odds of positive outcome DECREASE (log-odds change by -13.5 (-26.5 -- -5.62)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Escherichia slope is above -0.0001
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 6: posterior probability 0.00846
+Representative rule list:
+Rule list with 0 rules (overall likelihood -11.8):
+If NO rules apply: positive outcome probability 0.533 (0.302 -- 0.75) (log-odds: 0.131 (-0.837 -- 1.1))
+
+Accuracy of representative rule:
+AUC: 0.500
+Confusion matrix: 
+	[[0 8]
+	 [0 9]]
+
+
+Rule list cluster 7: posterior probability 0.00331
+Representative rule list:
+Rule list with 1 rules (overall likelihood -3.26):
+If NO rules apply: positive outcome probability 0.909 (0.649 -- 0.993) (log-odds: 2.3 (0.614 -- 5.01))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000435 (1e-09 -- 0.175)):
+	 Odds of positive outcome DECREASE (log-odds change by -10 (-23 -- -3.85)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Faecalibacterium|s__Faecalibacterium_prausnitzii slope is below 0.0000
+This rule applies to 7/17 (0.412) subjects in dataset, 0/7 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.938
+Confusion matrix: 
+	[[7 1]
+	 [0 9]]
+
+
+Rule list cluster 8: posterior probability 0.00117
+Representative rule list:
+Rule list with 1 rules (overall likelihood -5.01):
+If NO rules apply: positive outcome probability 0.202 (0.0408 -- 0.479) (log-odds: -1.38 (-3.16 -- -0.0826))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.87 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 10.1 (3.28 -- 25.4)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Faecalibacterium slope is above 0.0003
+This rule applies to 7/17 (0.412) subjects in dataset, 7/7 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 0.889
+Confusion matrix: 
+	[[8 0]
+	 [2 7]]
+
+
+Rule list cluster 9: posterior probability 0.0007
+Representative rule list:
+Rule list with 1 rules (overall likelihood -5.03):
+If NO rules apply: positive outcome probability 0.998 (0.885 -- 1) (log-odds: 6.41 (2.04 -- 15.6))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.221 (2.59e-05 -- 0.971)):
+	 Odds of positive outcome DECREASE (log-odds change by -7.68 (-17 -- -2.91)), if:
+		Between time 600.000 and time 800.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Escherichia average is above 0.0008
+This rule applies to 10/17 (0.588) subjects in dataset, 2/10 with positive outcomes (0.200).
+
+Accuracy of representative rule:
+AUC: 0.889
+Confusion matrix: 
+	[[8 0]
+	 [2 7]]
+
+
+Rule list cluster 10: posterior probability 0.000689
+Representative rule list:
+Rule list with 1 rules (overall likelihood -5.09):
+If NO rules apply: positive outcome probability 0.994 (0.8 -- 1) (log-odds: 5.08 (1.39 -- 11.5))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.163 (0.000353 -- 0.932)):
+	 Odds of positive outcome DECREASE (log-odds change by -6.72 (-13 -- -2.47)), if:
+		Between time 600.000 and time 800.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Escherichia|s__Escherichia_coli average is above 0.0008
+This rule applies to 10/17 (0.588) subjects in dataset, 2/10 with positive outcomes (0.200).
+
+Accuracy of representative rule:
+AUC: 0.889
+Confusion matrix: 
+	[[8 0]
+	 [2 7]]
+
+
+Rule list cluster 11: posterior probability 0.000667
+Representative rule list:
+Rule list with 1 rules (overall likelihood -5.12):
+If NO rules apply: positive outcome probability 0.994 (0.836 -- 1) (log-odds: 5.16 (1.63 -- 11.8))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.155 (0.000151 -- 0.927)):
+	 Odds of positive outcome DECREASE (log-odds change by -6.86 (-14 -- -2.62)), if:
+		Between time 600.000 and time 800.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae average is above 0.0009
+This rule applies to 10/17 (0.588) subjects in dataset, 2/10 with positive outcomes (0.200).
+
+Accuracy of representative rule:
+AUC: 0.889
+Confusion matrix: 
+	[[8 0]
+	 [2 7]]
+
+
+Rule list cluster 12: posterior probability 0.000644
+Representative rule list:
+Rule list with 1 rules (overall likelihood -5.01):
+If NO rules apply: positive outcome probability 0.186 (0.0466 -- 0.486) (log-odds: -1.48 (-3.02 -- -0.0558))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.879 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 10.9 (3.46 -- 24.1)), if:
+		Between time 600.000 and time 800.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales average is below 0.0009
+This rule applies to 7/17 (0.412) subjects in dataset, 7/7 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 0.889
+Confusion matrix: 
+	[[8 0]
+	 [2 7]]
+
+
+Rule list cluster 13: posterior probability 0.000556
+Representative rule list:
+Rule list with 1 rules (overall likelihood -5.22):
+If NO rules apply: positive outcome probability 0.819 (0.557 -- 0.956) (log-odds: 1.51 (0.228 -- 3.09))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 7.67e-05 (2.12e-10 -- 0.0951)):
+	 Odds of positive outcome DECREASE (log-odds change by -11 (-23.8 -- -3.76)), if:
+		Between time 400.000 and time 800.000, variable k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Clostridiaceae|g__Clostridium|s__Clostridium_symbiosum slope is below -0.0000
+This rule applies to 6/17 (0.353) subjects in dataset, 0/6 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.875
+Confusion matrix: 
+	[[6 2]
+	 [0 9]]
+
+
+Rule list cluster 14: posterior probability 0.000389
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0383):
+If NO rules apply: positive outcome probability 0.00364 (1.11e-06 -- 0.141) (log-odds: -5.61 (-13.7 -- -1.8))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.998 (0.84 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 11.7 (7.27 -- 19.3)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Escherichia|s__Escherichia_coli slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 3.22e-07 (9.75e-12 -- 0.178)):
+	 Odds of positive outcome DECREASE (log-odds change by -9.34 (-19.7 -- 4.08)), if:
+		Between time 400.000 and time 800.000, variable k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Bifidobacteriales|f__Bifidobacteriaceae|g__Bifidobacterium|s__Bifidobacterium_longum average is below 0.0268
+This rule applies to 3/17 (0.176) subjects in dataset, 0/3 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 15: posterior probability 0.000367
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0491):
+If NO rules apply: positive outcome probability 0.991 (0.734 -- 1) (log-odds: 4.7 (1.01 -- 12.2))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1.2e-05 (3.25e-13 -- 0.0724)):
+	 Odds of positive outcome DECREASE (log-odds change by -16 (-33.5 -- -7.25)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae slope is above -0.0001
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (0.905 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 5.7 (-2.44 -- 22.6)), if:
+		Between time 400.000 and time 800.000, variable k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Bacteroidaceae slope is above 0.0007
+This rule applies to 5/17 (0.294) subjects in dataset, 4/5 with positive outcomes (0.800).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 16: posterior probability 0.000344
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0768):
+If NO rules apply: positive outcome probability 0.997 (0.402 -- 1) (log-odds: 5.82 (-0.396 -- 13))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.992 (0.0604 -- 1)):
+	 Odds of positive outcome DECREASE (log-odds change by -1.04 (-8.57 -- 6.7)), if:
+		Between time 400.000 and time 800.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae slope is above -0.0002
+This rule applies to 16/17 (0.941) subjects in dataset, 8/16 with positive outcomes (0.500).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.00242 (7.09e-08 -- 0.413)):
+	 Odds of positive outcome DECREASE (log-odds change by -11.8 (-22.3 -- -6.17)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales slope is above -0.0001
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 17: posterior probability 0.000322
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.277):
+If NO rules apply: positive outcome probability 0.0701 (5.41e-06 -- 1) (log-odds: -2.59 (-12.1 -- 8.83))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.00454 (4.83e-08 -- 0.928)):
+	 Odds of positive outcome DECREASE (log-odds change by -2.81 (-14.3 -- 5.15)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae slope is above -0.0007
+This rule applies to 16/17 (0.941) subjects in dataset, 8/16 with positive outcomes (0.500).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.998 (0.827 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 8.89 (4.15 -- 18.5)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Escherichia slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 18: posterior probability 0.000289
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0605):
+If NO rules apply: positive outcome probability 0.989 (0.784 -- 1) (log-odds: 4.51 (1.29 -- 17.5))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 9.84e-07 (9.38e-10 -- 0.000174)):
+	 Odds of positive outcome DECREASE (log-odds change by -18.3 (-25.3 -- -13.2)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria slope is above -0.0001
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.997 (0.0715 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 1.2 (-7.07 -- 9.82)), if:
+		Between time 400.000 and time 800.000, variable k__Bacteria|p__Firmicutes average is above 0.4320
+This rule applies to 8/17 (0.471) subjects in dataset, 5/8 with positive outcomes (0.625).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 19: posterior probability 0.000278
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.0133):
+If NO rules apply: positive outcome probability 0.999 (0.879 -- 1) (log-odds: 6.71 (1.98 -- 15.2))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000296 (1.58e-09 -- 0.618)):
+	 Odds of positive outcome DECREASE (log-odds change by -14.8 (-27 -- -6.23)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Escherichia|s__Escherichia_coli slope is above -0.0001
+		Between time 400.000 and time 800.000, variable k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Clostridiaceae|g__Clostridium|s__Clostridium_symbiosum average is above 0.0015
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 20: posterior probability 0.000267
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0104):
+If NO rules apply: positive outcome probability 0.998 (0.676 -- 1) (log-odds: 6.35 (0.734 -- 12.5))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 8.89e-05 (9.18e-08 -- 0.0266)):
+	 Odds of positive outcome DECREASE (log-odds change by -15.7 (-22.6 -- -9.95)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales slope is above -0.0001
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (0.932 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 3.11 (-3.73 -- 12.6)), if:
+		Between time 600.000 and time 800.000, variable k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales average is below 0.4245
+This rule applies to 10/17 (0.588) subjects in dataset, 7/10 with positive outcomes (0.700).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 21: posterior probability 0.000256
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0283):
+If NO rules apply: positive outcome probability 0.00395 (1.82e-06 -- 0.0774) (log-odds: -5.53 (-13.2 -- -2.48))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.782 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 13.4 (6.81 -- 32.2)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.00047 (5.93e-12 -- 0.899)):
+	 Odds of positive outcome DECREASE (log-odds change by -2.13 (-20.3 -- 7.72)), if:
+		Between time 400.000 and time 800.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae slope is above 0.0000
+This rule applies to 2/17 (0.118) subjects in dataset, 0/2 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 22: posterior probability 0.000233
+Representative rule list:
+Rule list with 1 rules (overall likelihood -6.29):
+If NO rules apply: positive outcome probability 0.91 (0.675 -- 0.997) (log-odds: 2.32 (0.73 -- 5.72))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.0767 (0.00144 -- 0.545)):
+	 Odds of positive outcome DECREASE (log-odds change by -4.8 (-8.86 -- -2.14)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae slope is below 0.0004
+This rule applies to 8/17 (0.471) subjects in dataset, 1/8 with positive outcomes (0.125).
+
+Accuracy of representative rule:
+AUC: 0.882
+Confusion matrix: 
+	[[7 1]
+	 [1 8]]
+
+
+Rule list cluster 23: posterior probability 0.000222
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.00596):
+If NO rules apply: positive outcome probability 0.000397 (3.09e-06 -- 0.0713) (log-odds: -7.83 (-12.7 -- -2.57))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000886 (1.6e-05 -- 0.317)):
+	 Odds of positive outcome INCREASE (log-odds change by 0.804 (-3.21 -- 7.07)), if:
+		Between time 600.000 and time 800.000, variable k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Coriobacteriales|f__Coriobacteriaceae|g__Eggerthella|s__Eggerthella_lenta average is above 0.0013
+This rule applies to 11/17 (0.647) subjects in dataset, 7/11 with positive outcomes (0.636).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (0.874 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 16.6 (9.77 -- 24.5)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Escherichia slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 24: posterior probability 0.000222
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.00375):
+If NO rules apply: positive outcome probability 0.000339 (1.31e-07 -- 0.175) (log-odds: -7.99 (-15.9 -- -1.55))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000829 (3.63e-09 -- 0.899)):
+	 Odds of positive outcome INCREASE (log-odds change by 0.894 (-11.4 -- 10.2)), if:
+		Between time 600.000 and time 800.000, variable k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Bifidobacteriales|f__Bifidobacteriaceae|g__Bifidobacterium|s__Bifidobacterium_longum average is above 0.0348
+This rule applies to 9/17 (0.529) subjects in dataset, 7/9 with positive outcomes (0.778).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (0.926 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 19.4 (10.5 -- 28.5)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 25: posterior probability 0.000222
+Representative rule list:
+Rule list with 2 rules (overall likelihood -6.35):
+If NO rules apply: positive outcome probability 0.00215 (7.71e-08 -- 0.153) (log-odds: -6.14 (-16.4 -- -1.71))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 2.87e-05 (7.26e-12 -- 0.0658)):
+	 Odds of positive outcome DECREASE (log-odds change by -4.32 (-19.5 -- 3.49)), if:
+		Between time 600.000 and time 800.000, variable k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Bifidobacteriales|f__Bifidobacteriaceae|g__Bifidobacterium|s__Bifidobacterium_bifidum average is above 0.0004
+This rule applies to 12/17 (0.706) subjects in dataset, 7/12 with positive outcomes (0.583).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (0.216 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 16.8 (4.85 -- 27.8)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae slope is below -0.0000
+This rule applies to 10/17 (0.588) subjects in dataset, 9/10 with positive outcomes (0.900).
+
+Accuracy of representative rule:
+AUC: 0.938
+Confusion matrix: 
+	[[7 1]
+	 [0 9]]
+
+
+Rule list cluster 26: posterior probability 0.000211
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.00169):
+If NO rules apply: positive outcome probability 0.988 (0.0011 -- 1) (log-odds: 4.37 (-6.81 -- 11.6))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.498 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 4.32 (-4.38 -- 17.2)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Escherichia slope is below -0.0000
+This rule applies to 15/17 (0.882) subjects in dataset, 9/15 with positive outcomes (0.600).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 3.85e-07 (8.05e-11 -- 0.00223)):
+	 Odds of positive outcome DECREASE (log-odds change by -19.1 (-27.6 -- -10.5)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria slope is above -0.0001
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 27: posterior probability 0.000211
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0444):
+If NO rules apply: positive outcome probability 0.000732 (7.03e-08 -- 0.738) (log-odds: -7.22 (-16.5 -- 1.04))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 3.75e-08 (8.98e-11 -- 0.000498)):
+	 Odds of positive outcome DECREASE (log-odds change by -9.88 (-15.9 -- -0.385)), if:
+		Between time 400.000 and time 800.000, variable k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Roseburia average is below 0.0991
+This rule applies to 14/17 (0.824) subjects in dataset, 7/14 with positive outcomes (0.500).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (0.996 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 22.2 (12.7 -- 28.9)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 28: posterior probability 0.000211
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.347):
+If NO rules apply: positive outcome probability 0.00839 (0.000859 -- 0.281) (log-odds: -4.77 (-7.06 -- -0.938))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.99 (0.461 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 9.4 (4.61 -- 17.1)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.00202 (3.33e-06 -- 0.32)):
+	 Odds of positive outcome DECREASE (log-odds change by -1.43 (-7.84 -- 4.02)), if:
+		Between time 400.000 and time 800.000, variable k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Roseburia average is above 0.0422
+This rule applies to 10/17 (0.588) subjects in dataset, 7/10 with positive outcomes (0.700).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 29: posterior probability 0.000211
+Representative rule list:
+Rule list with 2 rules (overall likelihood -2.74):
+If NO rules apply: positive outcome probability 0.79 (0.448 -- 0.964) (log-odds: 1.33 (-0.21 -- 3.3))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.999 (0.922 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 6.25 (1.15 -- 10.4)), if:
+		Between time 600.000 and time 1000.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Escherichia|s__Escherichia_coli average is below 0.0003
+This rule applies to 4/17 (0.235) subjects in dataset, 4/4 with positive outcomes (1.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.000148 (1.67e-10 -- 0.0204)):
+	 Odds of positive outcome DECREASE (log-odds change by -10.1 (-23.8 -- -5.2)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae slope is above -0.0000
+This rule applies to 7/17 (0.412) subjects in dataset, 0/7 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.938
+Confusion matrix: 
+	[[7 1]
+	 [0 9]]
+
+
+Rule list cluster 30: posterior probability 0.000211
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0423):
+If NO rules apply: positive outcome probability 0.0061 (0.000312 -- 0.0774) (log-odds: -5.09 (-8.07 -- -2.48))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.906 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 13.7 (7.36 -- 16)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Escherichia|s__Escherichia_coli slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.00198 (1.63e-07 -- 0.733)):
+	 Odds of positive outcome DECREASE (log-odds change by -1.13 (-10.5 -- 6.1)), if:
+		Between time 0.000 and time 400.000, variable k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Bacteroidaceae|g__Bacteroides|s__Bacteroides_ovatus average is below 0.0000
+This rule applies to 2/17 (0.118) subjects in dataset, 0/2 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 31: posterior probability 0.000211
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0309):
+If NO rules apply: positive outcome probability 1 (0.0754 -- 1) (log-odds: 9.57 (-2.51 -- 14.1))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.00587 (4.26e-05 -- 0.357)):
+	 Odds of positive outcome DECREASE (log-odds change by -14.7 (-19.6 -- -10.2)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales slope is above -0.0001
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.999 (0.762 -- 1)):
+	 Odds of positive outcome DECREASE (log-odds change by -2.92 (-8.41 -- 9.11)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Escherichia|s__Escherichia_coli average is above 0.0035
+This rule applies to 14/17 (0.824) subjects in dataset, 9/14 with positive outcomes (0.643).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 32: posterior probability 0.000211
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.00557):
+If NO rules apply: positive outcome probability 0.999 (0.917 -- 1) (log-odds: 7.44 (2.4 -- 18.5))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.986 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 4.77 (-3.19 -- 21.2)), if:
+		Between time 600.000 and time 1000.000, variable k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Bacteroidaceae average is above 0.5866
+This rule applies to 1/17 (0.059) subjects in dataset, 1/1 with positive outcomes (1.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.000107 (3.96e-09 -- 0.904)):
+	 Odds of positive outcome DECREASE (log-odds change by -16.6 (-26.8 -- -5.19)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Escherichia|s__Escherichia_coli slope is above -0.0001
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 33: posterior probability 0.0002
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.124):
+If NO rules apply: positive outcome probability 1 (0.856 -- 1) (log-odds: 7.83 (1.78 -- 12.5))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.0514 -- 1)):
+	 Odds of positive outcome DECREASE (log-odds change by -0.0174 (-10.7 -- 5.34)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae slope is above -0.0000
+This rule applies to 5/17 (0.294) subjects in dataset, 0/5 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.0151 (1.77e-06 -- 0.89)):
+	 Odds of positive outcome DECREASE (log-odds change by -12 (-21.1 -- -5.73)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria slope is above -0.0001
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 34: posterior probability 0.0002
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0262):
+If NO rules apply: positive outcome probability 0.912 (0.00151 -- 1) (log-odds: 2.34 (-6.49 -- 9.73))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.00327 (1.91e-05 -- 0.97)):
+	 Odds of positive outcome DECREASE (log-odds change by -8.06 (-13.2 -- 1.13)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales slope is above -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 1/9 with positive outcomes (0.111).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (1 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 18.7 (14.5 -- 30.5)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 35: posterior probability 0.0002
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0686):
+If NO rules apply: positive outcome probability 0.00316 (1.54e-05 -- 0.124) (log-odds: -5.75 (-11.1 -- -1.96))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.996 (0.512 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 11.4 (5.8 -- 17.6)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.00846 (0.000186 -- 0.825)):
+	 Odds of positive outcome INCREASE (log-odds change by 0.989 (-2.83 -- 7.3)), if:
+		Between time 400.000 and time 800.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Escherichia|s__Escherichia_coli slope is below -0.0001
+This rule applies to 5/17 (0.294) subjects in dataset, 2/5 with positive outcomes (0.400).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 36: posterior probability 0.0002
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0606):
+If NO rules apply: positive outcome probability 0.999 (0.778 -- 1) (log-odds: 7.3 (1.25 -- 17.3))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 9.74e-07 (8.87e-13 -- 0.00847)):
+	 Odds of positive outcome DECREASE (log-odds change by -21.1 (-35 -- -12.1)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Escherichia|s__Escherichia_coli slope is above -0.0001
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.99 (0.00254 -- 1)):
+	 Odds of positive outcome DECREASE (log-odds change by -2.67 (-13.3 -- 1.31)), if:
+		Between time 400.000 and time 800.000, variable k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae slope is below 0.0003
+This rule applies to 10/17 (0.588) subjects in dataset, 6/10 with positive outcomes (0.600).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 37: posterior probability 0.0002
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.13):
+If NO rules apply: positive outcome probability 0.986 (0.852 -- 1) (log-odds: 4.23 (1.75 -- 12.1))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 6.52e-06 (1.52e-11 -- 0.0184)):
+	 Odds of positive outcome DECREASE (log-odds change by -16.2 (-29.1 -- -8.21)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Escherichia slope is above -0.0001
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.98 (3.76e-08 -- 1)):
+	 Odds of positive outcome DECREASE (log-odds change by -0.342 (-21.3 -- 13.3)), if:
+		Between time 0.000 and time 400.000, variable k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Roseburia average is above 0.3577
+This rule applies to 1/17 (0.059) subjects in dataset, 0/1 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 38: posterior probability 0.0002
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.115):
+If NO rules apply: positive outcome probability 0.0128 (8.45e-05 -- 0.138) (log-odds: -4.35 (-9.38 -- -1.84))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.998 (0.459 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 10.6 (4.18 -- 16.5)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Escherichia|s__Escherichia_coli slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.0058 (2.96e-05 -- 0.963)):
+	 Odds of positive outcome DECREASE (log-odds change by -0.798 (-6.08 -- 7.62)), if:
+		Between time 400.000 and time 800.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales average is above 0.0169
+This rule applies to 2/17 (0.118) subjects in dataset, 1/2 with positive outcomes (0.500).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 39: posterior probability 0.0002
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0349):
+If NO rules apply: positive outcome probability 0.000306 (7.49e-07 -- 0.0323) (log-odds: -8.09 (-14.1 -- -3.4))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.997 (0.325 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 13.8 (7.36 -- 22.6)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.00856 (4.33e-05 -- 0.519)):
+	 Odds of positive outcome INCREASE (log-odds change by 3.34 (-1.96 -- 8.17)), if:
+		Between time 400.000 and time 800.000, variable k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Roseburia average is above 0.0422
+This rule applies to 10/17 (0.588) subjects in dataset, 7/10 with positive outcomes (0.700).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 40: posterior probability 0.0002
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0179):
+If NO rules apply: positive outcome probability 0.999 (0.869 -- 1) (log-odds: 6.68 (1.89 -- 13.6))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000491 (3e-09 -- 0.289)):
+	 Odds of positive outcome DECREASE (log-odds change by -14.3 (-26.3 -- -7.58)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales slope is above -0.0001
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (0.966 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 1.39 (-3.33 -- 10.2)), if:
+		Between time 600.000 and time 800.000, variable k__Bacteria|p__Firmicutes|c__Clostridia average is above 0.3401
+This rule applies to 10/17 (0.588) subjects in dataset, 5/10 with positive outcomes (0.500).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 41: posterior probability 0.0002
+Representative rule list:
+Rule list with 2 rules (overall likelihood -2):
+If NO rules apply: positive outcome probability 1 (0.971 -- 1) (log-odds: 8.69 (3.51 -- 15.1))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.00403 (8.03e-07 -- 0.591)):
+	 Odds of positive outcome DECREASE (log-odds change by -14.2 (-22.7 -- -8.32)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales slope is above -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 1/9 with positive outcomes (0.111).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (1 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 5.23 (-0.339 -- 9.52)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Actinobacteria slope is above 0.0008
+This rule applies to 3/17 (0.176) subjects in dataset, 1/3 with positive outcomes (0.333).
+
+Accuracy of representative rule:
+AUC: 0.944
+Confusion matrix: 
+	[[8 0]
+	 [1 8]]
+
+
+Rule list cluster 42: posterior probability 0.0002
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0204):
+If NO rules apply: positive outcome probability 0.011 (9.47e-06 -- 0.636) (log-odds: -4.5 (-11.6 -- 0.559))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000206 (3.12e-08 -- 0.295)):
+	 Odds of positive outcome DECREASE (log-odds change by -3.99 (-12.8 -- 3.63)), if:
+		Between time 400.000 and time 800.000, variable k__Bacteria|p__Firmicutes|c__Erysipelotrichi|o__Erysipelotrichales|f__Erysipelotrichaceae|g__Coprobacillus average is above 0.0013
+This rule applies to 14/17 (0.824) subjects in dataset, 7/14 with positive outcomes (0.500).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (0.988 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 15.3 (8.93 -- 27.7)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 43: posterior probability 0.0002
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.347):
+If NO rules apply: positive outcome probability 0.0432 (9.05e-06 -- 0.621) (log-odds: -3.1 (-11.6 -- 0.492))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (1 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 20 (15.5 -- 25.3)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Escherichia slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.0421 (0.000263 -- 0.997)):
+	 Odds of positive outcome DECREASE (log-odds change by -0.0265 (-5.15 -- 9.05)), if:
+		Between time 0.000 and time 400.000, variable k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Coriobacteriales average is above 0.0009
+This rule applies to 13/17 (0.765) subjects in dataset, 7/13 with positive outcomes (0.538).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 44: posterior probability 0.0002
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.0519):
+If NO rules apply: positive outcome probability 0.00639 (2.55e-05 -- 0.115) (log-odds: -5.05 (-10.6 -- -2.04))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.928 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 14.7 (7.61 -- 22)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria slope is below -0.0001
+		Between time 600.000 and time 1000.000, variable k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Ruminococcus average is above 0.0152
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 45: posterior probability 0.0002
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.14):
+If NO rules apply: positive outcome probability 0.987 (0.784 -- 1) (log-odds: 4.34 (1.29 -- 10.3))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.00299 (1.37e-10 -- 0.448)):
+	 Odds of positive outcome DECREASE (log-odds change by -10.2 (-27.1 -- -4.55)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales slope is above -0.0001
+		Between time 600.000 and time 800.000, variable k__Bacteria|p__Firmicutes|c__Negativicutes|o__Selenomonadales average is above 0.0101
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 46: posterior probability 0.000189
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0777):
+If NO rules apply: positive outcome probability 0.00588 (0.000103 -- 0.0786) (log-odds: -5.13 (-9.19 -- -2.46))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.0134 (1.61e-05 -- 0.78)):
+	 Odds of positive outcome INCREASE (log-odds change by 0.831 (-5.9 -- 6.4)), if:
+		Between time 400.000 and time 800.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Escherichia|s__Escherichia_coli slope is above 0.0000
+This rule applies to 5/17 (0.294) subjects in dataset, 1/5 with positive outcomes (0.200).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (1 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 15.6 (13.1 -- 20.7)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 47: posterior probability 0.000189
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.177):
+If NO rules apply: positive outcome probability 0.0518 (3.6e-05 -- 0.946) (log-odds: -2.91 (-10.2 -- 2.87))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.0218 (0.000113 -- 0.991)):
+	 Odds of positive outcome DECREASE (log-odds change by -0.896 (-6.18 -- 7.64)), if:
+		Between time 600.000 and time 1000.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae average is above 0.0006
+This rule applies to 12/17 (0.706) subjects in dataset, 4/12 with positive outcomes (0.333).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (0.984 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 13.5 (7.04 -- 20.8)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 48: posterior probability 0.000189
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.00238):
+If NO rules apply: positive outcome probability 1 (0.913 -- 1) (log-odds: 9.75 (2.36 -- 14.8))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000307 (1.09e-07 -- 0.0664)):
+	 Odds of positive outcome DECREASE (log-odds change by -17.8 (-25.8 -- -12.4)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae slope is above -0.0001
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (0.000775 -- 1)):
+	 Odds of positive outcome DECREASE (log-odds change by -0.673 (-16.9 -- 10.5)), if:
+		Between time 600.000 and time 800.000, variable k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Faecalibacterium|s__Faecalibacterium_prausnitzii average is below 0.0304
+This rule applies to 4/17 (0.235) subjects in dataset, 0/4 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 49: posterior probability 0.000189
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0141):
+If NO rules apply: positive outcome probability 0.999 (0.53 -- 1) (log-odds: 6.9 (0.121 -- 10.1))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 6.13e-06 (3.38e-09 -- 0.339)):
+	 Odds of positive outcome DECREASE (log-odds change by -18.9 (-26.4 -- -7.57)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria slope is above -0.0001
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.998 (0.473 -- 1)):
+	 Odds of positive outcome DECREASE (log-odds change by -0.605 (-7.01 -- 6.72)), if:
+		Between time 600.000 and time 800.000, variable k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales average is above 0.2996
+This rule applies to 12/17 (0.706) subjects in dataset, 6/12 with positive outcomes (0.500).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 50: posterior probability 0.000189
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0209):
+If NO rules apply: positive outcome probability 0.997 (0.906 -- 1) (log-odds: 5.78 (2.27 -- 11))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.239 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 8.55 (-6.94 -- 21.4)), if:
+		Between time 400.000 and time 800.000, variable k__Bacteria|p__Firmicutes|c__Negativicutes average is below 0.0130
+This rule applies to 5/17 (0.294) subjects in dataset, 5/5 with positive outcomes (1.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.00108 (1.56e-07 -- 0.295)):
+	 Odds of positive outcome DECREASE (log-odds change by -12.6 (-21.5 -- -6.66)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria slope is above -0.0001
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 51: posterior probability 0.000189
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.411):
+If NO rules apply: positive outcome probability 0.0617 (1.68e-06 -- 0.349) (log-odds: -2.72 (-13.3 -- -0.622))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.0303 (1.35e-05 -- 1)):
+	 Odds of positive outcome DECREASE (log-odds change by -0.745 (-8.49 -- 11.3)), if:
+		Between time 400.000 and time 800.000, variable k__Bacteria|p__Actinobacteria slope is below -0.0004
+This rule applies to 4/17 (0.235) subjects in dataset, 1/4 with positive outcomes (0.250).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (0.998 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 16.9 (8.89 -- 29.3)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 52: posterior probability 0.000189
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0041):
+If NO rules apply: positive outcome probability 1 (0.566 -- 1) (log-odds: 9.66 (0.264 -- 16.5))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000489 (9.6e-08 -- 0.911)):
+	 Odds of positive outcome DECREASE (log-odds change by -17.3 (-25.8 -- -7.33)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Escherichia slope is above -0.0001
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (0.903 -- 1)):
+	 Odds of positive outcome DECREASE (log-odds change by -0.342 (-7.43 -- 10.4)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales average is below 0.3114
+This rule applies to 11/17 (0.647) subjects in dataset, 7/11 with positive outcomes (0.636).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 53: posterior probability 0.000189
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.171):
+If NO rules apply: positive outcome probability 0.994 (0.962 -- 1) (log-odds: 5.16 (3.23 -- 7.76))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.0131 (1.98e-05 -- 0.298)):
+	 Odds of positive outcome DECREASE (log-odds change by -9.48 (-16 -- -6.01)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria slope is above -0.0001
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.981 (0.814 -- 1)):
+	 Odds of positive outcome DECREASE (log-odds change by -1.23 (-3.68 -- 2.83)), if:
+		Between time 400.000 and time 800.000, variable k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Bifidobacteriales|f__Bifidobacteriaceae average is above 0.1640
+This rule applies to 6/17 (0.353) subjects in dataset, 3/6 with positive outcomes (0.500).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 54: posterior probability 0.000189
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0073):
+If NO rules apply: positive outcome probability 0.00277 (1.23e-05 -- 0.305) (log-odds: -5.89 (-11.3 -- -0.823))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 5.65e-05 (4.17e-10 -- 0.0929)):
+	 Odds of positive outcome DECREASE (log-odds change by -3.9 (-15.7 -- 3.61)), if:
+		Between time 600.000 and time 800.000, variable k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Clostridiaceae average is below 0.0846
+This rule applies to 15/17 (0.882) subjects in dataset, 9/15 with positive outcomes (0.600).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (0.835 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 18.5 (7.51 -- 36.2)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 55: posterior probability 0.000189
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0925):
+If NO rules apply: positive outcome probability 0.0114 (8.54e-06 -- 0.202) (log-odds: -4.46 (-11.7 -- -1.37))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.992 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 14 (9.29 -- 19)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Escherichia|s__Escherichia_coli slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.324 (1.19e-06 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 3.73 (-9.18 -- 17.6)), if:
+		Between time 600.000 and time 800.000, variable k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Coriobacteriales|f__Coriobacteriaceae|g__Eggerthella|s__Eggerthella_lenta average is above 0.0051
+This rule applies to 2/17 (0.118) subjects in dataset, 2/2 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 56: posterior probability 0.000189
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.00158):
+If NO rules apply: positive outcome probability 1 (0.958 -- 1) (log-odds: 9.15 (3.14 -- 20))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 7.8e-05 (1.38e-07 -- 0.0339)):
+	 Odds of positive outcome DECREASE (log-odds change by -18.6 (-25 -- -12.5)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Escherichia|s__Escherichia_coli slope is above -0.0001
+		Between time 600.000 and time 800.000, variable k__Bacteria|p__Proteobacteria average is above 0.0029
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 57: posterior probability 0.000189
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.0156):
+If NO rules apply: positive outcome probability 0.998 (0.972 -- 1) (log-odds: 6.45 (3.55 -- 13.7))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.00018 (1.79e-10 -- 0.208)):
+	 Odds of positive outcome DECREASE (log-odds change by -15.1 (-28.9 -- -7.79)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Escherichia|s__Escherichia_coli slope is above -0.0001
+		Between time 600.000 and time 1000.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales average is above 0.0010
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 58: posterior probability 0.000189
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0313):
+If NO rules apply: positive outcome probability 0.999 (0.834 -- 1) (log-odds: 6.54 (1.61 -- 12.2))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.00124 (1.73e-06 -- 0.329)):
+	 Odds of positive outcome DECREASE (log-odds change by -13.2 (-19.8 -- -7.25)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales slope is above -0.0001
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (6.34e-05 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 1.48 (-16.2 -- 10.3)), if:
+		Between time 400.000 and time 800.000, variable k__Bacteria|p__Firmicutes|c__Negativicutes|o__Selenomonadales slope is below -0.0004
+This rule applies to 2/17 (0.118) subjects in dataset, 0/2 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 59: posterior probability 0.000178
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.195):
+If NO rules apply: positive outcome probability 0.024 (9.52e-05 -- 0.0808) (log-odds: -3.7 (-9.26 -- -2.43))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.752 (6.45e-05 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 4.81 (-5.95 -- 14.4)), if:
+		Between time 400.000 and time 800.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Escherichia|s__Escherichia_coli average is below 0.0002
+This rule applies to 2/17 (0.118) subjects in dataset, 2/2 with positive outcomes (1.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (0.725 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 14.6 (4.67 -- 20)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Escherichia|s__Escherichia_coli slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 60: posterior probability 0.000178
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.00166):
+If NO rules apply: positive outcome probability 0.916 (0.00397 -- 1) (log-odds: 2.39 (-5.53 -- 9.66))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 3.1e-08 (7.09e-12 -- 7.02e-05)):
+	 Odds of positive outcome DECREASE (log-odds change by -19.7 (-28.1 -- -12)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Escherichia|s__Escherichia_coli slope is above -0.0001
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (0.999 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 10.9 (5.18 -- 17.6)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales slope is below -0.0000
+This rule applies to 10/17 (0.588) subjects in dataset, 9/10 with positive outcomes (0.900).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 61: posterior probability 0.000178
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0316):
+If NO rules apply: positive outcome probability 0.00394 (4.77e-07 -- 0.158) (log-odds: -5.53 (-14.6 -- -1.68))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (1 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 21.1 (15.3 -- 35.1)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.205 (2.77e-07 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 4.18 (-9.57 -- 14.8)), if:
+		Between time 400.000 and time 800.000, variable k__Bacteria|p__Proteobacteria slope is below -0.0001
+This rule applies to 2/17 (0.118) subjects in dataset, 2/2 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 62: posterior probability 0.000178
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.000329):
+If NO rules apply: positive outcome probability 0.186 (1.81e-06 -- 1) (log-odds: -1.48 (-13.2 -- 10.5))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 8.58e-12 (7.28e-15 -- 0.000154)):
+	 Odds of positive outcome DECREASE (log-odds change by -24 (-31.1 -- -7.3)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria slope is above -0.0001
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (0.0519 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 11.7 (-1.43 -- 23.1)), if:
+		Between time 400.000 and time 800.000, variable k__Bacteria|p__Firmicutes|c__Negativicutes|o__Selenomonadales slope is above -0.0002
+This rule applies to 13/17 (0.765) subjects in dataset, 9/13 with positive outcomes (0.692).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 63: posterior probability 0.000178
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.013):
+If NO rules apply: positive outcome probability 0.999 (0.977 -- 1) (log-odds: 6.84 (3.73 -- 10.5))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000423 (2.05e-07 -- 0.487)):
+	 Odds of positive outcome DECREASE (log-odds change by -14.6 (-22.2 -- -6.89)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria slope is above -0.0001
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.999 (0.42 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 0.235 (-7.16 -- 6.12)), if:
+		Between time 400.000 and time 800.000, variable k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales average is below 0.2695
+This rule applies to 3/17 (0.176) subjects in dataset, 1/3 with positive outcomes (0.333).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 64: posterior probability 0.000178
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0958):
+If NO rules apply: positive outcome probability 0.247 (4.2e-05 -- 1) (log-odds: -1.11 (-10.1 -- 10.1))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.998 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 12.2 (7.25 -- 17.6)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.000391 (1.86e-07 -- 0.963)):
+	 Odds of positive outcome DECREASE (log-odds change by -6.73 (-14.4 -- 4.36)), if:
+		Between time 400.000 and time 800.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales average is above 0.0003
+This rule applies to 15/17 (0.882) subjects in dataset, 7/15 with positive outcomes (0.467).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 65: posterior probability 0.000178
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.634):
+If NO rules apply: positive outcome probability 0.0106 (6.53e-07 -- 0.999) (log-odds: -4.54 (-14.2 -- 6.74))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.958 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 13 (7.67 -- 18.6)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.0761 (9e-08 -- 0.999)):
+	 Odds of positive outcome INCREASE (log-odds change by 2.04 (-11.7 -- 11.4)), if:
+		Between time 600.000 and time 800.000, variable k__Bacteria|p__Firmicutes|c__Clostridia average is below 0.5463
+This rule applies to 16/17 (0.941) subjects in dataset, 8/16 with positive outcomes (0.500).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 66: posterior probability 0.000178
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.114):
+If NO rules apply: positive outcome probability 1 (0.982 -- 1) (log-odds: 8.2 (4.02 -- 12.5))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.999 (0.567 -- 1)):
+	 Odds of positive outcome DECREASE (log-odds change by -0.805 (-7.93 -- 5.2)), if:
+		Between time 600.000 and time 1000.000, variable k__Bacteria|p__Firmicutes|c__Negativicutes|o__Selenomonadales average is above 0.0377
+This rule applies to 6/17 (0.353) subjects in dataset, 2/6 with positive outcomes (0.333).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.019 (8e-06 -- 0.84)):
+	 Odds of positive outcome DECREASE (log-odds change by -12.1 (-19.9 -- -6.55)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria slope is above -0.0001
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 67: posterior probability 0.000178
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0188):
+If NO rules apply: positive outcome probability 0.00122 (1.01e-07 -- 0.575) (log-odds: -6.71 (-16.1 -- 0.303))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.999 (0.187 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 13.7 (5.24 -- 21.7)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Escherichia|s__Escherichia_coli slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.000911 (8.69e-10 -- 0.938)):
+	 Odds of positive outcome DECREASE (log-odds change by -0.292 (-14.2 -- 9.43)), if:
+		Between time 600.000 and time 800.000, variable k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Clostridiaceae|g__Clostridium|s__Clostridium_symbiosum average is below 0.0188
+This rule applies to 15/17 (0.882) subjects in dataset, 9/15 with positive outcomes (0.600).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 68: posterior probability 0.000178
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0108):
+If NO rules apply: positive outcome probability 0.000109 (1.96e-07 -- 0.0188) (log-odds: -9.12 (-15.4 -- -3.95))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.999 (0.891 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 15.8 (11.2 -- 25.5)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.00198 (9.23e-06 -- 0.592)):
+	 Odds of positive outcome INCREASE (log-odds change by 2.9 (-2.47 -- 9.49)), if:
+		Between time 400.000 and time 800.000, variable k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Eubacteriaceae average is above 0.0252
+This rule applies to 9/17 (0.529) subjects in dataset, 6/9 with positive outcomes (0.667).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 69: posterior probability 0.000178
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.293):
+If NO rules apply: positive outcome probability 0.968 (0.824 -- 1) (log-odds: 3.42 (1.54 -- 8.21))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000568 (1.9e-08 -- 0.279)):
+	 Odds of positive outcome DECREASE (log-odds change by -10.9 (-21.2 -- -4.37)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae slope is above -0.0001
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.00837 (6.23e-09 -- 0.999)):
+	 Odds of positive outcome DECREASE (log-odds change by -8.19 (-22.3 -- 3.86)), if:
+		Between time 0.000 and time 400.000, variable k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Bacteroidaceae|g__Bacteroides|s__Bacteroides_ovatus average is below 0.0000
+This rule applies to 2/17 (0.118) subjects in dataset, 0/2 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 70: posterior probability 0.000178
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0395):
+If NO rules apply: positive outcome probability 0.00562 (6.62e-05 -- 0.141) (log-odds: -5.18 (-9.62 -- -1.81))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 6.71e-06 (2.13e-09 -- 0.0117)):
+	 Odds of positive outcome DECREASE (log-odds change by -6.73 (-14.8 -- 0.741)), if:
+		Between time 600.000 and time 1000.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria average is below 0.0026
+This rule applies to 4/17 (0.235) subjects in dataset, 3/4 with positive outcomes (0.750).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (0.999 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 23.2 (12.6 -- 32.1)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 71: posterior probability 0.000178
+Representative rule list:
+Rule list with 1 rules (overall likelihood -6.42):
+If NO rules apply: positive outcome probability 0.907 (0.575 -- 0.996) (log-odds: 2.28 (0.302 -- 5.45))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.0584 (0.000703 -- 0.654)):
+	 Odds of positive outcome DECREASE (log-odds change by -5.06 (-9.54 -- -1.64)), if:
+		Between time 600.000 and time 800.000, variable k__Bacteria|p__Proteobacteria average is above 0.0094
+This rule applies to 8/17 (0.471) subjects in dataset, 1/8 with positive outcomes (0.125).
+
+Accuracy of representative rule:
+AUC: 0.882
+Confusion matrix: 
+	[[7 1]
+	 [1 8]]
+
+
+Rule list cluster 72: posterior probability 0.000178
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0734):
+If NO rules apply: positive outcome probability 0.0123 (1.9e-05 -- 0.273) (log-odds: -4.39 (-10.9 -- -0.982))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.993 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 15.8 (9.34 -- 21)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.00589 (1.68e-06 -- 0.953)):
+	 Odds of positive outcome DECREASE (log-odds change by -0.743 (-8.91 -- 7.38)), if:
+		Between time 400.000 and time 800.000, variable k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Faecalibacterium slope is below 0.0003
+This rule applies to 11/17 (0.647) subjects in dataset, 7/11 with positive outcomes (0.636).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 73: posterior probability 0.000178
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.102):
+If NO rules apply: positive outcome probability 0.0192 (4e-05 -- 0.237) (log-odds: -3.93 (-10.1 -- -1.17))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.564 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 16.2 (4.19 -- 22.8)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.00178 (5.78e-07 -- 0.562)):
+	 Odds of positive outcome DECREASE (log-odds change by -2.4 (-10.4 -- 4.18)), if:
+		Between time 600.000 and time 800.000, variable k__Bacteria|p__Actinobacteria|c__Actinobacteria average is below 0.0923
+This rule applies to 5/17 (0.294) subjects in dataset, 2/5 with positive outcomes (0.400).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 74: posterior probability 0.000178
+Representative rule list:
+Rule list with 1 rules (overall likelihood -7.64):
+If NO rules apply: positive outcome probability 0.329 (0.114 -- 0.649) (log-odds: -0.713 (-2.05 -- 0.614))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.989 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 13.3 (5.24 -- 32.4)), if:
+		Between time 600.000 and time 1000.000, variable k__Bacteria|p__Firmicutes|c__Negativicutes|o__Selenomonadales|f__Veillonellaceae average is below 0.0085
+This rule applies to 5/17 (0.294) subjects in dataset, 5/5 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 0.778
+Confusion matrix: 
+	[[8 0]
+	 [4 5]]
+
+
+Rule list cluster 75: posterior probability 0.000178
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.244):
+If NO rules apply: positive outcome probability 0.974 (0.775 -- 0.999) (log-odds: 3.64 (1.24 -- 6.71))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.00122 (1.79e-08 -- 0.302)):
+	 Odds of positive outcome DECREASE (log-odds change by -10.3 (-21.5 -- -4.48)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Faecalibacterium slope is below 0.0003
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Escherichia slope is above -0.0002
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 76: posterior probability 0.000178
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.534):
+If NO rules apply: positive outcome probability 0.994 (0.29 -- 1) (log-odds: 5.13 (-0.894 -- 20.1))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.997 (9.13e-05 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 0.67 (-14.4 -- 7.17)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae slope is below 0.0010
+This rule applies to 16/17 (0.941) subjects in dataset, 8/16 with positive outcomes (0.500).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.0322 (2.08e-05 -- 0.478)):
+	 Odds of positive outcome DECREASE (log-odds change by -8.53 (-15.9 -- -5.22)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Escherichia slope is above -0.0001
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 77: posterior probability 0.000178
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0592):
+If NO rules apply: positive outcome probability 0.994 (0.827 -- 1) (log-odds: 5.04 (1.56 -- 9.66))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.978 (1.4e-06 -- 1)):
+	 Odds of positive outcome DECREASE (log-odds change by -1.23 (-18.5 -- 11.7)), if:
+		Between time 600.000 and time 1000.000, variable k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Eubacteriaceae|g__Eubacterium average is above 0.1884
+This rule applies to 1/17 (0.059) subjects in dataset, 0/1 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.000146 (4.35e-08 -- 0.246)):
+	 Odds of positive outcome DECREASE (log-odds change by -13.9 (-22 -- -6.16)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales slope is above -0.0001
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 78: posterior probability 0.000178
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.139):
+If NO rules apply: positive outcome probability 0.0211 (0.0001 -- 0.23) (log-odds: -3.84 (-9.21 -- -1.21))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.997 (0.816 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 9.79 (5.32 -- 14.2)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Escherichia slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.00737 (5.88e-05 -- 0.518)):
+	 Odds of positive outcome DECREASE (log-odds change by -1.07 (-5.9 -- 3.91)), if:
+		Between time 600.000 and time 800.000, variable k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales average is above 0.3729
+This rule applies to 8/17 (0.471) subjects in dataset, 3/8 with positive outcomes (0.375).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 79: posterior probability 0.000178
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0052):
+If NO rules apply: positive outcome probability 0.999 (0.875 -- 1) (log-odds: 7.01 (1.95 -- 14.9))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.925 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 1.41 (-4.49 -- 12.4)), if:
+		Between time 400.000 and time 800.000, variable k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Bacteroidaceae|g__Bacteroides|s__Bacteroides_ovatus average is below 0.0062
+This rule applies to 9/17 (0.529) subjects in dataset, 5/9 with positive outcomes (0.556).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 2.31e-05 (5.95e-09 -- 0.0996)):
+	 Odds of positive outcome DECREASE (log-odds change by -17.7 (-25.9 -- -9.21)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae slope is above -0.0001
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 80: posterior probability 0.000178
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0083):
+If NO rules apply: positive outcome probability 0.00292 (4.73e-06 -- 0.504) (log-odds: -5.83 (-12.3 -- 0.0155))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000213 (7.63e-08 -- 0.807)):
+	 Odds of positive outcome DECREASE (log-odds change by -2.62 (-10.6 -- 7.26)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Bacteroidaceae slope is above -0.0003
+This rule applies to 9/17 (0.529) subjects in dataset, 3/9 with positive outcomes (0.333).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (0.936 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 16.4 (8.52 -- 22.3)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 81: posterior probability 0.000167
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0587):
+If NO rules apply: positive outcome probability 0.946 (0.0428 -- 1) (log-odds: 2.85 (-3.11 -- 9.03))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (1 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 21.8 (15.3 -- 29.9)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Escherichia|s__Escherichia_coli slope is below -0.0001
+This rule applies to 8/17 (0.471) subjects in dataset, 8/8 with positive outcomes (1.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.000338 (2.12e-08 -- 0.13)):
+	 Odds of positive outcome DECREASE (log-odds change by -10.8 (-20.5 -- -4.76)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Firmicutes|c__Erysipelotrichi|o__Erysipelotrichales|f__Erysipelotrichaceae|g__Coprobacillus|s__Coprobacillus_bacterium slope is above -0.0001
+This rule applies to 15/17 (0.882) subjects in dataset, 7/15 with positive outcomes (0.467).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 82: posterior probability 0.000167
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.00736):
+If NO rules apply: positive outcome probability 1 (0.994 -- 1) (log-odds: 8.02 (5.18 -- 13.3))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000616 (2.69e-06 -- 0.121)):
+	 Odds of positive outcome DECREASE (log-odds change by -15.4 (-20.8 -- -9.99)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Escherichia|s__Escherichia_coli slope is above -0.0001
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.998 (9.9e-06 -- 1)):
+	 Odds of positive outcome DECREASE (log-odds change by -2.01 (-19.5 -- 5.91)), if:
+		Between time 600.000 and time 800.000, variable k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Lachnospiraceae|g__Roseburia average is below 0.0000
+This rule applies to 1/17 (0.059) subjects in dataset, 0/1 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 83: posterior probability 0.000167
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0119):
+If NO rules apply: positive outcome probability 1 (0.815 -- 1) (log-odds: 8.56 (1.48 -- 17.2))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.0165 (6.17e-06 -- 0.999)):
+	 Odds of positive outcome DECREASE (log-odds change by -12.6 (-20.6 -- -1.85)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Escherichia slope is above -0.0001
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.996 (0.0014 -- 1)):
+	 Odds of positive outcome DECREASE (log-odds change by -3.06 (-15.1 -- 4.94)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Escherichia|s__Escherichia_coli slope is above -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 1/9 with positive outcomes (0.111).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 84: posterior probability 0.000167
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.00176):
+If NO rules apply: positive outcome probability 0.000277 (1.94e-06 -- 0.00754) (log-odds: -8.19 (-13.2 -- -4.88))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 9.2e-05 (2.14e-07 -- 0.194)):
+	 Odds of positive outcome DECREASE (log-odds change by -1.1 (-7.17 -- 6.77)), if:
+		Between time 600.000 and time 1000.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria average is below 0.0069
+This rule applies to 10/17 (0.588) subjects in dataset, 6/10 with positive outcomes (0.600).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (0.95 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 19.4 (11.1 -- 30)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Escherichia slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 85: posterior probability 0.000167
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0515):
+If NO rules apply: positive outcome probability 0.00634 (3.87e-05 -- 0.219) (log-odds: -5.05 (-10.2 -- -1.27))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.742 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 14.6 (6.11 -- 20.8)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.00834 (4.45e-06 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 0.276 (-7.27 -- 17.4)), if:
+		Between time 600.000 and time 800.000, variable k__Bacteria|p__Bacteroidetes|c__Bacteroidia|o__Bacteroidales|f__Bacteroidaceae average is above 0.5687
+This rule applies to 1/17 (0.059) subjects in dataset, 1/1 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 86: posterior probability 0.000167
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0582):
+If NO rules apply: positive outcome probability 0.0268 (0.00163 -- 0.312) (log-odds: -3.59 (-6.42 -- -0.793))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.999 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 16.7 (11.2 -- 25.8)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.000509 (7.89e-06 -- 0.0188)):
+	 Odds of positive outcome DECREASE (log-odds change by -3.99 (-8.16 -- -0.363)), if:
+		Between time 400.000 and time 800.000, variable k__Bacteria slope is below 0.0000
+This rule applies to 13/17 (0.765) subjects in dataset, 7/13 with positive outcomes (0.538).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 87: posterior probability 0.000167
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0292):
+If NO rules apply: positive outcome probability 0.000491 (5.66e-06 -- 0.0327) (log-odds: -7.62 (-12.1 -- -3.39))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.997 (0.408 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 13.4 (7.25 -- 22)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.000621 (3.41e-09 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 0.234 (-11.9 -- 17.5)), if:
+		Between time 400.000 and time 800.000, variable k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Eubacteriaceae|g__Eubacterium slope is above 0.0003
+This rule applies to 2/17 (0.118) subjects in dataset, 2/2 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 88: posterior probability 0.000167
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.121):
+If NO rules apply: positive outcome probability 0.000179 (1.86e-07 -- 0.0166) (log-odds: -8.63 (-15.5 -- -4.08))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.987 (0.328 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 12.9 (7.91 -- 23)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1.66e-06 (7.63e-14 -- 0.124)):
+	 Odds of positive outcome DECREASE (log-odds change by -4.68 (-21.6 -- 6.67)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Bacteroidetes|c__Bacteroidia average is below 0.1344
+This rule applies to 1/17 (0.059) subjects in dataset, 0/1 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 89: posterior probability 0.000167
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.343):
+If NO rules apply: positive outcome probability 0.0111 (0.000891 -- 0.158) (log-odds: -4.49 (-7.02 -- -1.67))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.996 (0.447 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 10.1 (4.28 -- 24.1)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.000923 (2.05e-06 -- 0.178)):
+	 Odds of positive outcome DECREASE (log-odds change by -2.5 (-8.61 -- 2.96)), if:
+		Between time 400.000 and time 800.000, variable k__Bacteria slope is below 0.0000
+This rule applies to 13/17 (0.765) subjects in dataset, 7/13 with positive outcomes (0.538).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 90: posterior probability 0.000167
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.012):
+If NO rules apply: positive outcome probability 0.999 (0.74 -- 1) (log-odds: 6.98 (1.04 -- 18.8))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.999 (0.912 -- 1)):
+	 Odds of positive outcome DECREASE (log-odds change by -0.288 (-4.64 -- 6.48)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Firmicutes|c__Erysipelotrichi|o__Erysipelotrichales|f__Erysipelotrichaceae|g__Coprobacillus average is below 0.0052
+This rule applies to 10/17 (0.588) subjects in dataset, 6/10 with positive outcomes (0.600).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.000256 (2.93e-09 -- 0.945)):
+	 Odds of positive outcome DECREASE (log-odds change by -15.3 (-26.6 -- -4.14)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria slope is above -0.0001
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 91: posterior probability 0.000167
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.106):
+If NO rules apply: positive outcome probability 0.996 (0.728 -- 1) (log-odds: 5.55 (0.984 -- 12.3))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.999 (0.523 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 1.05 (-5.45 -- 4.54)), if:
+		Between time 600.000 and time 800.000, variable k__Bacteria|p__Firmicutes|c__Erysipelotrichi average is below 0.0126
+This rule applies to 13/17 (0.765) subjects in dataset, 7/13 with positive outcomes (0.538).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.00464 (7.03e-06 -- 0.306)):
+	 Odds of positive outcome DECREASE (log-odds change by -10.9 (-17.4 -- -6.36)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria slope is above -0.0001
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 92: posterior probability 0.000167
+Representative rule list:
+Rule list with 2 rules (overall likelihood -4.37):
+If NO rules apply: positive outcome probability 0.998 (0.882 -- 1) (log-odds: 6.47 (2.01 -- 10.2))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.805 (0.0466 -- 0.994)):
+	 Odds of positive outcome DECREASE (log-odds change by -5.06 (-9.49 -- -1.37)), if:
+		Between time 600.000 and time 800.000, variable k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Ruminococcaceae|g__Faecalibacterium average is above 0.0991
+This rule applies to 8/17 (0.471) subjects in dataset, 5/8 with positive outcomes (0.625).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.00192 (7.61e-06 -- 0.414)):
+	 Odds of positive outcome DECREASE (log-odds change by -12.7 (-18.3 -- -6.82)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae|g__Escherichia slope is above -0.0000
+This rule applies to 6/17 (0.353) subjects in dataset, 0/6 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.875
+Confusion matrix: 
+	[[6 2]
+	 [0 9]]
+
+
+Rule list cluster 93: posterior probability 0.000167
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.196):
+If NO rules apply: positive outcome probability 0.0261 (6.82e-07 -- 0.181) (log-odds: -3.62 (-14.2 -- -1.51))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.00934 (2.77e-05 -- 0.289)):
+	 Odds of positive outcome DECREASE (log-odds change by -1.05 (-6.87 -- 2.72)), if:
+		Between time 400.000 and time 800.000, variable k__Bacteria|p__Actinobacteria slope is above 0.0001
+This rule applies to 6/17 (0.353) subjects in dataset, 5/6 with positive outcomes (0.833).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (0.947 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 13 (6.49 -- 23.7)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 94: posterior probability 0.000167
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.00868):
+If NO rules apply: positive outcome probability 0.998 (0.413 -- 1) (log-odds: 6.43 (-0.351 -- 18.7))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1.81e-05 (1.76e-11 -- 0.58)):
+	 Odds of positive outcome DECREASE (log-odds change by -17.4 (-31.2 -- -6.11)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales|f__Enterobacteriaceae slope is above -0.0001
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.999 (0.0111 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 0.641 (-10.9 -- 9.47)), if:
+		Between time 400.000 and time 800.000, variable k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales average is below 0.4484
+This rule applies to 16/17 (0.941) subjects in dataset, 8/16 with positive outcomes (0.500).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 95: posterior probability 0.000167
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0447):
+If NO rules apply: positive outcome probability 0.00894 (0.000142 -- 0.49) (log-odds: -4.71 (-8.86 -- -0.041))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.64 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 12.3 (5.28 -- 17.9)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.00205 (1.71e-06 -- 0.188)):
+	 Odds of positive outcome DECREASE (log-odds change by -1.48 (-8.57 -- 3.24)), if:
+		Between time 600.000 and time 1000.000, variable k__Bacteria|p__Firmicutes|c__Clostridia|o__Clostridiales|f__Eubacteriaceae|g__Eubacterium average is below 0.0619
+This rule applies to 12/17 (0.706) subjects in dataset, 6/12 with positive outcomes (0.500).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 96: posterior probability 0.000167
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.00857):
+If NO rules apply: positive outcome probability 0.00085 (5.02e-06 -- 0.168) (log-odds: -7.07 (-12.2 -- -1.6))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.314 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 15.6 (6.29 -- 27.9)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.000313 (2e-08 -- 0.843)):
+	 Odds of positive outcome DECREASE (log-odds change by -1 (-10.7 -- 8.75)), if:
+		Between time 600.000 and time 800.000, variable k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Bifidobacteriales|f__Bifidobacteriaceae|g__Bifidobacterium|s__Bifidobacterium_bifidum average is above 0.0004
+This rule applies to 13/17 (0.765) subjects in dataset, 8/13 with positive outcomes (0.615).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 97: posterior probability 0.000167
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0178):
+If NO rules apply: positive outcome probability 0.0607 (2.53e-09 -- 0.998) (log-odds: -2.74 (-19.8 -- 6.08))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.00172 (2.01e-07 -- 0.995)):
+	 Odds of positive outcome DECREASE (log-odds change by -3.63 (-12.7 -- 8.08)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria slope is above -0.0002
+This rule applies to 12/17 (0.706) subjects in dataset, 4/12 with positive outcomes (0.333).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (0.971 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 13.3 (6.26 -- 27.8)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria slope is below -0.0001
+This rule applies to 9/17 (0.529) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+
+Rule list cluster 98: posterior probability 0.000167
+Representative rule list:
+Rule list with 1 rules (overall likelihood -7.66):
+If NO rules apply: positive outcome probability 0.304 (0.111 -- 0.608) (log-odds: -0.83 (-2.08 -- 0.441))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.999 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 16.7 (7.94 -- 27.8)), if:
+		Between time 400.000 and time 800.000, variable k__Bacteria|p__Firmicutes|c__Negativicutes|o__Selenomonadales average is below 0.0130
+This rule applies to 5/17 (0.294) subjects in dataset, 5/5 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 0.778
+Confusion matrix: 
+	[[8 0]
+	 [4 5]]
+
+
+Rule list cluster 99: posterior probability 0.000167
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.214):
+If NO rules apply: positive outcome probability 1 (0.88 -- 1) (log-odds: 7.62 (1.99 -- 15))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.0259 (1.35e-06 -- 0.93)):
+	 Odds of positive outcome DECREASE (log-odds change by -11.3 (-21.1 -- -5.03)), if:
+		Between time 200.000 and time 600.000, variable k__Bacteria|p__Proteobacteria|c__Gammaproteobacteria|o__Enterobacteriales slope is above -0.0001
+		Between time 0.000 and time 400.000, variable k__Bacteria|p__Actinobacteria|c__Actinobacteria|o__Coriobacteriales|f__Coriobacteriaceae|g__Eggerthella average is below 0.0039
+This rule applies to 8/17 (0.471) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[8 0]
+	 [0 9]]
+
+

@@ -1,0 +1,3 @@
+                                      AP  AUC    F1   MCC  fn  fp  precision  recall  tn  tp
+Random forest                      0.943 0.95 0.952 0.905   0   1      0.909       1   9  10
+L1-regularized logistic regression 0.732 0.75 0.727 0.408   2   4      0.667     0.8   6   8

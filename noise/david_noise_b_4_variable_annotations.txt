@@ -1,0 +1,335 @@
+name	description	leaves
+Otu000001	OTU mapped to Bacteroides dorei	
+Otu000002	OTU mapped to Prevotella copri	
+Otu000003	OTU mapped to a clade within genus Alistipes,including representatives of species Alistipes finegoldii, Alistipes onderdonkii, Alistipes shahii	
+Otu000004	OTU mapped to a clade within genus Bacteroides,including representatives of species Bacteroides rodentium, Bacteroides fluxus, Bacteroides uniformis	
+Otu000005	OTU mapped to a clade within family Ruminococcaceae,including representatives of genus Subdoligranulum, Faecalibacterium, Gemmiger	
+Otu000006	OTU mapped to a clade within family Prevotellaceae,including representatives of genus Hallella, Prevotella	
+Otu000007	OTU mapped to a clade within genus Bacteroides,including representatives of species Bacteroides dorei, Bacteroides sartorii, Bacteroides massiliensis, Bacteroides chinchillae	
+Otu000008	OTU mapped to Bacteroides ovatus	
+Otu000009	OTU mapped to Faecalibacterium prausnitzii	
+Otu000010	OTU mapped to Bacteroides eggerthii	
+Otu000011	OTU mapped to a clade within order Clostridiales,including representatives of family Lachnospiraceae, Eubacteriaceae	
+Otu000012	OTU mapped to Bacteroides dorei	
+Otu000013	OTU mapped to Bacteroides ovatus	
+Otu000014	OTU mapped to Bacteroides dorei	
+Otu000015	OTU mapped to Akkermansia muciniphila	
+Otu000016	OTU mapped to Bacteroides helcogenes	
+Otu000017	OTU mapped to a clade within family Enterobacteriaceae,including representatives of genus Escherichia, Shigella	
+Otu000018	OTU mapped to Bacteroides caccae	
+Otu000019	OTU mapped to a clade within family Lachnospiraceae,including representatives of genus Marvinbryantia, Robinsoniella, Blautia	
+Otu000020	OTU mapped to Faecalibacterium prausnitzii	
+Otu000021	OTU mapped to a clade within genus Bacteroides,including representatives of species Bacteroides faecis, Bacteroides thetaiotaomicron	
+Otu000023	OTU mapped to a clade within genus Bacteroides,including representatives of species Bacteroides rodentium, Bacteroides fluxus	
+Otu000024	OTU mapped to Sutterella wadsworthensis	
+Otu000025	OTU mapped to Dialister invisus	
+Otu000026	OTU mapped to a clade within genus Bifidobacterium,including representatives of species Bifidobacterium adolescentis, Bifidobacterium stercoris	
+Otu000027	OTU mapped to a clade within genus Bacteroides,including representatives of species Bacteroides xylanisolvens, Bacteroides ovatus	
+Otu000028	OTU mapped to Parasutterella excrementihominis	
+Otu000029	OTU mapped to a clade within phylum Bacteroidetes or Deinococcus-Thermus or Chlorobi or Ignavibacteriae or Proteobacteria	
+Otu000030	OTU mapped to Faecalibacterium prausnitzii	
+Otu000031	OTU mapped to Clostridium saccharogumia	
+Otu000032	OTU mapped to Bacteroides cellulosilyticus	
+Otu000033	OTU mapped to Alloprevotella tannerae	
+Otu000034	OTU mapped to Alistipes onderdonkii	
+Otu000035	OTU mapped to a clade within genus Bacteroides,including representatives of species Bacteroides caccae, Bacteroides acidifaciens	
+Otu000036	OTU mapped to a clade within class Alphaproteobacteria,including representatives of order Rhizobiales, Kordiimonadales, Rhodobacterales, Sphingomonadales, Caulobacterales, Kiloniellales, Parvularculales, Rhodospirillales, Sneathiellales, Rickettsiales	
+Otu000037	OTU mapped to a clade within genus Clostridium,including representatives of species Clostridium aerotolerans, Clostridium algidixylanolyticum, Clostridium xylanolyticum	
+Otu000038	OTU mapped to a clade within family Peptococcaceae,including representatives of genus Dehalobacter, Syntrophobotulus	
+Otu000039	OTU mapped to Bilophila wadsworthia	
+Otu000040	OTU mapped to Phascolarctobacterium faecium	
+Otu000042	OTU mapped to a clade within family Ruminococcaceae,including representatives of genus Subdoligranulum, Gemmiger	
+Otu000043	OTU mapped to a clade within genus Parabacteroides,including representatives of species Parabacteroides merdae, Parabacteroides johnsonii, Parabacteroides distasonis	
+Otu000044	OTU mapped to Roseburia inulinivorans	
+Otu000045	OTU mapped to a clade within family Lachnospiraceae,including representatives of genus Marvinbryantia, Robinsoniella, Blautia	
+Otu000047	OTU mapped to a clade within genus Sutterella,including representatives of species Sutterella parvirubra, Sutterella stercoricanis	
+Otu000048	OTU mapped to Sutterella stercoricanis	
+Otu000049	OTU mapped to Anaerostipes butyraticus	
+Otu000050	OTU mapped to Bacteroides helcogenes	
+Otu000051	OTU mapped to Eubacterium eligens	
+Otu000052	OTU mapped to a clade within phylum Firmicutes,including representatives of class Clostridia, Bacilli	
+Otu000053	OTU mapped to a clade within genus Bacteroides,including representatives of species Bacteroides rodentium, Bacteroides fluxus, Bacteroides uniformis	
+Otu000054	OTU mapped to Ruminococcus bromii	
+Otu000056	OTU mapped to [Ruminococcus] gnavus	
+Otu000057	OTU mapped to a clade within genus Alistipes,including representatives of species Alistipes finegoldii, Alistipes shahii	
+Otu000058	OTU mapped to a clade within genus Bifidobacterium,including representatives of species Bifidobacterium merycicum, Bifidobacterium ruminantium, Bifidobacterium adolescentis, Bifidobacterium stercoris, Bifidobacterium angulatum, Bifidobacterium catenulatum, Bifidobacterium dentium, Bifidobacterium pseudocatenulatum	
+Otu000059	OTU mapped to Alistipes shahii	
+Otu000060	OTU mapped to Lactobacillus rogosae	
+Otu000062	OTU mapped to Roseburia hominis	
+Otu000063	OTU mapped to Haemophilus parainfluenzae	
+Otu000064	OTU mapped to a clade within genus Bacteroides,including representatives of species Bacteroides sartorii, Bacteroides massiliensis, Bacteroides salanitronis, Bacteroides chinchillae, Bacteroides coprophilus, Bacteroides paurosaccharolyticus, Bacteroides plebeius, Bacteroides barnesiae, Bacteroides coprocola, Bacteroides dorei	
+Otu000065	OTU mapped to a clade within genus Bacteroides,including representatives of species Bacteroides salyersiae, Bacteroides nordii	
+Otu000066	OTU mapped to a clade within order Clostridiales,including representatives of family Ruminococcaceae, Lachnospiraceae	
+Otu000069	OTU mapped to Bacteroides dorei	
+Otu000070	OTU mapped to Bacteroides caccae	
+Otu000071	OTU mapped to Eubacterium hallii	
+Otu000072	OTU mapped to Oscillibacter valericigenes	
+Otu000073	OTU mapped to Dorea longicatena	
+Otu000074	OTU mapped to Clostridium lactatifermentans	
+Otu000075	OTU mapped to Oscillibacter valericigenes	
+Otu000076	OTU mapped to a clade within family Enterobacteriaceae,including representatives of genus Buttiauxella, Citrobacter, Raoultella, Enterobacter, Trabulsiella, Serratia, Leclercia, Lelliottia, Kosakonia, Salmonella, Escherichia, Kluyvera, Cedecea, Klebsiella, Yokenella	
+Otu000077	OTU mapped to a clade within order Clostridiales,including representatives of family Lachnospiraceae, Clostridiaceae	
+Otu000080	OTU mapped to Ruminococcus albus	
+Otu000081	OTU mapped to a clade within family Enterobacteriaceae,including representatives of genus Hafnia, Obesumbacterium	
+Otu000082	OTU mapped to Parabacteroides distasonis	
+Otu000083	OTU mapped to a clade within genus Desulfovibrio,including representatives of species Desulfovibrio desulfuricans, Desulfovibrio piger, Desulfovibrio intestinalis	
+Otu000084	OTU mapped to Oscillibacter valericigenes	
+Otu000085	OTU mapped to Coprococcus eutactus	
+Otu000086	OTU mapped to Coprococcus comes	
+Otu000088	OTU mapped to a clade within genus Streptococcus,including representatives of species Streptococcus criceti, Streptococcus orisuis	
+Otu000089	OTU mapped to Paraprevotella clara	
+Otu000090	OTU mapped to Clostridium lactatifermentans	
+Otu000091	OTU mapped to [Ruminococcus] torques	
+Otu000092	OTU mapped to Ruminococcus lactaris	
+Otu000093	OTU mapped to a clade within order Clostridiales,including representatives of family Ruminococcaceae, Clostridiaceae, Oscillospiraceae	
+Otu000094	OTU mapped to Oscillibacter valericigenes	
+Otu000095	OTU mapped to a clade within order Clostridiales,including representatives of family Lachnospiraceae, Eubacteriaceae	
+Otu000097	OTU mapped to Oscillibacter valericigenes	
+Otu000098	OTU mapped to a clade within phylum Bacteroidetes or Deinococcus-Thermus or Chlorobi or Ignavibacteriae or Proteobacteria	
+Otu000099	OTU mapped to a clade within genus Bacteroides,including representatives of species Bacteroides rodentium, Bacteroides fluxus	
+Otu000100	OTU mapped to a clade within order Clostridiales,including representatives of family Clostridiaceae, Lachnospiraceae	
+Otu000101	OTU mapped to Bacteroides dorei	
+Otu000102	OTU mapped to [Ruminococcus] obeum	
+Otu000103	OTU mapped to a clade within phylum Firmicutes,including representatives of class Clostridia, Bacilli	
+Otu000105	OTU mapped to a clade within genus Bacteroides,including representatives of species Bacteroides faecis, Bacteroides graminisolvens, Bacteroides acidifaciens, Bacteroides finegoldii, Bacteroides xylanisolvens, Bacteroides thetaiotaomicron, Bacteroides ovatus, Bacteroides fragilis, Bacteroides salyersiae, Bacteroides nordii, Bacteroides caccae	
+Otu000106	OTU mapped to Oscillibacter valericigenes	
+Otu000107	OTU mapped to a clade within genus Bacteroides,including representatives of species Bacteroides cellulosilyticus, Bacteroides intestinalis, Bacteroides oleiciplenus	
+Otu000108	OTU mapped to Bacteroides clarus	
+Otu000109	OTU mapped to Alistipes shahii	
+Otu000113	OTU mapped to a clade within phylum Firmicutes,including representatives of class Clostridia, Bacilli	
+Otu000115	OTU mapped to a clade within order Clostridiales,including representatives of family Clostridiaceae, Peptostreptococcaceae	
+Otu000117	OTU mapped to Roseburia hominis	
+Otu000118	OTU mapped to a clade within order Clostridiales,including representatives of family Lachnospiraceae, Eubacteriaceae, Clostridiaceae	
+Otu000119	OTU mapped to Bacteroides ovatus	
+Otu000124	OTU mapped to Bacteroides paurosaccharolyticus	
+Otu000126	OTU mapped to a clade within family Ruminococcaceae,including representatives of genus Subdoligranulum, Gemmiger	
+Otu000127	OTU mapped to a clade within family Veillonellaceae,including representatives of genus Megasphaera, Anaeroglobus	
+Otu000129	OTU mapped to a clade within phylum Firmicutes,including representatives of class Clostridia, Bacilli	
+Otu000130	OTU mapped to Ruminococcus lactaris	
+Otu000132	OTU mapped to a clade within order Clostridiales,including representatives of family Ruminococcaceae, Clostridiaceae, Lachnospiraceae, Eubacteriaceae	
+Otu000134	OTU mapped to Bacteroides dorei	
+Otu000135	OTU mapped to a clade within family Ruminococcaceae,including representatives of genus Subdoligranulum, Faecalibacterium, Gemmiger	
+Otu000139	OTU mapped to a clade within genus Clostridium,including representatives of species Clostridium disporicum, Clostridium celatum	
+Otu000141	OTU mapped to a clade within genus Bacteroides,including representatives of species Bacteroides xylanisolvens, Bacteroides ovatus	
+Otu000142	OTU mapped to Bacteroides dorei	
+Otu000143	OTU mapped to a clade within order Clostridiales,including representatives of family Clostridiaceae, Lachnospiraceae	
+Otu000145	OTU mapped to a clade within genus Ruminococcus,including representatives of species Ruminococcus albus, Ruminococcus flavefaciens, Ruminococcus callidus	
+Otu000146	OTU mapped to Collinsella aerofaciens	
+Otu000148	OTU mapped to Parabacteroides johnsonii	
+Otu000150	OTU mapped to a clade within genus Bacteroides,including representatives of species Bacteroides xylanisolvens, Bacteroides ovatus	
+Otu000152	OTU mapped to Blautia hansenii	
+Otu000155	OTU mapped to a clade within family Ruminococcaceae,including representatives of genus Subdoligranulum, Gemmiger	
+Otu000162	OTU mapped to a clade within order Clostridiales,including representatives of family Ruminococcaceae, Lachnospiraceae, Clostridiaceae	
+Otu000164	OTU mapped to Ruminococcus lactaris	
+Otu000165	OTU mapped to a clade within genus Bacteroides,including representatives of species Bacteroides dorei, Bacteroides sartorii, Bacteroides massiliensis, Bacteroides chinchillae	
+Otu000167	OTU mapped to a clade within phylum Tenericutes or Bacteroidetes or Fusobacteria or Elusimicrobia or Firmicutes	
+Otu000169	OTU mapped to a clade within family Enterobacteriaceae,including representatives of genus Escherichia, Shigella	
+Otu000171	OTU mapped to a clade within phylum Firmicutes,including representatives of class Clostridia, Bacilli	
+Otu000172	OTU mapped to Butyricicoccus pullicaecorum	
+Otu000175	OTU mapped to Bacteroides caccae	
+Otu000177	OTU mapped to Bacteroides caccae	
+Otu000180	OTU mapped to a clade within order Clostridiales,including representatives of family Ruminococcaceae, Oscillospiraceae	
+Otu000186	OTU mapped to Butyricicoccus pullicaecorum	
+Otu000188	OTU mapped to a clade within phylum Firmicutes,including representatives of class Clostridia, Erysipelotrichia, Bacilli	
+Otu000189	OTU mapped to Ruminococcus callidus	
+Otu000190	OTU mapped to a clade within order Clostridiales,including representatives of family Ruminococcaceae, Oscillospiraceae	
+Otu000196	OTU mapped to Lachnobacterium bovis	
+Otu000202	OTU mapped to a clade within genus Bacteroides,including representatives of species Bacteroides rodentium, Bacteroides fluxus	
+Otu000206	OTU mapped to a clade within phylum Firmicutes,including representatives of class Clostridia, Bacilli	
+Otu000226	OTU mapped to a clade within genus Bacteroides,including representatives of species Bacteroides faecis, Bacteroides acidifaciens, Bacteroides finegoldii, Bacteroides xylanisolvens, Bacteroides thetaiotaomicron, Bacteroides ovatus, Bacteroides caccae	
+Otu000253	OTU mapped to a clade within family Enterobacteriaceae,including representatives of genus Buttiauxella, Citrobacter, Raoultella, Enterobacter, Serratia, Lelliottia, Escherichia, Kluyvera, Cedecea, Klebsiella, Yokenella	
+Otu000269	OTU mapped to Bacteroides dorei	
+Otu000343	OTU mapped to a clade within order Clostridiales,including representatives of family Ruminococcaceae, Lachnospiraceae, Clostridiaceae	
+15795	Methanobrevibacter thaueri	
+15392	a clade within phylum Chlamydiae or Fusobacteria or Deinococcus-Thermus or Planctomycetes or Elusimicrobia or Spirochaetes or Fibrobacteres or Nitrospirae or Tenericutes or Chlorobi or Ignavibacteriae or Proteobacteria or Lentisphaerae or Bacteroidetes or Actinobacteria or Firmicutes or Verrucomicrobia or Chloroflexi or Deferribacteres or Gemmatimonadetes or Chrysiogenetes or Acidobacteria	Otu000038 12057 Otu000025 Otu000127 12030 11976 Otu000040 Otu000188 12210 Otu000031 12315 12562 Otu000172 Otu000186 12608 Otu000030 Otu000009 Otu000020 Otu000126 Otu000042 Otu000155 Otu000005 Otu000135 Otu000145 Otu000080 Otu000189 12589 12593 Otu000054 12603 12621 Otu000093 Otu000084 Otu000094 Otu000097 Otu000075 Otu000072 Otu000106 Otu000180 Otu000190 12645 12970 12942 13022 13059 Otu000115 Otu000143 Otu000100 Otu000171 Otu000129 Otu000051 Otu000060 13092 13096 Otu000011 Otu000095 Otu000196 Otu000062 Otu000117 Otu000044 13110 Otu000037 13140 Otu000019 Otu000045 Otu000102 Otu000152 Otu000077 Otu000118 13181 Otu000071 Otu000049 13196 Otu000085 13201 Otu000092 Otu000164 Otu000130 Otu000066 Otu000091 Otu000086 Otu000073 13219 Otu000343 Otu000162 Otu000056 13226 Otu000132 Otu000113 Otu000103 13244 Otu000052 Otu000090 Otu000074 Otu000206 12690 Otu000139 Otu000167 13261 14341 Otu000088 4030 4024 Otu000058 Otu000026 1963 4188 Otu000146 Otu000015 4417 Otu000039 Otu000083 Otu000036 11686 11752 10195 Otu000028 Otu000047 Otu000048 Otu000024 7492 7891 Otu000017 Otu000169 Otu000076 Otu000253 Otu000081 Otu000063 Otu000029 Otu000098 6016 6010 6021 Otu000033 Otu000006 6065 Otu000002 6107 Otu000089 Otu000107 Otu000032 Otu000010 Otu000108 6131 Otu000202 Otu000023 Otu000099 Otu000053 Otu000004 Otu000050 Otu000016 Otu000018 Otu000177 Otu000175 Otu000070 6141 Otu000035 Otu000008 Otu000119 Otu000013 Otu000141 Otu000027 Otu000150 Otu000226 Otu000021 Otu000105 Otu000065 Otu000007 Otu000165 Otu000269 Otu000012 Otu000014 Otu000142 Otu000001 Otu000101 Otu000134 Otu000069 Otu000124 6175 6177 Otu000064 6185 6238 Otu000043 Otu000082 Otu000148 6259 Otu000059 Otu000109 Otu000057 Otu000003 Otu000034
+15300	a clade within phylum Tenericutes or Fusobacteria or Elusimicrobia or Bacteroidetes or Proteobacteria or Firmicutes	Otu000038 12057 Otu000025 Otu000127 12030 11976 Otu000040 Otu000188 12210 Otu000031 12315 12562 Otu000172 Otu000186 12608 Otu000030 Otu000009 Otu000020 Otu000126 Otu000042 Otu000155 Otu000005 Otu000135 Otu000145 Otu000080 Otu000189 12589 12593 Otu000054 12603 12621 Otu000093 Otu000084 Otu000094 Otu000097 Otu000075 Otu000072 Otu000106 Otu000180 Otu000190 12645 12970 12942 13022 13059 Otu000115 Otu000143 Otu000100 Otu000171 Otu000129 Otu000051 Otu000060 13092 13096 Otu000011 Otu000095 Otu000196 Otu000062 Otu000117 Otu000044 13110 Otu000037 13140 Otu000019 Otu000045 Otu000102 Otu000152 Otu000077 Otu000118 13181 Otu000071 Otu000049 13196 Otu000085 13201 Otu000092 Otu000164 Otu000130 Otu000066 Otu000091 Otu000086 Otu000073 13219 Otu000343 Otu000162 Otu000056 13226 Otu000132 Otu000113 Otu000103 13244 Otu000052 Otu000090 Otu000074 Otu000206 12690 Otu000139 Otu000167 13261 14341 Otu000088
+11798	a clade within phylum Tenericutes or Planctomycetes or Acidobacteria or Ignavibacteriae or Gemmatimonadetes or Proteobacteria or Spirochaetes or Chlamydiae or Lentisphaerae or Chlorobi or Bacteroidetes or Deinococcus-Thermus or Fibrobacteres or Nitrospirae or Actinobacteria or Firmicutes or Verrucomicrobia or Chloroflexi	4030 4024 Otu000058 Otu000026 1963 4188 Otu000146 Otu000015 4417 Otu000039 Otu000083 Otu000036 11686 11752 10195 Otu000028 Otu000047 Otu000048 Otu000024 7492 7891 Otu000017 Otu000169 Otu000076 Otu000253 Otu000081 Otu000063 Otu000029 Otu000098 6016 6010 6021 Otu000033 Otu000006 6065 Otu000002 6107 Otu000089 Otu000107 Otu000032 Otu000010 Otu000108 6131 Otu000202 Otu000023 Otu000099 Otu000053 Otu000004 Otu000050 Otu000016 Otu000018 Otu000177 Otu000175 Otu000070 6141 Otu000035 Otu000008 Otu000119 Otu000013 Otu000141 Otu000027 Otu000150 Otu000226 Otu000021 Otu000105 Otu000065 Otu000007 Otu000165 Otu000269 Otu000012 Otu000014 Otu000142 Otu000001 Otu000101 Otu000134 Otu000069 Otu000124 6175 6177 Otu000064 6185 6238 Otu000043 Otu000082 Otu000148 6259 Otu000059 Otu000109 Otu000057 Otu000003 Otu000034
+13284	a clade within phylum Tenericutes or Fusobacteria or Elusimicrobia or Bacteroidetes or Proteobacteria or Firmicutes	Otu000038 12057 Otu000025 Otu000127 12030 11976 Otu000040 Otu000188 12210 Otu000031 12315 12562 Otu000172 Otu000186 12608 Otu000030 Otu000009 Otu000020 Otu000126 Otu000042 Otu000155 Otu000005 Otu000135 Otu000145 Otu000080 Otu000189 12589 12593 Otu000054 12603 12621 Otu000093 Otu000084 Otu000094 Otu000097 Otu000075 Otu000072 Otu000106 Otu000180 Otu000190 12645 12970 12942 13022 13059 Otu000115 Otu000143 Otu000100 Otu000171 Otu000129 Otu000051 Otu000060 13092 13096 Otu000011 Otu000095 Otu000196 Otu000062 Otu000117 Otu000044 13110 Otu000037 13140 Otu000019 Otu000045 Otu000102 Otu000152 Otu000077 Otu000118 13181 Otu000071 Otu000049 13196 Otu000085 13201 Otu000092 Otu000164 Otu000130 Otu000066 Otu000091 Otu000086 Otu000073 13219 Otu000343 Otu000162 Otu000056 13226 Otu000132 Otu000113 Otu000103 13244 Otu000052 Otu000090 Otu000074 Otu000206 12690 Otu000139 Otu000167 13261
+4420	a clade within phylum Tenericutes or Gemmatimonadetes or Spirochaetes or Lentisphaerae or Fibrobacteres or Nitrospirae or Actinobacteria or Firmicutes or Verrucomicrobia or Chloroflexi	4030 4024 Otu000058 Otu000026 1963 4188 Otu000146 Otu000015 4417
+11797	a clade within phylum Planctomycetes or Ignavibacteriae or Proteobacteria or Chlamydiae or Chlorobi or Bacteroidetes or Deinococcus-Thermus or Acidobacteria	Otu000039 Otu000083 Otu000036 11686 11752 10195 Otu000028 Otu000047 Otu000048 Otu000024 7492 7891 Otu000017 Otu000169 Otu000076 Otu000253 Otu000081 Otu000063 Otu000029 Otu000098 6016 6010 6021 Otu000033 Otu000006 6065 Otu000002 6107 Otu000089 Otu000107 Otu000032 Otu000010 Otu000108 6131 Otu000202 Otu000023 Otu000099 Otu000053 Otu000004 Otu000050 Otu000016 Otu000018 Otu000177 Otu000175 Otu000070 6141 Otu000035 Otu000008 Otu000119 Otu000013 Otu000141 Otu000027 Otu000150 Otu000226 Otu000021 Otu000105 Otu000065 Otu000007 Otu000165 Otu000269 Otu000012 Otu000014 Otu000142 Otu000001 Otu000101 Otu000134 Otu000069 Otu000124 6175 6177 Otu000064 6185 6238 Otu000043 Otu000082 Otu000148 6259 Otu000059 Otu000109 Otu000057 Otu000003 Otu000034
+4284	a clade within phylum Gemmatimonadetes or Lentisphaerae or Nitrospirae or Actinobacteria or Firmicutes or Verrucomicrobia or Chloroflexi	4030 4024 Otu000058 Otu000026 1963 4188 Otu000146 Otu000015
+12068	a clade within phylum Firmicutes,including representatives of class Clostridia, Negativicutes	Otu000038 12057 Otu000025 Otu000127 12030 11976 Otu000040
+13282	a clade within phylum Tenericutes or Fusobacteria or Elusimicrobia or Bacteroidetes or Proteobacteria or Firmicutes	Otu000188 12210 Otu000031 12315 12562 Otu000172 Otu000186 12608 Otu000030 Otu000009 Otu000020 Otu000126 Otu000042 Otu000155 Otu000005 Otu000135 Otu000145 Otu000080 Otu000189 12589 12593 Otu000054 12603 12621 Otu000093 Otu000084 Otu000094 Otu000097 Otu000075 Otu000072 Otu000106 Otu000180 Otu000190 12645 12970 12942 13022 13059 Otu000115 Otu000143 Otu000100 Otu000171 Otu000129 Otu000051 Otu000060 13092 13096 Otu000011 Otu000095 Otu000196 Otu000062 Otu000117 Otu000044 13110 Otu000037 13140 Otu000019 Otu000045 Otu000102 Otu000152 Otu000077 Otu000118 13181 Otu000071 Otu000049 13196 Otu000085 13201 Otu000092 Otu000164 Otu000130 Otu000066 Otu000091 Otu000086 Otu000073 13219 Otu000343 Otu000162 Otu000056 13226 Otu000132 Otu000113 Otu000103 13244 Otu000052 Otu000090 Otu000074 Otu000206 12690 Otu000139 Otu000167 13261
+4216	a clade within phylum Chloroflexi or Actinobacteria or Firmicutes	4030 4024 Otu000058 Otu000026 1963 4188 Otu000146
+4417	a clade within order Spirochaetales,including representatives of family Brachyspiraceae, Leptospiraceae	
+13260	a clade within phylum Tenericutes or Bacteroidetes or Fusobacteria or Elusimicrobia or Firmicutes	Otu000188 12210 Otu000031 12315 12562 Otu000172 Otu000186 12608 Otu000030 Otu000009 Otu000020 Otu000126 Otu000042 Otu000155 Otu000005 Otu000135 Otu000145 Otu000080 Otu000189 12589 12593 Otu000054 12603 12621 Otu000093 Otu000084 Otu000094 Otu000097 Otu000075 Otu000072 Otu000106 Otu000180 Otu000190 12645 12970 12942 13022 13059 Otu000115 Otu000143 Otu000100 Otu000171 Otu000129 Otu000051 Otu000060 13092 13096 Otu000011 Otu000095 Otu000196 Otu000062 Otu000117 Otu000044 13110 Otu000037 13140 Otu000019 Otu000045 Otu000102 Otu000152 Otu000077 Otu000118 13181 Otu000071 Otu000049 13196 Otu000085 13201 Otu000092 Otu000164 Otu000130 Otu000066 Otu000091 Otu000086 Otu000073 13219 Otu000343 Otu000162 Otu000056 13226 Otu000132 Otu000113 Otu000103 13244 Otu000052 Otu000090 Otu000074 Otu000206 12690 Otu000139 Otu000167
+11789	a clade within phylum Bacteroidetes or Deinococcus-Thermus or Chlorobi or Ignavibacteriae or Proteobacteria	Otu000036 11686 11752 10195 Otu000028 Otu000047 Otu000048 Otu000024 7492 7891 Otu000017 Otu000169 Otu000076 Otu000253 Otu000081 Otu000063 Otu000029 Otu000098 6016 6010 6021 Otu000033 Otu000006 6065 Otu000002 6107 Otu000089 Otu000107 Otu000032 Otu000010 Otu000108 6131 Otu000202 Otu000023 Otu000099 Otu000053 Otu000004 Otu000050 Otu000016 Otu000018 Otu000177 Otu000175 Otu000070 6141 Otu000035 Otu000008 Otu000119 Otu000013 Otu000141 Otu000027 Otu000150 Otu000226 Otu000021 Otu000105 Otu000065 Otu000007 Otu000165 Otu000269 Otu000012 Otu000014 Otu000142 Otu000001 Otu000101 Otu000134 Otu000069 Otu000124 6175 6177 Otu000064 6185 6238 Otu000043 Otu000082 Otu000148 6259 Otu000059 Otu000109 Otu000057 Otu000003 Otu000034
+12066	a clade within order Selenomonadales,including representatives of family Veillonellaceae, Acidaminococcaceae	12057 Otu000025 Otu000127 12030 11976 Otu000040
+12664	a clade within phylum Tenericutes or Bacteroidetes or Fusobacteria or Elusimicrobia or Firmicutes	Otu000188 12210 Otu000031 12315 12562 Otu000172 Otu000186 12608 Otu000030 Otu000009 Otu000020 Otu000126 Otu000042 Otu000155 Otu000005 Otu000135 Otu000145 Otu000080 Otu000189 12589 12593 Otu000054 12603 12621 Otu000093 Otu000084 Otu000094 Otu000097 Otu000075 Otu000072 Otu000106 Otu000180 Otu000190 12645
+13259	a clade within phylum Bacteroidetes or Firmicutes	12970 12942 13022 13059 Otu000115 Otu000143 Otu000100 Otu000171 Otu000129 Otu000051 Otu000060 13092 13096 Otu000011 Otu000095 Otu000196 Otu000062 Otu000117 Otu000044 13110 Otu000037 13140 Otu000019 Otu000045 Otu000102 Otu000152 Otu000077 Otu000118 13181 Otu000071 Otu000049 13196 Otu000085 13201 Otu000092 Otu000164 Otu000130 Otu000066 Otu000091 Otu000086 Otu000073 13219 Otu000343 Otu000162 Otu000056 13226 Otu000132 Otu000113 Otu000103 13244 Otu000052 Otu000090 Otu000074 Otu000206 12690 Otu000139
+13261	Vampirovibrio chlorellavorus	
+4090	a clade within phylum Actinobacteria or Firmicutes	4030 4024 Otu000058 Otu000026 1963
+4214	a clade within family Coriobacteriaceae,including representatives of genus Cryptobacterium, Atopobium, Olsenella, Gordonibacter, Adlercreutzia, Paraeggerthella, Coriobacterium, Eggerthella, Slackia, Denitrobacterium, Enterorhabdus, Collinsella, Asaccharobacter	4188 Otu000146
+11788	a clade within phylum Proteobacteria,including representatives of class Betaproteobacteria, Zetaproteobacteria, Alphaproteobacteria, Gammaproteobacteria	Otu000036 11686 11752 10195 Otu000028 Otu000047 Otu000048 Otu000024 7492 7891 Otu000017 Otu000169 Otu000076 Otu000253 Otu000081 Otu000063
+12065	a clade within family Veillonellaceae,including representatives of genus Mitsuokella, Propionispora, Megasphaera, Desulfosporomusa, Zymophilus, Veillonella, Centipeda, Acetonema, Pelosinus, Anaeroglobus, Sporotalea, Anaeromusa, Propionispira, Anaerovibrio, Sporomusa, Dialister, Selenomonas, Schwartzia, Allisonella, Anaerospora, Pectinatus, Psychrosinus, Sporolituus, Anaerosinus, Negativicoccus, Megamonas, Dendrosporobacter, Anaeroarcus	12057 Otu000025 Otu000127 12030 11976
+13258	a clade within phylum Firmicutes,including representatives of class Clostridia, Bacilli	12970 12942 13022 13059 Otu000115 Otu000143 Otu000100 Otu000171 Otu000129 Otu000051 Otu000060 13092 13096 Otu000011 Otu000095 Otu000196 Otu000062 Otu000117 Otu000044 13110 Otu000037 13140 Otu000019 Otu000045 Otu000102 Otu000152 Otu000077 Otu000118 13181 Otu000071 Otu000049 13196 Otu000085 13201 Otu000092 Otu000164 Otu000130 Otu000066 Otu000091 Otu000086 Otu000073 13219 Otu000343 Otu000162 Otu000056 13226 Otu000132 Otu000113 Otu000103 13244 Otu000052 Otu000090 Otu000074 Otu000206
+4188	a clade within family Coriobacteriaceae,including representatives of genus Cryptobacterium, Gordonibacter, Adlercreutzia, Paraeggerthella, Eggerthella, Slackia, Denitrobacterium, Enterorhabdus, Asaccharobacter	
+4797	a clade within family Desulfovibrionaceae,including representatives of genus Bilophila, Desulfovibrio, Lawsonia	Otu000039 Otu000083
+11784	a clade within class Alphaproteobacteria,including representatives of order Rhizobiales, Kordiimonadales, Rhodobacterales, Sphingomonadales, Caulobacterales, Kiloniellales, Parvularculales, Rhodospirillales, Sneathiellales, Rickettsiales	Otu000036 11686 11752 10195
+12064	a clade within family Veillonellaceae,including representatives of genus Anaeroglobus, Negativicoccus, Megasphaera, Dialister, Allisonella, Veillonella	12057 Otu000025 Otu000127 12030
+12579	a clade within phylum Tenericutes or Bacteroidetes or Firmicutes	Otu000188 12210 Otu000031 12315 12562
+12662	a clade within order Clostridiales,including representatives of family Ruminococcaceae, Clostridiaceae, Oscillospiraceae, Eubacteriaceae	Otu000172 Otu000186 12608 Otu000030 Otu000009 Otu000020 Otu000126 Otu000042 Otu000155 Otu000005 Otu000135 Otu000145 Otu000080 Otu000189 12589 12593 Otu000054 12603 12621 Otu000093 Otu000084 Otu000094 Otu000097 Otu000075 Otu000072 Otu000106 Otu000180 Otu000190 12645
+12896	a clade within order Clostridiales,including representatives of family Gracilibacteraceae, Clostridiaceae, Eubacteriaceae	12690 Otu000139
+13078	a clade within order Clostridiales,including representatives of family Clostridiales Family XIX. Incertae Sedis, Clostridiaceae, Clostridiales Family XI. Incertae Sedis, Clostridiales Family XII. Incertae Sedis, Clostridiales Family XIII. Incertae Sedis, Peptostreptococcaceae, Eubacteriaceae	12970 12942 13022 13059 Otu000115
+13257	a clade within phylum Firmicutes,including representatives of class Clostridia, Bacilli	Otu000143 Otu000100 Otu000171 Otu000129 Otu000051 Otu000060 13092 13096 Otu000011 Otu000095 Otu000196 Otu000062 Otu000117 Otu000044 13110 Otu000037 13140 Otu000019 Otu000045 Otu000102 Otu000152 Otu000077 Otu000118 13181 Otu000071 Otu000049 13196 Otu000085 13201 Otu000092 Otu000164 Otu000130 Otu000066 Otu000091 Otu000086 Otu000073 13219 Otu000343 Otu000162 Otu000056 13226 Otu000132 Otu000113 Otu000103 13244 Otu000052 Otu000090 Otu000074
+4070	a clade within genus Bifidobacterium,including representatives of species Bifidobacterium gallicum, Bifidobacterium boum, Bifidobacterium gallinarum, Bifidobacterium merycicum, Bifidobacterium ruminantium, Bifidobacterium adolescentis, Bifidobacterium bifidum, Bifidobacterium subtile, Bifidobacterium asteroides, Bifidobacterium breve, Bifidobacterium catenulatum, Bifidobacterium coryneforme, Bifidobacterium dentium, Bifidobacterium indicum, Bifidobacterium magnum, Bifidobacterium pseudolongum, Bifidobacterium pullorum, Bifidobacterium choerinum, Bifidobacterium saeculare, Bifidobacterium scardovii, Bifidobacterium stercoris, Bifidobacterium tsurumiense, Bifidobacterium longum, Bifidobacterium thermophilum, Bifidobacterium angulatum, Bifidobacterium animalis, Bifidobacterium pseudocatenulatum	4030 4024 Otu000058 Otu000026
+11782	a clade within class Alphaproteobacteria,including representatives of order Rhizobiales, Kordiimonadales, Rhodobacterales, Sphingomonadales, Caulobacterales, Kiloniellales, Parvularculales, Rhodospirillales, Sneathiellales, Rickettsiales	Otu000036 11686 11752
+12063	a clade within family Veillonellaceae,including representatives of genus Negativicoccus, Megasphaera, Dialister, Anaeroglobus, Allisonella	12057 Otu000025 Otu000127
+12213	a clade within phylum Firmicutes,including representatives of class Clostridia, Erysipelotrichia, Bacilli	Otu000188 12210 Otu000031
+12578	a clade within phylum Tenericutes or Bacteroidetes or Firmicutes	12315 12562
+12628	a clade within order Clostridiales,including representatives of family Ruminococcaceae, Clostridiaceae, Oscillospiraceae, Eubacteriaceae	Otu000172 Otu000186 12608 Otu000030 Otu000009 Otu000020 Otu000126 Otu000042 Otu000155 Otu000005 Otu000135 Otu000145 Otu000080 Otu000189 12589 12593 Otu000054 12603 12621 Otu000093 Otu000084 Otu000094 Otu000097 Otu000075 Otu000072 Otu000106 Otu000180 Otu000190
+12690	a clade within order Clostridiales,including representatives of family Gracilibacteraceae, Clostridiaceae	
+13004	a clade within order Clostridiales,including representatives of family Clostridiaceae, Peptostreptococcaceae, Eubacteriaceae, Clostridiales Family XI. Incertae Sedis	12970 12942
+13077	a clade within order Clostridiales,including representatives of family Eubacteriaceae, Clostridiaceae, Clostridiales Family XII. Incertae Sedis, Clostridiales Family XIII. Incertae Sedis, Peptostreptococcaceae, Clostridiales Family XIX. Incertae Sedis	13022 13059 Otu000115
+13245	a clade within phylum Firmicutes,including representatives of class Clostridia, Bacilli	Otu000143 Otu000100 Otu000171 Otu000129 Otu000051 Otu000060 13092 13096 Otu000011 Otu000095 Otu000196 Otu000062 Otu000117 Otu000044 13110 Otu000037 13140 Otu000019 Otu000045 Otu000102 Otu000152 Otu000077 Otu000118 13181 Otu000071 Otu000049 13196 Otu000085 13201 Otu000092 Otu000164 Otu000130 Otu000066 Otu000091 Otu000086 Otu000073 13219 Otu000343 Otu000162 Otu000056 13226 Otu000132 Otu000113 Otu000103 13244 Otu000052
+4032	a clade within genus Bifidobacterium,including representatives of species Bifidobacterium longum, Bifidobacterium subtile, Bifidobacterium gallicum, Bifidobacterium choerinum, Bifidobacterium breve, Bifidobacterium animalis, Bifidobacterium magnum, Bifidobacterium pseudolongum	4030 4024
+1963	a clade within phylum Actinobacteria or Firmicutes	
+9997	a clade within phylum Proteobacteria,including representatives of class Betaproteobacteria, Gammaproteobacteria	Otu000028 Otu000047 Otu000048 Otu000024 7492 7891 Otu000017 Otu000169 Otu000076 Otu000253 Otu000081 Otu000063
+11976	a clade within family Veillonellaceae,including representatives of genus Pectinatus, Mitsuokella, Anaerovibrio, Selenomonas, Schwartzia, Centipeda, Megamonas	
+12620	a clade within order Clostridiales,including representatives of family Ruminococcaceae, Clostridiaceae, Eubacteriaceae	Otu000172 Otu000186 12608 Otu000030 Otu000009 Otu000020 Otu000126 Otu000042 Otu000155 Otu000005 Otu000135 Otu000145 Otu000080 Otu000189 12589 12593 Otu000054 12603
+12627	a clade within order Clostridiales,including representatives of family Ruminococcaceae, Clostridiaceae, Oscillospiraceae	12621 Otu000093 Otu000084 Otu000094 Otu000097 Otu000075 Otu000072 Otu000106 Otu000180 Otu000190
+13241	a clade within phylum Firmicutes,including representatives of class Clostridia, Bacilli	Otu000143 Otu000100 Otu000171 Otu000129 Otu000051 Otu000060 13092 13096 Otu000011 Otu000095 Otu000196 Otu000062 Otu000117 Otu000044 13110 Otu000037 13140 Otu000019 Otu000045 Otu000102 Otu000152 Otu000077 Otu000118 13181 Otu000071 Otu000049 13196 Otu000085 13201 Otu000092 Otu000164 Otu000130 Otu000066 Otu000091 Otu000086 Otu000073 13219 Otu000343 Otu000162 Otu000056 13226 Otu000132 Otu000113 Otu000103
+13244	a clade within family Lachnospiraceae,including representatives of genus Acetitomaculum, Catonella	
+4030	a clade within genus Bifidobacterium,including representatives of species Bifidobacterium longum, Bifidobacterium breve	
+10195	a clade within genus Fodinicurvata,including representatives of species Fodinicurvata sediminis, Fodinicurvata fenggangensis	
+11686	a clade within class Alphaproteobacteria,including representatives of order Rhizobiales, Kordiimonadales, Rhodobacterales, Sphingomonadales, Caulobacterales, Parvularculales, Sneathiellales	
+11752	Kiloniella laminariae	
+12210	a clade within phylum Firmicutes,including representatives of class Erysipelotrichia, Bacilli	
+12582	Butyricicoccus pullicaecorum	Otu000172 Otu000186
+12619	a clade within order Clostridiales,including representatives of family Ruminococcaceae, Clostridiaceae, Eubacteriaceae	12608 Otu000030 Otu000009 Otu000020 Otu000126 Otu000042 Otu000155 Otu000005 Otu000135 Otu000145 Otu000080 Otu000189 12589 12593 Otu000054 12603
+12621	Clostridium viride	
+12970	a clade within order Clostridiales,including representatives of family Clostridiaceae, Eubacteriaceae	
+13067	a clade within order Clostridiales,including representatives of family Clostridiaceae, Peptostreptococcaceae	13059 Otu000115
+13085	a clade within order Clostridiales,including representatives of family Clostridiaceae, Lachnospiraceae	Otu000143 Otu000100
+13240	a clade within phylum Firmicutes,including representatives of class Clostridia, Bacilli	Otu000171 Otu000129 Otu000051 Otu000060 13092 13096 Otu000011 Otu000095 Otu000196 Otu000062 Otu000117 Otu000044 13110 Otu000037 13140 Otu000019 Otu000045 Otu000102 Otu000152 Otu000077 Otu000118 13181 Otu000071 Otu000049 13196 Otu000085 13201 Otu000092 Otu000164 Otu000130 Otu000066 Otu000091 Otu000086 Otu000073 13219 Otu000343 Otu000162 Otu000056 13226 Otu000132
+14543	a clade within order Lactobacillales,including representatives of family Streptococcaceae, Leuconostocaceae, Enterococcaceae, Lactobacillaceae	14341 Otu000088
+4053	a clade within genus Bifidobacterium,including representatives of species Bifidobacterium merycicum, Bifidobacterium ruminantium, Bifidobacterium adolescentis, Bifidobacterium stercoris, Bifidobacterium angulatum, Bifidobacterium catenulatum, Bifidobacterium dentium, Bifidobacterium pseudocatenulatum	Otu000058 Otu000026
+4024	a clade within genus Bifidobacterium,including representatives of species Bifidobacterium choerinum, Bifidobacterium animalis, Bifidobacterium pseudolongum	
+6269	a clade within phylum Bacteroidetes,including representatives of class Bacteroidia, Cytophagia	6016 6010 6021 Otu000033 Otu000006 6065 Otu000002 6107 Otu000089 Otu000107 Otu000032 Otu000010 Otu000108 6131 Otu000202 Otu000023 Otu000099 Otu000053 Otu000004 Otu000050 Otu000016 Otu000018 Otu000177 Otu000175 Otu000070 6141 Otu000035 Otu000008 Otu000119 Otu000013 Otu000141 Otu000027 Otu000150 Otu000226 Otu000021 Otu000105 Otu000065 Otu000007 Otu000165 Otu000269 Otu000012 Otu000014 Otu000142 Otu000001 Otu000101 Otu000134 Otu000069 Otu000124 6175 6177 Otu000064 6185 6238 Otu000043 Otu000082 Otu000148 6259 Otu000059 Otu000109 Otu000057 Otu000003 Otu000034
+12030	a clade within genus Veillonella,including representatives of species Veillonella denticariosi, Veillonella dispar, Veillonella rodentium, Veillonella parvula	
+12315	a clade within class Mollicutes,including representatives of order Entomoplasmatales, Acholeplasmatales, Mycoplasmatales	
+12562	Allobaculum stercoricanis	
+12618	a clade within order Clostridiales,including representatives of family Ruminococcaceae, Eubacteriaceae	12608 Otu000030 Otu000009 Otu000020 Otu000126 Otu000042 Otu000155 Otu000005 Otu000135
+12625	a clade within order Clostridiales,including representatives of family Ruminococcaceae, Oscillospiraceae	Otu000084 Otu000094 Otu000097 Otu000075 Otu000072 Otu000106 Otu000180 Otu000190
+12942	a clade within order Clostridiales,including representatives of family Peptostreptococcaceae, Clostridiales Family XI. Incertae Sedis	
+13059	a clade within genus Peptostreptococcus,including representatives of species Peptostreptococcus anaerobius, Peptostreptococcus stomatis	
+13250	Clostridium lactatifermentans	Otu000090 Otu000074
+8680	a clade within class Gammaproteobacteria,including representatives of order Oceanospirillales, Alteromonadales, Vibrionales, Aeromonadales, Pasteurellales, Pseudomonadales, Enterobacteriales, Chromatiales	7492 7891 Otu000017 Otu000169 Otu000076 Otu000253 Otu000081 Otu000063
+6248	a clade within order Bacteroidales,including representatives of family Prevotellaceae, Bacteroidaceae, Porphyromonadaceae	6016 6010 6021 Otu000033 Otu000006 6065 Otu000002 6107 Otu000089 Otu000107 Otu000032 Otu000010 Otu000108 6131 Otu000202 Otu000023 Otu000099 Otu000053 Otu000004 Otu000050 Otu000016 Otu000018 Otu000177 Otu000175 Otu000070 6141 Otu000035 Otu000008 Otu000119 Otu000013 Otu000141 Otu000027 Otu000150 Otu000226 Otu000021 Otu000105 Otu000065 Otu000007 Otu000165 Otu000269 Otu000012 Otu000014 Otu000142 Otu000001 Otu000101 Otu000134 Otu000069 Otu000124 6175 6177 Otu000064 6185 6238 Otu000043 Otu000082 Otu000148
+6267	a clade within genus Alistipes,including representatives of species Alistipes finegoldii, Alistipes indistinctus, Alistipes putredinis, Alistipes shahii, Alistipes onderdonkii	6259 Otu000059 Otu000109 Otu000057 Otu000003 Otu000034
+12058	a clade within genus Dialister,including representatives of species Dialister invisus, Dialister succinatiphilus	12057 Otu000025
+12606	a clade within order Clostridiales,including representatives of family Ruminococcaceae, Clostridiaceae, Eubacteriaceae	Otu000145 Otu000080 Otu000189 12589 12593 Otu000054 12603
+12608	Eubacterium siraeum	
+12624	Oscillibacter valericigenes	Otu000084 Otu000094 Otu000097 Otu000075 Otu000072 Otu000106
+12645	a clade within genus Clostridium,including representatives of species Clostridium hungatei, Clostridium termitidis, Clostridium cellobioparum, Clostridium cellulolyticum, Clostridium papyrosolvens, Clostridium sufflavum, Clostridium josui	
+13022	a clade within order Clostridiales,including representatives of family Clostridiales Family XIII. Incertae Sedis, Eubacteriaceae	
+13231	a clade within phylum Firmicutes,including representatives of class Clostridia, Bacilli	Otu000129 Otu000051 Otu000060 13092 13096 Otu000011 Otu000095 Otu000196 Otu000062 Otu000117 Otu000044 13110 Otu000037 13140 Otu000019 Otu000045 Otu000102 Otu000152 Otu000077 Otu000118 13181 Otu000071 Otu000049 13196 Otu000085 13201 Otu000092 Otu000164 Otu000130 Otu000066 Otu000091 Otu000086 Otu000073 13219 Otu000343 Otu000162 Otu000056 13226 Otu000132
+7492	a clade within class Gammaproteobacteria,including representatives of order Pseudomonadales, Oceanospirillales, Alteromonadales	
+6018	a clade within family Porphyromonadaceae,including representatives of genus Odoribacter, Butyricimonas	6016 6010
+6247	a clade within order Bacteroidales,including representatives of family Prevotellaceae, Bacteroidaceae, Porphyromonadaceae	6021 Otu000033 Otu000006 6065 Otu000002 6107 Otu000089 Otu000107 Otu000032 Otu000010 Otu000108 6131 Otu000202 Otu000023 Otu000099 Otu000053 Otu000004 Otu000050 Otu000016 Otu000018 Otu000177 Otu000175 Otu000070 6141 Otu000035 Otu000008 Otu000119 Otu000013 Otu000141 Otu000027 Otu000150 Otu000226 Otu000021 Otu000105 Otu000065 Otu000007 Otu000165 Otu000269 Otu000012 Otu000014 Otu000142 Otu000001 Otu000101 Otu000134 Otu000069 Otu000124 6175 6177 Otu000064 6185 6238 Otu000043 Otu000082 Otu000148
+6259	Alistipes indistinctus	
+12057	Dialister succinatiphilus	
+12602	a clade within order Clostridiales,including representatives of family Ruminococcaceae, Clostridiaceae, Eubacteriaceae	Otu000145 Otu000080 Otu000189 12589 12593 Otu000054
+12616	a clade within family Ruminococcaceae,including representatives of genus Subdoligranulum, Faecalibacterium, Gemmiger	Otu000030 Otu000009 Otu000020 Otu000126 Otu000042 Otu000155 Otu000005 Otu000135
+13109	a clade within phylum Firmicutes,including representatives of class Clostridia, Bacilli	Otu000129 Otu000051 Otu000060 13092 13096 Otu000011 Otu000095 Otu000196 Otu000062 Otu000117 Otu000044
+13230	a clade within order Clostridiales,including representatives of family Ruminococcaceae, Clostridiaceae, Lachnospiraceae, Eubacteriaceae	13110 Otu000037 13140 Otu000019 Otu000045 Otu000102 Otu000152 Otu000077 Otu000118 13181 Otu000071 Otu000049 13196 Otu000085 13201 Otu000092 Otu000164 Otu000130 Otu000066 Otu000091 Otu000086 Otu000073 13219 Otu000343 Otu000162 Otu000056 13226 Otu000132
+14341	a clade within family Lactobacillaceae,including representatives of genus Lactobacillus, Pediococcus	
+8250	a clade within class Gammaproteobacteria,including representatives of order Pasteurellales, Enterobacteriales	7891 Otu000017 Otu000169 Otu000076 Otu000253 Otu000081 Otu000063
+6016	a clade within genus Odoribacter,including representatives of species Odoribacter denticanis, Odoribacter laneus	
+6189	a clade within order Bacteroidales,including representatives of family Prevotellaceae, Bacteroidaceae, Porphyromonadaceae	6021 Otu000033 Otu000006 6065 Otu000002 6107 Otu000089 Otu000107 Otu000032 Otu000010 Otu000108 6131 Otu000202 Otu000023 Otu000099 Otu000053 Otu000004 Otu000050 Otu000016 Otu000018 Otu000177 Otu000175 Otu000070 6141 Otu000035 Otu000008 Otu000119 Otu000013 Otu000141 Otu000027 Otu000150 Otu000226 Otu000021 Otu000105 Otu000065 Otu000007 Otu000165 Otu000269 Otu000012 Otu000014 Otu000142 Otu000001 Otu000101 Otu000134 Otu000069 Otu000124 6175 6177 Otu000064 6185
+6265	a clade within genus Alistipes,including representatives of species Alistipes finegoldii, Alistipes onderdonkii, Alistipes shahii	Otu000059 Otu000109 Otu000057 Otu000003 Otu000034
+12601	a clade within genus Ruminococcus,including representatives of species Ruminococcus albus, Ruminococcus flavefaciens, Ruminococcus callidus	Otu000145 Otu000080 Otu000189
+12603	Hydrogenoanaerobacterium saccharovorans	
+12612	Faecalibacterium prausnitzii	Otu000030 Otu000009 Otu000020
+12615	a clade within family Ruminococcaceae,including representatives of genus Subdoligranulum, Gemmiger	Otu000126 Otu000042 Otu000155
+13093	a clade within phylum Firmicutes,including representatives of class Clostridia, Bacilli	Otu000129 Otu000051 Otu000060 13092
+13108	a clade within order Clostridiales,including representatives of family Lachnospiraceae, Eubacteriaceae	13096 Otu000011 Otu000095 Otu000196 Otu000062 Otu000117 Otu000044
+13164	a clade within order Clostridiales,including representatives of family Ruminococcaceae, Clostridiaceae, Lachnospiraceae	13110 Otu000037 13140 Otu000019 Otu000045 Otu000102 Otu000152 Otu000077
+13229	a clade within order Clostridiales,including representatives of family Ruminococcaceae, Lachnospiraceae, Eubacteriaceae, Clostridiaceae	Otu000118 13181 Otu000071 Otu000049 13196 Otu000085 13201 Otu000092 Otu000164 Otu000130 Otu000066 Otu000091 Otu000086 Otu000073 13219 Otu000343 Otu000162 Otu000056 13226
+8052	a clade within family Enterobacteriaceae,including representatives of genus Trabulsiella, Dickeya, Cedecea, Gibbsiella, Yokenella, Buttiauxella, Budvicia, Enterobacter, Leminorella, Pectobacterium, Obesumbacterium, Erwinia, Pragia, Tatumella, Escherichia, Cronobacter, Klebsiella, Shimwellia, Biostraticola, Yersinia, Citrobacter, Kluyvera, Hafnia, Leclercia, Raoultella, Salmonella, Mangrovibacter, Lonsdalea, Pantoea, Samsonia, Serratia, Brenneria, Shigella, Lelliottia, Pluralibacter, Kosakonia, Rahnella, Edwardsiella, Sodalis	7891 Otu000017 Otu000169 Otu000076 Otu000253 Otu000081
+6010	Butyricimonas synergistica	
+6021	a clade within genus Barnesiella,including representatives of species Barnesiella viscericola, Barnesiella intestinihominis	
+6188	a clade within order Bacteroidales,including representatives of family Prevotellaceae, Bacteroidaceae	Otu000033 Otu000006 6065 Otu000002 6107 Otu000089 Otu000107 Otu000032 Otu000010 Otu000108 6131 Otu000202 Otu000023 Otu000099 Otu000053 Otu000004 Otu000050 Otu000016 Otu000018 Otu000177 Otu000175 Otu000070 6141 Otu000035 Otu000008 Otu000119 Otu000013 Otu000141 Otu000027 Otu000150 Otu000226 Otu000021 Otu000105 Otu000065 Otu000007 Otu000165 Otu000269 Otu000012 Otu000014 Otu000142 Otu000001 Otu000101 Otu000134 Otu000069 Otu000124 6175 6177 Otu000064 6185
+6264	a clade within genus Alistipes,including representatives of species Alistipes finegoldii, Alistipes shahii	Otu000059 Otu000109 Otu000057
+12595	a clade within order Clostridiales,including representatives of family Ruminococcaceae, Clostridiaceae, Eubacteriaceae	12589 12593 Otu000054
+13091	a clade within phylum Firmicutes,including representatives of class Clostridia, Bacilli	Otu000129 Otu000051 Otu000060
+13092	Eubacterium ramulus	
+13096	a clade within genus Pseudobutyrivibrio,including representatives of species Pseudobutyrivibrio ruminis, Pseudobutyrivibrio xylanivorans	
+13107	a clade within order Clostridiales,including representatives of family Lachnospiraceae, Eubacteriaceae	Otu000011 Otu000095 Otu000196 Otu000062 Otu000117 Otu000044
+13142	a clade within genus Clostridium,including representatives of species Clostridium aerotolerans, Clostridium indolis, Clostridium symbiosum, Clostridium amygdalinum, Clostridium celerecrescens, Clostridium asparagiforme, Clostridium bolteae, Clostridium methoxybenzovorans, Clostridium algidixylanolyticum, Clostridium hathewayi, Clostridium aldenense, Clostridium citroniae, Clostridium lavalense, Clostridium sphenoides, Clostridium clostridioforme, Clostridium saccharolyticum, Clostridium xylanolyticum	13110 Otu000037 13140
+13199	a clade within order Clostridiales,including representatives of family Lachnospiraceae, Eubacteriaceae, Clostridiaceae	Otu000118 13181 Otu000071 Otu000049 13196 Otu000085
+13228	a clade within order Clostridiales,including representatives of family Ruminococcaceae, Lachnospiraceae, Eubacteriaceae, Clostridiaceae	13201 Otu000092 Otu000164 Otu000130 Otu000066 Otu000091 Otu000086 Otu000073 13219 Otu000343 Otu000162 Otu000056 13226
+6118	a clade within family Prevotellaceae,including representatives of genus Alloprevotella, Hallella, Paraprevotella, Prevotella, Xylanibacter	Otu000033 Otu000006 6065 Otu000002 6107 Otu000089
+6187	a clade within genus Bacteroides,including representatives of species Bacteroides cellulosilyticus, Bacteroides helcogenes, Bacteroides propionicifaciens, Bacteroides finegoldii, Bacteroides xylanisolvens, Bacteroides coprophilus, Bacteroides plebeius, Bacteroides coprocola, Bacteroides dorei, Bacteroides sartorii, Bacteroides pyogenes, Bacteroides stercoris, Bacteroides fragilis, Bacteroides thetaiotaomicron, Bacteroides uniformis, Bacteroides salyersiae, Bacteroides nordii, Bacteroides caccae, Bacteroides acidifaciens, Bacteroides eggerthii, Bacteroides paurosaccharolyticus, Bacteroides ovatus, Bacteroides barnesiae, Bacteroides faecis, Bacteroides graminisolvens, Bacteroides massiliensis, Bacteroides salanitronis, Bacteroides gallinarum, Bacteroides rodentium, Bacteroides chinchillae, Bacteroides coprosuis, Bacteroides clarus, Bacteroides fluxus, Bacteroides oleiciplenus, Bacteroides intestinalis	Otu000107 Otu000032 Otu000010 Otu000108 6131 Otu000202 Otu000023 Otu000099 Otu000053 Otu000004 Otu000050 Otu000016 Otu000018 Otu000177 Otu000175 Otu000070 6141 Otu000035 Otu000008 Otu000119 Otu000013 Otu000141 Otu000027 Otu000150 Otu000226 Otu000021 Otu000105 Otu000065 Otu000007 Otu000165 Otu000269 Otu000012 Otu000014 Otu000142 Otu000001 Otu000101 Otu000134 Otu000069 Otu000124 6175 6177 Otu000064 6185
+6244	a clade within genus Parabacteroides,including representatives of species Parabacteroides gordonii, Parabacteroides merdae, Parabacteroides goldsteinii, Parabacteroides johnsonii, Parabacteroides distasonis	6238 Otu000043 Otu000082 Otu000148
+6263	Alistipes shahii	Otu000059 Otu000109
+12589	Eubacterium coprostanoligenes	
+12594	a clade within order Clostridiales,including representatives of family Ruminococcaceae, Clostridiaceae	12593 Otu000054
+13106	a clade within order Clostridiales,including representatives of family Lachnospiraceae, Eubacteriaceae	Otu000011 Otu000095 Otu000196 Otu000062 Otu000117
+13128	a clade within genus Clostridium,including representatives of species Clostridium aerotolerans, Clostridium indolis, Clostridium amygdalinum, Clostridium celerecrescens, Clostridium methoxybenzovorans, Clostridium algidixylanolyticum, Clostridium hathewayi, Clostridium sphenoides, Clostridium saccharolyticum, Clostridium xylanolyticum	13110 Otu000037
+13162	a clade within order Clostridiales,including representatives of family Lachnospiraceae, Clostridiaceae	Otu000019 Otu000045 Otu000102 Otu000152 Otu000077
+13187	a clade within order Clostridiales,including representatives of family Lachnospiraceae, Eubacteriaceae, Clostridiaceae	Otu000118 13181
+13198	a clade within order Clostridiales,including representatives of family Lachnospiraceae, Eubacteriaceae	Otu000071 Otu000049 13196 Otu000085
+13224	a clade within order Clostridiales,including representatives of family Ruminococcaceae, Lachnospiraceae, Clostridiaceae	13201 Otu000092 Otu000164 Otu000130 Otu000066 Otu000091 Otu000086 Otu000073 13219 Otu000343 Otu000162 Otu000056
+6114	a clade within family Prevotellaceae,including representatives of genus Alloprevotella, Hallella, Prevotella, Xylanibacter	Otu000033 Otu000006 6065 Otu000002 6107
+6181	a clade within genus Bacteroides,including representatives of species Bacteroides cellulosilyticus, Bacteroides helcogenes, Bacteroides finegoldii, Bacteroides xylanisolvens, Bacteroides coprophilus, Bacteroides plebeius, Bacteroides coprocola, Bacteroides dorei, Bacteroides sartorii, Bacteroides stercoris, Bacteroides fragilis, Bacteroides thetaiotaomicron, Bacteroides uniformis, Bacteroides salyersiae, Bacteroides nordii, Bacteroides caccae, Bacteroides acidifaciens, Bacteroides eggerthii, Bacteroides paurosaccharolyticus, Bacteroides ovatus, Bacteroides barnesiae, Bacteroides faecis, Bacteroides graminisolvens, Bacteroides massiliensis, Bacteroides salanitronis, Bacteroides gallinarum, Bacteroides rodentium, Bacteroides chinchillae, Bacteroides clarus, Bacteroides fluxus, Bacteroides oleiciplenus, Bacteroides intestinalis	Otu000107 Otu000032 Otu000010 Otu000108 6131 Otu000202 Otu000023 Otu000099 Otu000053 Otu000004 Otu000050 Otu000016 Otu000018 Otu000177 Otu000175 Otu000070 6141 Otu000035 Otu000008 Otu000119 Otu000013 Otu000141 Otu000027 Otu000150 Otu000226 Otu000021 Otu000105 Otu000065 Otu000007 Otu000165 Otu000269 Otu000012 Otu000014 Otu000142 Otu000001 Otu000101 Otu000134 Otu000069 Otu000124 6175 6177 Otu000064
+6238	a clade within genus Parabacteroides,including representatives of species Parabacteroides gordonii, Parabacteroides goldsteinii	
+6243	a clade within genus Parabacteroides,including representatives of species Parabacteroides merdae, Parabacteroides johnsonii, Parabacteroides distasonis	Otu000043 Otu000082 Otu000148
+12593	a clade within genus Clostridium,including representatives of species Clostridium sporosphaeroides, Clostridium leptum	
+13110	Clostridium hathewayi	
+13140	a clade within genus Clostridium,including representatives of species Clostridium lavalense, Clostridium citroniae, Clostridium aldenense, Clostridium asparagiforme, Clostridium clostridioforme, Clostridium bolteae	
+13160	a clade within family Lachnospiraceae,including representatives of genus Marvinbryantia, Robinsoniella, Blautia	Otu000019 Otu000045 Otu000102 Otu000152
+13192	a clade within order Clostridiales,including representatives of family Lachnospiraceae, Eubacteriaceae	Otu000071 Otu000049
+13197	a clade within order Clostridiales,including representatives of family Lachnospiraceae, Eubacteriaceae	13196 Otu000085
+13223	a clade within order Clostridiales,including representatives of family Ruminococcaceae, Clostridiaceae, Lachnospiraceae	13201 Otu000092 Otu000164 Otu000130 Otu000066 Otu000091 Otu000086 Otu000073 13219
+13226	Eubacterium ventriosum	
+9379	a clade within family Sutterellaceae,including representatives of genus Sutterella, Parasutterella	Otu000028 Otu000047 Otu000048 Otu000024
+6161	a clade within genus Bacteroides,including representatives of species Bacteroides cellulosilyticus, Bacteroides helcogenes, Bacteroides finegoldii, Bacteroides xylanisolvens, Bacteroides stercoris, Bacteroides fragilis, Bacteroides thetaiotaomicron, Bacteroides uniformis, Bacteroides salyersiae, Bacteroides nordii, Bacteroides caccae, Bacteroides acidifaciens, Bacteroides eggerthii, Bacteroides ovatus, Bacteroides faecis, Bacteroides graminisolvens, Bacteroides gallinarum, Bacteroides rodentium, Bacteroides clarus, Bacteroides fluxus, Bacteroides oleiciplenus, Bacteroides intestinalis	Otu000107 Otu000032 Otu000010 Otu000108 6131 Otu000202 Otu000023 Otu000099 Otu000053 Otu000004 Otu000050 Otu000016 Otu000018 Otu000177 Otu000175 Otu000070 6141 Otu000035 Otu000008 Otu000119 Otu000013 Otu000141 Otu000027 Otu000150 Otu000226 Otu000021 Otu000105 Otu000065
+6180	a clade within genus Bacteroides,including representatives of species Bacteroides sartorii, Bacteroides massiliensis, Bacteroides salanitronis, Bacteroides chinchillae, Bacteroides coprophilus, Bacteroides paurosaccharolyticus, Bacteroides plebeius, Bacteroides barnesiae, Bacteroides coprocola, Bacteroides dorei	Otu000007 Otu000165 Otu000269 Otu000012 Otu000014 Otu000142 Otu000001 Otu000101 Otu000134 Otu000069 Otu000124 6175 6177 Otu000064
+6185	a clade within genus Bacteroides,including representatives of species Bacteroides coprosuis, Bacteroides propionicifaciens	
+13196	Coprococcus catus	
+13211	a clade within order Clostridiales,including representatives of family Ruminococcaceae, Clostridiaceae, Lachnospiraceae	13201 Otu000092 Otu000164 Otu000130 Otu000066 Otu000091 Otu000086
+6139	a clade within genus Bacteroides,including representatives of species Bacteroides cellulosilyticus, Bacteroides helcogenes, Bacteroides gallinarum, Bacteroides rodentium, Bacteroides stercoris, Bacteroides eggerthii, Bacteroides clarus, Bacteroides fluxus, Bacteroides oleiciplenus, Bacteroides uniformis, Bacteroides intestinalis	Otu000107 Otu000032 Otu000010 Otu000108 6131 Otu000202 Otu000023 Otu000099 Otu000053 Otu000004 Otu000050 Otu000016
+6160	a clade within genus Bacteroides,including representatives of species Bacteroides faecis, Bacteroides graminisolvens, Bacteroides acidifaciens, Bacteroides finegoldii, Bacteroides xylanisolvens, Bacteroides thetaiotaomicron, Bacteroides ovatus, Bacteroides fragilis, Bacteroides salyersiae, Bacteroides nordii, Bacteroides caccae	Otu000018 Otu000177 Otu000175 Otu000070 6141 Otu000035 Otu000008 Otu000119 Otu000013 Otu000141 Otu000027 Otu000150 Otu000226 Otu000021 Otu000105 Otu000065
+6170	a clade within genus Bacteroides,including representatives of species Bacteroides dorei, Bacteroides paurosaccharolyticus, Bacteroides sartorii, Bacteroides massiliensis, Bacteroides chinchillae	Otu000007 Otu000165 Otu000269 Otu000012 Otu000014 Otu000142 Otu000001 Otu000101 Otu000134 Otu000069 Otu000124
+6179	a clade within genus Bacteroides,including representatives of species Bacteroides plebeius, Bacteroides coprophilus, Bacteroides coprocola, Bacteroides barnesiae, Bacteroides salanitronis	6175 6177
+13103	Roseburia hominis	Otu000062 Otu000117
+13155	a clade within genus Blautia,including representatives of species Blautia wexlerae, [Ruminococcus] obeum, Blautia hansenii, Blautia coccoides, Blautia luti	Otu000102 Otu000152
+13205	a clade within order Clostridiales,including representatives of family Ruminococcaceae, Clostridiaceae, Lachnospiraceae	13201 Otu000092 Otu000164 Otu000130 Otu000066 Otu000091
+13221	a clade within order Clostridiales,including representatives of family Lachnospiraceae, Clostridiaceae	Otu000073 13219
+9377	a clade within genus Sutterella,including representatives of species Sutterella wadsworthensis, Sutterella parvirubra, Sutterella stercoricanis	Otu000047 Otu000048 Otu000024
+6123	a clade within genus Bacteroides,including representatives of species Bacteroides cellulosilyticus, Bacteroides intestinalis, Bacteroides oleiciplenus	Otu000107 Otu000032
+6138	a clade within genus Bacteroides,including representatives of species Bacteroides helcogenes, Bacteroides gallinarum, Bacteroides rodentium, Bacteroides stercoris, Bacteroides eggerthii, Bacteroides clarus, Bacteroides fluxus, Bacteroides uniformis	Otu000010 Otu000108 6131 Otu000202 Otu000023 Otu000099 Otu000053 Otu000004 Otu000050 Otu000016
+6152	a clade within genus Bacteroides,including representatives of species Bacteroides faecis, Bacteroides acidifaciens, Bacteroides finegoldii, Bacteroides xylanisolvens, Bacteroides thetaiotaomicron, Bacteroides ovatus, Bacteroides caccae	Otu000018 Otu000177 Otu000175 Otu000070 6141 Otu000035 Otu000008 Otu000119 Otu000013 Otu000141 Otu000027 Otu000150 Otu000226 Otu000021
+6169	a clade within genus Bacteroides,including representatives of species Bacteroides dorei, Bacteroides sartorii, Bacteroides massiliensis, Bacteroides chinchillae	Otu000007 Otu000165 Otu000269 Otu000012 Otu000014 Otu000142 Otu000001 Otu000101 Otu000134 Otu000069
+6175	a clade within genus Bacteroides,including representatives of species Bacteroides coprophilus, Bacteroides barnesiae, Bacteroides salanitronis	
+13201	Clostridium oroticum	
+13204	a clade within order Clostridiales,including representatives of family Ruminococcaceae, Lachnospiraceae	Otu000092 Otu000164 Otu000130 Otu000066 Otu000091
+9376	a clade within genus Sutterella,including representatives of species Sutterella parvirubra, Sutterella stercoricanis	Otu000047 Otu000048
+8002	a clade within family Enterobacteriaceae,including representatives of genus Buttiauxella, Citrobacter, Raoultella, Enterobacter, Trabulsiella, Serratia, Leclercia, Lelliottia, Shigella, Salmonella, Escherichia, Kluyvera, Kosakonia, Cedecea, Klebsiella, Yokenella	7891 Otu000017 Otu000169 Otu000076 Otu000253
+6109	a clade within family Prevotellaceae,including representatives of genus Hallella, Prevotella	Otu000006 6065 Otu000002 6107
+6130	a clade within genus Bacteroides,including representatives of species Bacteroides clarus, Bacteroides stercoris, Bacteroides gallinarum, Bacteroides eggerthii	Otu000010 Otu000108
+6137	a clade within genus Bacteroides,including representatives of species Bacteroides rodentium, Bacteroides fluxus, Bacteroides uniformis, Bacteroides helcogenes	6131 Otu000202 Otu000023 Otu000099 Otu000053 Otu000004 Otu000050 Otu000016
+6146	a clade within genus Bacteroides,including representatives of species Bacteroides xylanisolvens, Bacteroides ovatus, Bacteroides caccae, Bacteroides acidifaciens	Otu000018 Otu000177 Otu000175 Otu000070 6141 Otu000035 Otu000008 Otu000119 Otu000013 Otu000141 Otu000027 Otu000150
+6177	Bacteroides coprocola	
+13181	a clade within genus Clostridium,including representatives of species Clostridium xylanovorans, Clostridium jejuense	
+13203	Ruminococcus lactaris	Otu000092 Otu000164 Otu000130
+13219	Clostridium hylemonae	
+7899	a clade within family Enterobacteriaceae,including representatives of genus Escherichia, Shigella	7891 Otu000017 Otu000169
+6135	a clade within genus Bacteroides,including representatives of species Bacteroides rodentium, Bacteroides fluxus, Bacteroides uniformis	6131 Otu000202 Otu000023 Otu000099 Otu000053 Otu000004
+6136	Bacteroides helcogenes	Otu000050 Otu000016
+6142	a clade within genus Bacteroides,including representatives of species Bacteroides caccae, Bacteroides acidifaciens	Otu000018 Otu000177 Otu000175 Otu000070 6141 Otu000035
+6145	a clade within genus Bacteroides,including representatives of species Bacteroides xylanisolvens, Bacteroides ovatus	Otu000008 Otu000119 Otu000013 Otu000141 Otu000027 Otu000150
+6164	Bacteroides dorei	Otu000269 Otu000012 Otu000014 Otu000142 Otu000001 Otu000101 Otu000134 Otu000069
+7999	a clade within family Enterobacteriaceae,including representatives of genus Buttiauxella, Citrobacter, Raoultella, Enterobacter, Trabulsiella, Serratia, Leclercia, Lelliottia, Kosakonia, Salmonella, Escherichia, Kluyvera, Cedecea, Klebsiella, Yokenella	Otu000076 Otu000253
+7891	Shigella dysenteriae	
+6072	a clade within genus Prevotella,including representatives of species Prevotella maculosa, Prevotella multiformis, Prevotella histicola, Prevotella salivae, Prevotella copri, Prevotella denticola, Prevotella albensis, Prevotella paludivivens, Prevotella falsenii, Prevotella pallens, Prevotella corporis, Prevotella dentasini, Prevotella disiens, Prevotella intermedia, Prevotella melaninogenica, Prevotella nigrescens, Prevotella oris, Prevotella oulorum, Prevotella veroralis, Prevotella aurantiaca, Prevotella fusca, Prevotella scopos	6065 Otu000002
+6107	a clade within family Prevotellaceae,including representatives of genus Hallella, Prevotella	
+6131	Bacteroides uniformis	
+6134	a clade within genus Bacteroides,including representatives of species Bacteroides rodentium, Bacteroides fluxus	Otu000202 Otu000023 Otu000099
+6140	Bacteroides caccae	Otu000018 Otu000177 Otu000175 Otu000070
+6141	Bacteroides acidifaciens	
+6144	Bacteroides ovatus	Otu000008 Otu000119 Otu000013
+7897	a clade within family Enterobacteriaceae,including representatives of genus Escherichia, Shigella	Otu000017 Otu000169
+6065	Prevotella denticola	
+16275	a clade within phylum Thermotogae or Chlamydiae or Fusobacteria or Deinococcus-Thermus or Crenarchaeota or Planctomycetes or Elusimicrobia or Synergistetes or Spirochaetes or Fibrobacteres or Nitrospirae or Tenericutes or Chlorobi or Ignavibacteriae or Proteobacteria or Dictyoglomi or Lentisphaerae or Aquificae or Bacteroidetes or Actinobacteria or Firmicutes or Verrucomicrobia or Euryarchaeota or Chloroflexi or Deferribacteres or Caldiserica or Gemmatimonadetes or Chrysiogenetes or Thermodesulfobacteria or Acidobacteria	Otu000038 12057 Otu000025 Otu000127 12030 11976 Otu000040 Otu000188 12210 Otu000031 12315 12562 Otu000172 Otu000186 12608 Otu000030 Otu000009 Otu000020 Otu000126 Otu000042 Otu000155 Otu000005 Otu000135 Otu000145 Otu000080 Otu000189 12589 12593 Otu000054 12603 12621 Otu000093 Otu000084 Otu000094 Otu000097 Otu000075 Otu000072 Otu000106 Otu000180 Otu000190 12645 12970 12942 13022 13059 Otu000115 Otu000143 Otu000100 Otu000171 Otu000129 Otu000051 Otu000060 13092 13096 Otu000011 Otu000095 Otu000196 Otu000062 Otu000117 Otu000044 13110 Otu000037 13140 Otu000019 Otu000045 Otu000102 Otu000152 Otu000077 Otu000118 13181 Otu000071 Otu000049 13196 Otu000085 13201 Otu000092 Otu000164 Otu000130 Otu000066 Otu000091 Otu000086 Otu000073 13219 Otu000343 Otu000162 Otu000056 13226 Otu000132 Otu000113 Otu000103 13244 Otu000052 Otu000090 Otu000074 Otu000206 12690 Otu000139 Otu000167 13261 14341 Otu000088 4030 4024 Otu000058 Otu000026 1963 4188 Otu000146 Otu000015 4417 Otu000039 Otu000083 Otu000036 11686 11752 10195 Otu000028 Otu000047 Otu000048 Otu000024 7492 7891 Otu000017 Otu000169 Otu000076 Otu000253 Otu000081 Otu000063 Otu000029 Otu000098 6016 6010 6021 Otu000033 Otu000006 6065 Otu000002 6107 Otu000089 Otu000107 Otu000032 Otu000010 Otu000108 6131 Otu000202 Otu000023 Otu000099 Otu000053 Otu000004 Otu000050 Otu000016 Otu000018 Otu000177 Otu000175 Otu000070 6141 Otu000035 Otu000008 Otu000119 Otu000013 Otu000141 Otu000027 Otu000150 Otu000226 Otu000021 Otu000105 Otu000065 Otu000007 Otu000165 Otu000269 Otu000012 Otu000014 Otu000142 Otu000001 Otu000101 Otu000134 Otu000069 Otu000124 6175 6177 Otu000064 6185 6238 Otu000043 Otu000082 Otu000148 6259 Otu000059 Otu000109 Otu000057 Otu000003 Otu000034 15795

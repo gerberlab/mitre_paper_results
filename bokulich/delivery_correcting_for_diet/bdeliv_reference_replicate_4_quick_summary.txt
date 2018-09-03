@@ -1,0 +1,35 @@
+BAYES FACTOR FOR THE EMPTY RULE SET: 0.0398
+
+
+POINT SUMMARY:
+Rule list with 1 rules (overall likelihood -10.1):
+If NO rules apply: positive outcome probability 0.975 (0.67 -- 1) (log-odds: 3.66 (0.708 -- 11.1))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 4.28 (2.05 -- 6.28))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.0709 (5.26e-06 -- 0.385)):
+	 Odds of positive outcome DECREASE (log-odds change by -6.23 (-15.8 -- -4.13)), if:
+		Between time 125.000 and time 281.250, variable 12628 average is above 0.0028
+This rule applies to 29/35 (0.829) subjects in dataset, 7/29 with positive outcomes (0.241).
+
+POINT SUMMARY CLASSIFIER PERFORMANCE:
+AUC: 0.951
+Confusion matrix: 
+	[[18  4]
+	 [ 0 13]]
+
+ENSEMBLE CLASSIFIER PERFORMANCE:
+AUC: 1.000
+Confusion matrix: 
+	[[22  0]
+	 [ 0 13]]
+
+44999 total samples after 5000 burnin
+Most frequent rule list lengths (counting total number of primitives):
+	frequency	length
+	0.348		1
+	0.284		2
+	0.16		3
+	0.0713		4
+	0.0411		5

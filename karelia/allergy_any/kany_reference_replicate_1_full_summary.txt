@@ -1,0 +1,1996 @@
+BAYES FACTOR FOR THE EMPTY RULE SET: 0.135
+
+
+POINT SUMMARY:
+Rule list with 1 rules (overall likelihood -60.5):
+If NO rules apply: positive outcome probability 0.544 (0.489 -- 0.602) (log-odds: 0.176 (-0.0429 -- 0.412))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.00441 (0.0023 -- 0.0406)):
+	 Odds of positive outcome DECREASE (log-odds change by -5.6 (-6.25 -- -3.34)), if:
+		Between time 124.000 and time 512.000, variable 11740 average is above 0.0000
+This rule applies to 21/109 (0.193) subjects in dataset, 0/21 with positive outcomes (0.000).
+
+POINT SUMMARY CLASSIFIER PERFORMANCE:
+AUC: 0.675
+Confusion matrix: 
+	[[21 39]
+	 [ 0 49]]
+
+ENSEMBLE CLASSIFIER PERFORMANCE:
+AUC: 1.000
+Confusion matrix: 
+	[[33 27]
+	 [ 0 49]]
+
+22499 total samples after 2500 burnin
+Most frequent rule list lengths (counting total number of primitives):
+	frequency	length
+	0.551		1
+	0.183		2
+	0.119		0
+	0.0708		3
+	0.042		4
+
+ Best (highest posterior probability) rule list clusters: 
+Rule list cluster 0: posterior probability 0.375
+Representative rule list:
+Rule list with 1 rules (overall likelihood -60.4):
+If NO rules apply: positive outcome probability 0.556 (0.452 -- 0.657) (log-odds: 0.226 (-0.191 -- 0.65))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000159 (3.76e-11 -- 0.049)):
+	 Odds of positive outcome DECREASE (log-odds change by -8.97 (-24.2 -- -3.19)), if:
+		Between time 124.000 and time 512.000, variable 11740 average is above 0.0000
+This rule applies to 21/109 (0.193) subjects in dataset, 0/21 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.675
+Confusion matrix: 
+	[[21 39]
+	 [ 0 49]]
+
+
+Rule list cluster 1: posterior probability 0.119
+Representative rule list:
+Rule list with 0 rules (overall likelihood -75):
+If NO rules apply: positive outcome probability 0.449 (0.357 -- 0.543) (log-odds: -0.206 (-0.588 -- 0.174))
+
+Accuracy of representative rule:
+AUC: 0.500
+Confusion matrix: 
+	[[60  0]
+	 [49  0]]
+
+
+Rule list cluster 2: posterior probability 0.0669
+Representative rule list:
+Rule list with 1 rules (overall likelihood -62):
+If NO rules apply: positive outcome probability 0.543 (0.439 -- 0.642) (log-odds: 0.172 (-0.244 -- 0.585))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000139 (1.03e-10 -- 0.0545)):
+	 Odds of positive outcome DECREASE (log-odds change by -9.06 (-23.2 -- -3.02)), if:
+		Between time 124.000 and time 512.000, variable 11740 slope is below -0.0000
+This rule applies to 19/109 (0.174) subjects in dataset, 0/19 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.658
+Confusion matrix: 
+	[[19 41]
+	 [ 0 49]]
+
+
+Rule list cluster 3: posterior probability 0.0575
+Representative rule list:
+Rule list with 1 rules (overall likelihood -62):
+If NO rules apply: positive outcome probability 0.545 (0.445 -- 0.647) (log-odds: 0.18 (-0.222 -- 0.605))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000271 (4.12e-11 -- 0.0535)):
+	 Odds of positive outcome DECREASE (log-odds change by -8.39 (-24.1 -- -3.05)), if:
+		Between time 124.000 and time 512.000, variable 11782 slope is below -0.0000
+This rule applies to 19/109 (0.174) subjects in dataset, 0/19 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.658
+Confusion matrix: 
+	[[19 41]
+	 [ 0 49]]
+
+
+Rule list cluster 4: posterior probability 0.0107
+Representative rule list:
+Rule list with 1 rules (overall likelihood -50.5):
+If NO rules apply: positive outcome probability 0.000958 (7.63e-08 -- 0.0434) (log-odds: -6.95 (-16.4 -- -3.09))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.648 (0.0352 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 7.56 (3.64 -- 16.9)), if:
+		Between time 415.000 and time 609.000, variable 12580 average is below 0.0451
+		Between time 124.000 and time 512.000, variable 11740 average is below 0.0000
+This rule applies to 77/109 (0.706) subjects in dataset, 49/77 with positive outcomes (0.636).
+
+Accuracy of representative rule:
+AUC: 0.767
+Confusion matrix: 
+	[[32 28]
+	 [ 0 49]]
+
+
+Rule list cluster 5: posterior probability 0.00627
+Representative rule list:
+Rule list with 1 rules (overall likelihood -51.5):
+If NO rules apply: positive outcome probability 0.000589 (5.61e-07 -- 0.0479) (log-odds: -7.44 (-14.4 -- -2.99))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.619 (0.0205 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 7.92 (3.57 -- 15.1)), if:
+		Between time 415.000 and time 609.000, variable 12579 average is below 0.0467
+		Between time 124.000 and time 512.000, variable 11740 average is below 0.0000
+This rule applies to 78/109 (0.716) subjects in dataset, 49/78 with positive outcomes (0.628).
+
+Accuracy of representative rule:
+AUC: 0.758
+Confusion matrix: 
+	[[31 29]
+	 [ 0 49]]
+
+
+Rule list cluster 6: posterior probability 0.00547
+Representative rule list:
+Rule list with 1 rules (overall likelihood -51.5):
+If NO rules apply: positive outcome probability 0.000219 (1.83e-07 -- 0.0296) (log-odds: -8.43 (-15.5 -- -3.49))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.612 (0.0126 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 8.88 (4.07 -- 16.2)), if:
+		Between time 415.000 and time 706.000, variable 12580 average is below 0.0448
+		Between time 124.000 and time 512.000, variable 11782 slope is above -0.0000
+This rule applies to 78/109 (0.716) subjects in dataset, 49/78 with positive outcomes (0.628).
+
+Accuracy of representative rule:
+AUC: 0.758
+Confusion matrix: 
+	[[31 29]
+	 [ 0 49]]
+
+
+Rule list cluster 7: posterior probability 0.0048
+Representative rule list:
+Rule list with 1 rules (overall likelihood -65.1):
+If NO rules apply: positive outcome probability 0.519 (0.412 -- 0.618) (log-odds: 0.0741 (-0.354 -- 0.482))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000161 (2.23e-08 -- 0.0691)):
+	 Odds of positive outcome DECREASE (log-odds change by -8.8 (-17.7 -- -2.67)), if:
+		Between time 415.000 and time 706.000, variable 12580 average is above 0.0448
+This rule applies to 15/109 (0.138) subjects in dataset, 0/15 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.625
+Confusion matrix: 
+	[[15 45]
+	 [ 0 49]]
+
+
+Rule list cluster 8: posterior probability 0.00418
+Representative rule list:
+Rule list with 2 rules (overall likelihood -51.5):
+If NO rules apply: positive outcome probability 2.48e-05 (4.23e-09 -- 0.0187) (log-odds: -10.6 (-19.3 -- -3.96))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.634 (0.00202 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 11.2 (4.4 -- 19.7)), if:
+		Between time 124.000 and time 512.000, variable 11740 average is below 0.0000
+This rule applies to 88/109 (0.807) subjects in dataset, 49/88 with positive outcomes (0.557).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 4.26e-08 (1.44e-11 -- 2.07e-06)):
+	 Odds of positive outcome DECREASE (log-odds change by -6.37 (-14.4 -- -2.48)), if:
+		Between time 415.000 and time 706.000, variable 12580 average is above 0.0448
+This rule applies to 15/109 (0.138) subjects in dataset, 0/15 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.758
+Confusion matrix: 
+	[[31 29]
+	 [ 0 49]]
+
+
+Rule list cluster 9: posterior probability 0.00329
+Representative rule list:
+Rule list with 1 rules (overall likelihood -65.9):
+If NO rules apply: positive outcome probability 0.00153 (7.28e-08 -- 0.0957) (log-odds: -6.48 (-16.4 -- -2.25))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.536 (0.0125 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 6.63 (2.11 -- 16.4)), if:
+		Between time 415.000 and time 706.000, variable 12579 average is below 0.0448
+This rule applies to 95/109 (0.872) subjects in dataset, 49/95 with positive outcomes (0.516).
+
+Accuracy of representative rule:
+AUC: 0.617
+Confusion matrix: 
+	[[14 46]
+	 [ 0 49]]
+
+
+Rule list cluster 10: posterior probability 0.00289
+Representative rule list:
+Rule list with 2 rules (overall likelihood -51.5):
+If NO rules apply: positive outcome probability 0.614 (0.522 -- 0.726) (log-odds: 0.463 (0.0872 -- 0.975))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000141 (1.57e-06 -- 0.00761)):
+	 Odds of positive outcome DECREASE (log-odds change by -9.33 (-13.8 -- -5.33)), if:
+		Between time 415.000 and time 609.000, variable 12579 average is above 0.0467
+This rule applies to 13/109 (0.119) subjects in dataset, 0/13 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 7.4e-05 (7.69e-09 -- 0.00204)):
+	 Odds of positive outcome DECREASE (log-odds change by -9.97 (-19.1 -- -6.66)), if:
+		Between time 124.000 and time 512.000, variable 11740 average is above 0.0000
+This rule applies to 21/109 (0.193) subjects in dataset, 0/21 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.758
+Confusion matrix: 
+	[[31 29]
+	 [ 0 49]]
+
+
+Rule list cluster 11: posterior probability 0.00262
+Representative rule list:
+Rule list with 1 rules (overall likelihood -64.3):
+If NO rules apply: positive outcome probability 0.578 (0.478 -- 0.675) (log-odds: 0.314 (-0.088 -- 0.731))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.0847 (0.0167 -- 0.243)):
+	 Odds of positive outcome DECREASE (log-odds change by -2.69 (-4.39 -- -1.45)), if:
+		Between time 124.000 and time 512.000, variable 11782 average is above 0.0000
+This rule applies to 29/109 (0.266) subjects in dataset, 3/29 with positive outcomes (0.103).
+
+Accuracy of representative rule:
+AUC: 0.686
+Confusion matrix: 
+	[[26 34]
+	 [ 3 46]]
+
+
+Rule list cluster 12: posterior probability 0.00213
+Representative rule list:
+Rule list with 1 rules (overall likelihood -52.5):
+If NO rules apply: positive outcome probability 0.00111 (3.2e-07 -- 0.0167) (log-odds: -6.8 (-15 -- -4.08))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.606 (0.0844 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 7.23 (4.42 -- 15.5)), if:
+		Between time 415.000 and time 706.000, variable 12579 average is below 0.0448
+		Between time 124.000 and time 512.000, variable 11782 slope is above -0.0000
+This rule applies to 79/109 (0.725) subjects in dataset, 49/79 with positive outcomes (0.620).
+
+Accuracy of representative rule:
+AUC: 0.750
+Confusion matrix: 
+	[[30 30]
+	 [ 0 49]]
+
+
+Rule list cluster 13: posterior probability 0.00182
+Representative rule list:
+Rule list with 2 rules (overall likelihood -55.3):
+If NO rules apply: positive outcome probability 0.000103 (5.64e-09 -- 0.288) (log-odds: -9.18 (-19 -- -0.906))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.613 (0.000464 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 9.64 (1.51 -- 19.5)), if:
+		Between time 415.000 and time 609.000, variable 12579 average is below 0.0541
+This rule applies to 99/109 (0.908) subjects in dataset, 49/99 with positive outcomes (0.495).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1.01e-10 (1.51e-13 -- 8.87e-09)):
+	 Odds of positive outcome DECREASE (log-odds change by -13.8 (-20.3 -- -9.36)), if:
+		Between time 124.000 and time 512.000, variable 11782 slope is below -0.0000
+This rule applies to 19/109 (0.174) subjects in dataset, 0/19 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.725
+Confusion matrix: 
+	[[27 33]
+	 [ 0 49]]
+
+
+Rule list cluster 14: posterior probability 0.00147
+Representative rule list:
+Rule list with 1 rules (overall likelihood -53.4):
+If NO rules apply: positive outcome probability 0.000555 (2.13e-06 -- 0.0255) (log-odds: -7.5 (-13.1 -- -3.64))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.605 (0.0367 -- 0.998)):
+	 Odds of positive outcome INCREASE (log-odds change by 7.92 (4.23 -- 13.6)), if:
+		Between time 415.000 and time 706.000, variable 12579 average is below 0.0448
+		Between time 124.000 and time 512.000, variable 11740 slope is above -0.0000
+This rule applies to 80/109 (0.734) subjects in dataset, 49/80 with positive outcomes (0.613).
+
+Accuracy of representative rule:
+AUC: 0.742
+Confusion matrix: 
+	[[29 31]
+	 [ 0 49]]
+
+
+Rule list cluster 15: posterior probability 0.00138
+Representative rule list:
+Rule list with 1 rules (overall likelihood -67.3):
+If NO rules apply: positive outcome probability 0.494 (0.397 -- 0.6) (log-odds: -0.0249 (-0.419 -- 0.407))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1.14e-07 (1.94e-13 -- 0.00202)):
+	 Odds of positive outcome DECREASE (log-odds change by -16 (-29.2 -- -6.18)), if:
+		Between time 512.000 and time 706.000, variable sq264;size=23609; average is above 0.0011
+This rule applies to 12/109 (0.110) subjects in dataset, 0/12 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.500
+Confusion matrix: 
+	[[60  0]
+	 [49  0]]
+
+
+Rule list cluster 16: posterior probability 0.00124
+Representative rule list:
+Rule list with 1 rules (overall likelihood -66.8):
+If NO rules apply: positive outcome probability 0.252 (0.151 -- 0.413) (log-odds: -1.09 (-1.73 -- -0.352))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.638 (0.435 -- 0.832)):
+	 Odds of positive outcome INCREASE (log-odds change by 1.66 (0.825 -- 2.69)), if:
+		Between time 415.000 and time 609.000, variable 14566 average is below 0.0000
+This rule applies to 57/109 (0.523) subjects in dataset, 36/57 with positive outcomes (0.632).
+
+Accuracy of representative rule:
+AUC: 0.692
+Confusion matrix: 
+	[[39 21]
+	 [13 36]]
+
+
+Rule list cluster 17: posterior probability 0.0012
+Representative rule list:
+Rule list with 1 rules (overall likelihood -54.6):
+If NO rules apply: positive outcome probability 0.00336 (7.77e-05 -- 0.0479) (log-odds: -5.69 (-9.46 -- -2.99))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.578 (0.0985 -- 0.986)):
+	 Odds of positive outcome INCREASE (log-odds change by 6.01 (3.48 -- 9.94)), if:
+		Between time 27.000 and time 415.000, variable sq55;size=230567; slope is below 0.0000
+		Between time 124.000 and time 415.000, variable 11740 average is below 0.0000
+This rule applies to 81/109 (0.743) subjects in dataset, 49/81 with positive outcomes (0.605).
+
+Accuracy of representative rule:
+AUC: 0.733
+Confusion matrix: 
+	[[28 32]
+	 [ 0 49]]
+
+
+Rule list cluster 18: posterior probability 0.00116
+Representative rule list:
+Rule list with 1 rules (overall likelihood -68.6):
+If NO rules apply: positive outcome probability 0.483 (0.38 -- 0.591) (log-odds: -0.0669 (-0.491 -- 0.369))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 2.11e-05 (2.28e-08 -- 0.0199)):
+	 Odds of positive outcome DECREASE (log-odds change by -10.7 (-17.5 -- -3.83)), if:
+		Between time 124.000 and time 415.000, variable sq105;size=88435; average is above 0.0025
+This rule applies to 10/109 (0.092) subjects in dataset, 0/10 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.500
+Confusion matrix: 
+	[[60  0]
+	 [49  0]]
+
+
+Rule list cluster 19: posterior probability 0.00111
+Representative rule list:
+Rule list with 1 rules (overall likelihood -52.5):
+If NO rules apply: positive outcome probability 0.000381 (1.16e-05 -- 0.0023) (log-odds: -7.87 (-11.4 -- -6.07))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.636 (0.184 -- 0.98)):
+	 Odds of positive outcome INCREASE (log-odds change by 8.43 (6.38 -- 11.7)), if:
+		Between time 415.000 and time 609.000, variable 12580 average is below 0.0451
+		Between time 124.000 and time 512.000, variable 11740 slope is above -0.0000
+This rule applies to 79/109 (0.725) subjects in dataset, 49/79 with positive outcomes (0.620).
+
+Accuracy of representative rule:
+AUC: 0.750
+Confusion matrix: 
+	[[30 30]
+	 [ 0 49]]
+
+
+Rule list cluster 20: posterior probability 0.00107
+Representative rule list:
+Rule list with 1 rules (overall likelihood -68.1):
+If NO rules apply: positive outcome probability 0.00156 (2.41e-09 -- 0.103) (log-odds: -6.46 (-19.8 -- -2.16))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.525 (0.0117 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 6.56 (2.03 -- 20.2)), if:
+		Between time 221.000 and time 609.000, variable sq264;size=23609; slope is below 0.0000
+This rule applies to 98/109 (0.899) subjects in dataset, 49/98 with positive outcomes (0.500).
+
+Accuracy of representative rule:
+AUC: 0.592
+Confusion matrix: 
+	[[11 49]
+	 [ 0 49]]
+
+
+Rule list cluster 21: posterior probability 0.00107
+Representative rule list:
+Rule list with 1 rules (overall likelihood -56.4):
+If NO rules apply: positive outcome probability 0.000304 (5.2e-06 -- 0.0397) (log-odds: -8.1 (-12.2 -- -3.19))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.629 (0.0096 -- 0.987)):
+	 Odds of positive outcome INCREASE (log-odds change by 8.63 (3.46 -- 12.4)), if:
+		Between time 124.000 and time 415.000, variable 11740 average is below 0.0000
+		Between time 221.000 and time 512.000, variable sq87;size=120786; average is below 0.0066
+This rule applies to 83/109 (0.761) subjects in dataset, 49/83 with positive outcomes (0.590).
+
+Accuracy of representative rule:
+AUC: 0.717
+Confusion matrix: 
+	[[26 34]
+	 [ 0 49]]
+
+
+Rule list cluster 22: posterior probability 0.000978
+Representative rule list:
+Rule list with 2 rules (overall likelihood -53.5):
+If NO rules apply: positive outcome probability 0.000478 (1.56e-06 -- 0.0548) (log-odds: -7.64 (-13.4 -- -2.85))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1.19e-07 (6.92e-10 -- 5.84e-06)):
+	 Odds of positive outcome DECREASE (log-odds change by -8.3 (-13.4 -- -4.41)), if:
+		Between time 124.000 and time 512.000, variable 11782 slope is below -0.0000
+This rule applies to 19/109 (0.174) subjects in dataset, 0/19 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.594 (0.016 -- 0.998)):
+	 Odds of positive outcome INCREASE (log-odds change by 8.02 (3.52 -- 13.8)), if:
+		Between time 415.000 and time 803.000, variable 12580 average is below 0.0455
+This rule applies to 97/109 (0.890) subjects in dataset, 49/97 with positive outcomes (0.505).
+
+Accuracy of representative rule:
+AUC: 0.742
+Confusion matrix: 
+	[[29 31]
+	 [ 0 49]]
+
+
+Rule list cluster 23: posterior probability 0.000978
+Representative rule list:
+Rule list with 1 rules (overall likelihood -56.3):
+If NO rules apply: positive outcome probability 3.7e-05 (1.73e-07 -- 0.00561) (log-odds: -10.2 (-15.6 -- -5.18))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.619 (0.00985 -- 0.997)):
+	 Odds of positive outcome INCREASE (log-odds change by 10.7 (5.59 -- 16)), if:
+		Between time 124.000 and time 512.000, variable 11740 slope is above -0.0000
+		Between time 221.000 and time 512.000, variable sq87;size=120786; average is below 0.0066
+This rule applies to 83/109 (0.761) subjects in dataset, 49/83 with positive outcomes (0.590).
+
+Accuracy of representative rule:
+AUC: 0.717
+Confusion matrix: 
+	[[26 34]
+	 [ 0 49]]
+
+
+Rule list cluster 24: posterior probability 0.000889
+Representative rule list:
+Rule list with 1 rules (overall likelihood -64.3):
+If NO rules apply: positive outcome probability 0.526 (0.437 -- 0.648) (log-odds: 0.105 (-0.253 -- 0.611))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 6.4e-07 (5.82e-10 -- 0.000269)):
+	 Odds of positive outcome DECREASE (log-odds change by -14.4 (-21.4 -- -8.33)), if:
+		Between time 221.000 and time 512.000, variable 13148 average is above 0.0023
+		Between time 512.000 and time 803.000, variable 12618 average is above 0.1187
+This rule applies to 16/109 (0.147) subjects in dataset, 0/16 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.633
+Confusion matrix: 
+	[[16 44]
+	 [ 0 49]]
+
+
+Rule list cluster 25: posterior probability 0.000889
+Representative rule list:
+Rule list with 1 rules (overall likelihood -52.6):
+If NO rules apply: positive outcome probability 0.0026 (5.41e-06 -- 0.0366) (log-odds: -5.95 (-12.1 -- -3.27))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.638 (0.0972 -- 0.998)):
+	 Odds of positive outcome INCREASE (log-odds change by 6.52 (3.72 -- 12.4)), if:
+		Between time 415.000 and time 609.000, variable 12213 average is below 0.0436
+		Between time 124.000 and time 512.000, variable 11740 average is below 0.0000
+This rule applies to 79/109 (0.725) subjects in dataset, 49/79 with positive outcomes (0.620).
+
+Accuracy of representative rule:
+AUC: 0.750
+Confusion matrix: 
+	[[30 30]
+	 [ 0 49]]
+
+
+Rule list cluster 26: posterior probability 0.000889
+Representative rule list:
+Rule list with 2 rules (overall likelihood -58):
+If NO rules apply: positive outcome probability 0.568 (0.478 -- 0.656) (log-odds: 0.272 (-0.0874 -- 0.644))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 5.63e-05 (1.9e-12 -- 0.0697)):
+	 Odds of positive outcome DECREASE (log-odds change by -10.1 (-27.3 -- -2.86)), if:
+		Between time 512.000 and time 900.000, variable sq155;size=52821; slope is below -0.0000
+This rule applies to 8/109 (0.073) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.00195 (1.62e-09 -- 0.0299)):
+	 Odds of positive outcome DECREASE (log-odds change by -6.51 (-20.5 -- -3.75)), if:
+		Between time 124.000 and time 512.000, variable 11740 average is above 0.0000
+This rule applies to 18/109 (0.165) subjects in dataset, 0/18 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.700
+Confusion matrix: 
+	[[24 36]
+	 [ 0 49]]
+
+
+Rule list cluster 27: posterior probability 0.0008
+Representative rule list:
+Rule list with 2 rules (overall likelihood -55.3):
+If NO rules apply: positive outcome probability 0.588 (0.503 -- 0.713) (log-odds: 0.358 (0.0125 -- 0.909))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1.63e-05 (4.09e-08 -- 0.0421)):
+	 Odds of positive outcome DECREASE (log-odds change by -11.4 (-17.4 -- -3.48)), if:
+		Between time 124.000 and time 512.000, variable 11740 average is above 0.0000
+This rule applies to 20/109 (0.183) subjects in dataset, 0/20 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 6.16e-08 (5.33e-12 -- 0.000616)):
+	 Odds of positive outcome DECREASE (log-odds change by -17 (-26.3 -- -7.75)), if:
+		Between time 221.000 and time 609.000, variable sq264;size=23609; slope is above 0.0000
+This rule applies to 9/109 (0.083) subjects in dataset, 0/9 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.725
+Confusion matrix: 
+	[[27 33]
+	 [ 0 49]]
+
+
+Rule list cluster 28: posterior probability 0.0008
+Representative rule list:
+Rule list with 2 rules (overall likelihood -55.3):
+If NO rules apply: positive outcome probability 0.597 (0.505 -- 0.697) (log-odds: 0.395 (0.0214 -- 0.833))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 2.4e-06 (5.67e-10 -- 0.0132)):
+	 Odds of positive outcome DECREASE (log-odds change by -13.3 (-21.7 -- -4.71)), if:
+		Between time 124.000 and time 512.000, variable 11782 slope is below -0.0000
+This rule applies to 19/109 (0.174) subjects in dataset, 0/19 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 5.4e-05 (1.66e-08 -- 0.0301)):
+	 Odds of positive outcome DECREASE (log-odds change by -10.2 (-18.3 -- -3.87)), if:
+		Between time 415.000 and time 803.000, variable 12579 slope is below -0.0003
+This rule applies to 10/109 (0.092) subjects in dataset, 0/10 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.725
+Confusion matrix: 
+	[[27 33]
+	 [ 0 49]]
+
+
+Rule list cluster 29: posterior probability 0.000756
+Representative rule list:
+Rule list with 2 rules (overall likelihood -55.3):
+If NO rules apply: positive outcome probability 0.00742 (4.16e-06 -- 0.0534) (log-odds: -4.9 (-12.4 -- -2.87))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.597 (0.18 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 5.29 (3.38 -- 12.7)), if:
+		Between time 27.000 and time 415.000, variable 13004 slope is below 0.0000
+This rule applies to 98/109 (0.899) subjects in dataset, 49/98 with positive outcomes (0.500).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 6.25e-08 (8.71e-11 -- 9.08e-06)):
+	 Odds of positive outcome DECREASE (log-odds change by -11.7 (-18.3 -- -6.71)), if:
+		Between time 124.000 and time 512.000, variable 11740 average is above 0.0000
+This rule applies to 19/109 (0.174) subjects in dataset, 0/19 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.725
+Confusion matrix: 
+	[[27 33]
+	 [ 0 49]]
+
+
+Rule list cluster 30: posterior probability 0.000756
+Representative rule list:
+Rule list with 1 rules (overall likelihood -66.5):
+If NO rules apply: positive outcome probability 0.991 (0.936 -- 1) (log-odds: 4.65 (2.68 -- 8.4))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.385 (0.0136 -- 0.86)):
+	 Odds of positive outcome DECREASE (log-odds change by -5.12 (-8.93 -- -2.84)), if:
+		Between time 415.000 and time 803.000, variable 4070 slope is below 0.0004
+This rule applies to 99/109 (0.908) subjects in dataset, 39/99 with positive outcomes (0.394).
+
+Accuracy of representative rule:
+AUC: 0.602
+Confusion matrix: 
+	[[60  0]
+	 [39 10]]
+
+
+Rule list cluster 31: posterior probability 0.000756
+Representative rule list:
+Rule list with 2 rules (overall likelihood -55.4):
+If NO rules apply: positive outcome probability 0.00137 (2.04e-05 -- 0.04) (log-odds: -6.59 (-10.8 -- -3.18))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.619 (0.0377 -- 0.993)):
+	 Odds of positive outcome INCREASE (log-odds change by 7.08 (3.35 -- 11.5)), if:
+		Between time 415.000 and time 706.000, variable 12579 average is below 0.0469
+This rule applies to 96/109 (0.881) subjects in dataset, 49/96 with positive outcomes (0.510).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 2.04e-09 (4.19e-12 -- 7.38e-07)):
+	 Odds of positive outcome DECREASE (log-odds change by -13.4 (-19.6 -- -7.53)), if:
+		Between time 124.000 and time 512.000, variable 11740 slope is below -0.0000
+This rule applies to 17/109 (0.156) subjects in dataset, 0/17 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.725
+Confusion matrix: 
+	[[27 33]
+	 [ 0 49]]
+
+
+Rule list cluster 32: posterior probability 0.000711
+Representative rule list:
+Rule list with 2 rules (overall likelihood -60.3):
+If NO rules apply: positive outcome probability 0.00061 (4.95e-06 -- 0.0183) (log-odds: -7.4 (-12.2 -- -3.98))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.998 (0.0256 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 13.5 (3.76 -- 19.2)), if:
+		Between time 415.000 and time 803.000, variable 4070 slope is above 0.0006
+This rule applies to 7/109 (0.064) subjects in dataset, 7/7 with positive outcomes (1.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.503 (0.0283 -- 0.991)):
+	 Odds of positive outcome INCREASE (log-odds change by 7.41 (3.86 -- 12.2)), if:
+		Between time 124.000 and time 512.000, variable 11740 average is below 0.0000
+This rule applies to 94/109 (0.862) subjects in dataset, 49/94 with positive outcomes (0.521).
+
+Accuracy of representative rule:
+AUC: 0.625
+Confusion matrix: 
+	[[15 45]
+	 [ 0 49]]
+
+
+Rule list cluster 33: posterior probability 0.000711
+Representative rule list:
+Rule list with 1 rules (overall likelihood -57.7):
+If NO rules apply: positive outcome probability 0.0256 (0.000378 -- 0.127) (log-odds: -3.64 (-7.88 -- -1.93))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.582 (0.231 -- 0.991)):
+	 Odds of positive outcome INCREASE (log-odds change by 3.97 (2.44 -- 8.38)), if:
+		Between time 27.000 and time 415.000, variable sq105;size=88435; average is below 0.0041
+		Between time 124.000 and time 512.000, variable 11740 average is below 0.0000
+This rule applies to 84/109 (0.771) subjects in dataset, 49/84 with positive outcomes (0.583).
+
+Accuracy of representative rule:
+AUC: 0.708
+Confusion matrix: 
+	[[25 35]
+	 [ 0 49]]
+
+
+Rule list cluster 34: posterior probability 0.000667
+Representative rule list:
+Rule list with 2 rules (overall likelihood -60.4):
+If NO rules apply: positive outcome probability 0.555 (0.472 -- 0.644) (log-odds: 0.221 (-0.114 -- 0.595))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 6.19e-06 (1.8e-08 -- 0.0374)):
+	 Odds of positive outcome DECREASE (log-odds change by -12.2 (-18.1 -- -3.47)), if:
+		Between time 124.000 and time 512.000, variable 11740 average is above 0.0000
+This rule applies to 21/109 (0.193) subjects in dataset, 0/21 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.666 (1.64e-07 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 0.467 (-15.8 -- 13.5)), if:
+		Between time 318.000 and time 609.000, variable sq106;size=88010; average is above 0.0070
+		Between time 512.000 and time 706.000, variable 6018 average is below 0.0019
+		Between time 512.000 and time 900.000, variable 12615 average is below 0.0729
+This rule applies to 0/109 (0.000) subjects in dataset, 0/0 with positive outcomes (nan).
+
+Accuracy of representative rule:
+AUC: 0.675
+Confusion matrix: 
+	[[21 39]
+	 [ 0 49]]
+
+
+Rule list cluster 35: posterior probability 0.000667
+Representative rule list:
+Rule list with 2 rules (overall likelihood -55.3):
+If NO rules apply: positive outcome probability 0.146 (0.0202 -- 0.319) (log-odds: -1.77 (-3.88 -- -0.76))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 2.46e-07 (2.83e-10 -- 3.75e-05)):
+	 Odds of positive outcome DECREASE (log-odds change by -13.5 (-20.2 -- -8.42)), if:
+		Between time 124.000 and time 512.000, variable 11740 average is above 0.0000
+This rule applies to 21/109 (0.193) subjects in dataset, 0/21 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.606 (0.347 -- 0.948)):
+	 Odds of positive outcome INCREASE (log-odds change by 2.2 (1.13 -- 4.67)), if:
+		Between time 221.000 and time 512.000, variable sq55;size=230567; average is below 0.0072
+This rule applies to 96/109 (0.881) subjects in dataset, 48/96 with positive outcomes (0.500).
+
+Accuracy of representative rule:
+AUC: 0.740
+Confusion matrix: 
+	[[30 30]
+	 [ 1 48]]
+
+
+Rule list cluster 36: posterior probability 0.000667
+Representative rule list:
+Rule list with 1 rules (overall likelihood -53.7):
+If NO rules apply: positive outcome probability 0.0115 (0.000485 -- 0.0865) (log-odds: -4.45 (-7.63 -- -2.36))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.614 (0.166 -- 0.973)):
+	 Odds of positive outcome INCREASE (log-odds change by 4.92 (2.84 -- 8.02)), if:
+		Between time 415.000 and time 609.000, variable 12213 average is below 0.0436
+		Between time 124.000 and time 512.000, variable 11782 slope is above -0.0000
+This rule applies to 80/109 (0.734) subjects in dataset, 49/80 with positive outcomes (0.613).
+
+Accuracy of representative rule:
+AUC: 0.742
+Confusion matrix: 
+	[[29 31]
+	 [ 0 49]]
+
+
+Rule list cluster 37: posterior probability 0.000667
+Representative rule list:
+Rule list with 1 rules (overall likelihood -69.3):
+If NO rules apply: positive outcome probability 0.5 (0.386 -- 0.59) (log-odds: -0.00112 (-0.462 -- 0.366))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 9.92e-07 (2.94e-11 -- 0.00163)):
+	 Odds of positive outcome DECREASE (log-odds change by -13.8 (-24.3 -- -6.42)), if:
+		Between time 124.000 and time 512.000, variable sq60;size=200724; slope is above 0.0001
+This rule applies to 9/109 (0.083) subjects in dataset, 0/9 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.500
+Confusion matrix: 
+	[[60  0]
+	 [49  0]]
+
+
+Rule list cluster 38: posterior probability 0.000622
+Representative rule list:
+Rule list with 1 rules (overall likelihood -58.9):
+If NO rules apply: positive outcome probability 0.00213 (1.43e-06 -- 0.0309) (log-odds: -6.15 (-13.5 -- -3.45))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.556 (0.105 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 6.37 (4.01 -- 14)), if:
+		Between time 124.000 and time 512.000, variable 11740 average is below 0.0000
+		Between time 512.000 and time 900.000, variable sq264;size=23609; slope is above -0.0000
+This rule applies to 86/109 (0.789) subjects in dataset, 49/86 with positive outcomes (0.570).
+
+Accuracy of representative rule:
+AUC: 0.692
+Confusion matrix: 
+	[[23 37]
+	 [ 0 49]]
+
+
+Rule list cluster 39: posterior probability 0.000622
+Representative rule list:
+Rule list with 2 rules (overall likelihood -58.6):
+If NO rules apply: positive outcome probability 1.92e-05 (1.97e-07 -- 0.00305) (log-odds: -10.9 (-15.4 -- -5.79))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.0031 (1.21e-05 -- 0.116)):
+	 Odds of positive outcome INCREASE (log-odds change by 5.08 (-0.467 -- 8.83)), if:
+		Between time 512.000 and time 900.000, variable 4057 slope is above -0.0006
+This rule applies to 103/109 (0.945) subjects in dataset, 49/103 with positive outcomes (0.476).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.0106 (0.000791 -- 0.0683)):
+	 Odds of positive outcome INCREASE (log-odds change by 6.32 (3.72 -- 8.25)), if:
+		Between time 124.000 and time 512.000, variable 11740 average is below 0.0000
+This rule applies to 88/109 (0.807) subjects in dataset, 49/88 with positive outcomes (0.557).
+
+Accuracy of representative rule:
+AUC: 0.700
+Confusion matrix: 
+	[[24 36]
+	 [ 0 49]]
+
+
+Rule list cluster 40: posterior probability 0.000622
+Representative rule list:
+Rule list with 2 rules (overall likelihood -58.8):
+If NO rules apply: positive outcome probability 0.57 (0.475 -- 0.652) (log-odds: 0.28 (-0.0984 -- 0.627))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 9.06e-05 (1.03e-07 -- 0.036)):
+	 Odds of positive outcome DECREASE (log-odds change by -9.59 (-16.4 -- -3.57)), if:
+		Between time 124.000 and time 415.000, variable 11740 average is above 0.0000
+This rule applies to 19/109 (0.174) subjects in dataset, 0/19 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 3.68e-05 (6.21e-12 -- 0.126)):
+	 Odds of positive outcome DECREASE (log-odds change by -10.5 (-26.1 -- -2.22)), if:
+		Between time 124.000 and time 512.000, variable 12605 slope is above 0.0000
+This rule applies to 4/109 (0.037) subjects in dataset, 0/4 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.692
+Confusion matrix: 
+	[[23 37]
+	 [ 0 49]]
+
+
+Rule list cluster 41: posterior probability 0.000622
+Representative rule list:
+Rule list with 1 rules (overall likelihood -60.4):
+If NO rules apply: positive outcome probability 0.558 (0.462 -- 0.645) (log-odds: 0.233 (-0.154 -- 0.599))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 9.98e-06 (4.54e-10 -- 0.000539)):
+	 Odds of positive outcome DECREASE (log-odds change by -11.7 (-21.7 -- -7.76)), if:
+		Between time 221.000 and time 609.000, variable 11782 average is above 0.0000
+		Between time 415.000 and time 803.000, variable 13093 slope is below 0.0001
+		Between time 415.000 and time 803.000, variable 13110 slope is below 0.0000
+This rule applies to 21/109 (0.193) subjects in dataset, 0/21 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.675
+Confusion matrix: 
+	[[21 39]
+	 [ 0 49]]
+
+
+Rule list cluster 42: posterior probability 0.000622
+Representative rule list:
+Rule list with 1 rules (overall likelihood -69.3):
+If NO rules apply: positive outcome probability 0.487 (0.428 -- 0.586) (log-odds: -0.051 (-0.289 -- 0.347))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.00131 (1.7e-10 -- 0.0754)):
+	 Odds of positive outcome DECREASE (log-odds change by -6.59 (-22.4 -- -2.46)), if:
+		Between time 221.000 and time 512.000, variable sq87;size=120786; average is above 0.0059
+This rule applies to 9/109 (0.083) subjects in dataset, 0/9 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.500
+Confusion matrix: 
+	[[60  0]
+	 [49  0]]
+
+
+Rule list cluster 43: posterior probability 0.000578
+Representative rule list:
+Rule list with 1 rules (overall likelihood -66.8):
+If NO rules apply: positive outcome probability 0.726 (0.594 -- 0.845) (log-odds: 0.973 (0.381 -- 1.69))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.307 (0.139 -- 0.479)):
+	 Odds of positive outcome DECREASE (log-odds change by -1.79 (-2.79 -- -1.06)), if:
+		Between time 512.000 and time 706.000, variable 12582 average is above 0.0004
+This rule applies to 71/109 (0.651) subjects in dataset, 22/71 with positive outcomes (0.310).
+
+Accuracy of representative rule:
+AUC: 0.684
+Confusion matrix: 
+	[[49 11]
+	 [22 27]]
+
+
+Rule list cluster 44: posterior probability 0.000578
+Representative rule list:
+Rule list with 3 rules (overall likelihood -52.5):
+If NO rules apply: positive outcome probability 0.000672 (4.48e-06 -- 0.0743) (log-odds: -7.3 (-12.3 -- -2.52))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.669 (0.0122 -- 0.997)):
+	 Odds of positive outcome INCREASE (log-odds change by 8.01 (2.91 -- 13)), if:
+		Between time 124.000 and time 512.000, variable 11740 average is below 0.0000
+This rule applies to 90/109 (0.826) subjects in dataset, 49/90 with positive outcomes (0.544).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.0161 (0.000124 -- 0.844)):
+	 Odds of positive outcome INCREASE (log-odds change by 3.19 (-1.69 -- 8.99)), if:
+		Between time 124.000 and time 512.000, variable 11798 slope is above 0.0019
+		Between time 512.000 and time 900.000, variable 12627 slope is below -0.0001
+This rule applies to 2/109 (0.018) subjects in dataset, 1/2 with positive outcomes (0.500).
+
+Rule 2 (predicted positive outcome probability if only this rule is satisfied, 1.41e-09 (7.39e-16 -- 7.09e-07)):
+	 Odds of positive outcome DECREASE (log-odds change by -13.1 (-27.5 -- -6.86)), if:
+		Between time 415.000 and time 609.000, variable 12580 average is above 0.0451
+This rule applies to 14/109 (0.128) subjects in dataset, 0/14 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.750
+Confusion matrix: 
+	[[30 30]
+	 [ 0 49]]
+
+
+Rule list cluster 45: posterior probability 0.000578
+Representative rule list:
+Rule list with 2 rules (overall likelihood -59.2):
+If NO rules apply: positive outcome probability 0.999 (0.852 -- 1) (log-odds: 7.35 (1.75 -- 11.2))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.519 (0.019 -- 0.996)):
+	 Odds of positive outcome DECREASE (log-odds change by -7.27 (-11.3 -- -1.83)), if:
+		Between time 27.000 and time 415.000, variable 6152 slope is above -0.0003
+This rule applies to 99/109 (0.908) subjects in dataset, 40/99 with positive outcomes (0.404).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.00872 (1.66e-06 -- 0.649)):
+	 Odds of positive outcome DECREASE (log-odds change by -12.1 (-20.7 -- -6.74)), if:
+		Between time 221.000 and time 609.000, variable 11740 slope is below -0.0000
+This rule applies to 15/109 (0.138) subjects in dataset, 0/15 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.625
+Confusion matrix: 
+	[[15 45]
+	 [ 0 49]]
+
+
+Rule list cluster 46: posterior probability 0.000578
+Representative rule list:
+Rule list with 1 rules (overall likelihood -61.3):
+If NO rules apply: positive outcome probability 0.539 (0.458 -- 0.645) (log-odds: 0.157 (-0.169 -- 0.599))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 3.16e-06 (1.21e-08 -- 0.0422)):
+	 Odds of positive outcome DECREASE (log-odds change by -12.8 (-18.4 -- -3.28)), if:
+		Between time 124.000 and time 512.000, variable 11740 average is above 0.0000
+		Between time 221.000 and time 609.000, variable sq202;size=35898; slope is above -0.0000
+This rule applies to 20/109 (0.183) subjects in dataset, 0/20 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.667
+Confusion matrix: 
+	[[20 40]
+	 [ 0 49]]
+
+
+Rule list cluster 47: posterior probability 0.000578
+Representative rule list:
+Rule list with 1 rules (overall likelihood -66.8):
+If NO rules apply: positive outcome probability 0.999 (0.893 -- 1) (log-odds: 7.15 (2.13 -- 13.7))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.44 (0.000812 -- 0.992)):
+	 Odds of positive outcome DECREASE (log-odds change by -7.39 (-14.3 -- -2.31)), if:
+		Between time 415.000 and time 803.000, variable 4090 slope is below 0.0004
+This rule applies to 99/109 (0.908) subjects in dataset, 39/99 with positive outcomes (0.394).
+
+Accuracy of representative rule:
+AUC: 0.602
+Confusion matrix: 
+	[[60  0]
+	 [39 10]]
+
+
+Rule list cluster 48: posterior probability 0.000578
+Representative rule list:
+Rule list with 1 rules (overall likelihood -65.8):
+If NO rules apply: positive outcome probability 0.516 (0.42 -- 0.613) (log-odds: 0.0634 (-0.321 -- 0.458))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000312 (9.08e-08 -- 0.0289)):
+	 Odds of positive outcome DECREASE (log-odds change by -8.14 (-16.3 -- -3.58)), if:
+		Between time 221.000 and time 512.000, variable sq60;size=200724; average is above 0.0024
+		Between time 512.000 and time 706.000, variable 4054 average is below 0.0027
+This rule applies to 14/109 (0.128) subjects in dataset, 0/14 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.617
+Confusion matrix: 
+	[[14 46]
+	 [ 0 49]]
+
+
+Rule list cluster 49: posterior probability 0.000578
+Representative rule list:
+Rule list with 1 rules (overall likelihood -54.4):
+If NO rules apply: positive outcome probability 2.58e-06 (1.83e-09 -- 0.00542) (log-odds: -12.9 (-20.1 -- -5.21))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.617 (0.000694 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 13.3 (5.59 -- 20.7)), if:
+		Between time 512.000 and time 900.000, variable sq8;size=1459934; slope is above -0.0001
+		Between time 124.000 and time 512.000, variable 11740 average is below 0.0000
+This rule applies to 81/109 (0.743) subjects in dataset, 49/81 with positive outcomes (0.605).
+
+Accuracy of representative rule:
+AUC: 0.733
+Confusion matrix: 
+	[[28 32]
+	 [ 0 49]]
+
+
+Rule list cluster 50: posterior probability 0.000533
+Representative rule list:
+Rule list with 2 rules (overall likelihood -52.5):
+If NO rules apply: positive outcome probability 0.604 (0.498 -- 0.71) (log-odds: 0.424 (-0.00653 -- 0.893))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1.79e-05 (3.36e-08 -- 0.000299)):
+	 Odds of positive outcome DECREASE (log-odds change by -11.4 (-17.6 -- -8.54)), if:
+		Between time 124.000 and time 512.000, variable 11740 slope is below -0.0000
+This rule applies to 19/109 (0.174) subjects in dataset, 0/19 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.000315 (1.85e-06 -- 0.00896)):
+	 Odds of positive outcome DECREASE (log-odds change by -8.49 (-13.6 -- -5.13)), if:
+		Between time 415.000 and time 706.000, variable 12580 average is above 0.0448
+This rule applies to 15/109 (0.138) subjects in dataset, 0/15 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.750
+Confusion matrix: 
+	[[30 30]
+	 [ 0 49]]
+
+
+Rule list cluster 51: posterior probability 0.000533
+Representative rule list:
+Rule list with 2 rules (overall likelihood -49.5):
+If NO rules apply: positive outcome probability 0.629 (0.539 -- 0.75) (log-odds: 0.529 (0.155 -- 1.1))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000338 (6.46e-08 -- 0.0152)):
+	 Odds of positive outcome DECREASE (log-odds change by -8.52 (-17.1 -- -4.7)), if:
+		Between time 124.000 and time 512.000, variable 11740 average is above 0.0000
+		Between time 221.000 and time 512.000, variable sq107;size=84008; average is below 0.0319
+This rule applies to 19/109 (0.174) subjects in dataset, 0/19 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.0022 (6.49e-07 -- 0.0884)):
+	 Odds of positive outcome DECREASE (log-odds change by -6.64 (-14.8 -- -2.86)), if:
+		Between time 124.000 and time 512.000, variable 13148 average is above 0.0016
+		Between time 512.000 and time 803.000, variable 12616 average is above 0.1160
+This rule applies to 18/109 (0.165) subjects in dataset, 0/18 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.775
+Confusion matrix: 
+	[[33 27]
+	 [ 0 49]]
+
+
+Rule list cluster 52: posterior probability 0.000533
+Representative rule list:
+Rule list with 1 rules (overall likelihood -60.4):
+If NO rules apply: positive outcome probability 0.558 (0.461 -- 0.681) (log-odds: 0.233 (-0.157 -- 0.76))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1.31e-06 (8.89e-10 -- 0.0137)):
+	 Odds of positive outcome DECREASE (log-odds change by -13.8 (-21.1 -- -4.51)), if:
+		Between time 221.000 and time 609.000, variable 11782 average is above 0.0000
+		Between time 415.000 and time 803.000, variable 13110 slope is below 0.0000
+		Between time 415.000 and time 803.000, variable sq17;size=860785; average is below 0.0212
+This rule applies to 21/109 (0.193) subjects in dataset, 0/21 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.675
+Confusion matrix: 
+	[[21 39]
+	 [ 0 49]]
+
+
+Rule list cluster 53: posterior probability 0.000533
+Representative rule list:
+Rule list with 1 rules (overall likelihood -70.9):
+If NO rules apply: positive outcome probability 0.416 (0.325 -- 0.52) (log-odds: -0.339 (-0.731 -- 0.0792))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.914 (0.464 -- 0.992)):
+	 Odds of positive outcome INCREASE (log-odds change by 2.7 (0.195 -- 5.15)), if:
+		Between time 221.000 and time 609.000, variable sq486;size=6865; average is above 0.0009
+This rule applies to 9/109 (0.083) subjects in dataset, 8/9 with positive outcomes (0.889).
+
+Accuracy of representative rule:
+AUC: 0.573
+Confusion matrix: 
+	[[59  1]
+	 [41  8]]
+
+
+Rule list cluster 54: posterior probability 0.000533
+Representative rule list:
+Rule list with 2 rules (overall likelihood -57.9):
+If NO rules apply: positive outcome probability 0.995 (0.579 -- 1) (log-odds: 5.21 (0.319 -- 15.4))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.00555 (4.13e-07 -- 0.855)):
+	 Odds of positive outcome DECREASE (log-odds change by -10.4 (-19.9 -- -3.43)), if:
+		Between time 221.000 and time 415.000, variable sq147;size=57987; average is below 0.0079
+This rule applies to 100/109 (0.917) subjects in dataset, 40/100 with positive outcomes (0.400).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (0.999 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 4.66 (2.21 -- 7.82)), if:
+		Between time 124.000 and time 512.000, variable 11740 average is below 0.0000
+This rule applies to 88/109 (0.807) subjects in dataset, 49/88 with positive outcomes (0.557).
+
+Accuracy of representative rule:
+AUC: 0.592
+Confusion matrix: 
+	[[60  0]
+	 [40  9]]
+
+
+Rule list cluster 55: posterior probability 0.000533
+Representative rule list:
+Rule list with 1 rules (overall likelihood -67.5):
+If NO rules apply: positive outcome probability 0.986 (0.859 -- 1) (log-odds: 4.26 (1.81 -- 10.2))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.422 (0.00136 -- 0.898)):
+	 Odds of positive outcome DECREASE (log-odds change by -4.57 (-10.9 -- -2.08)), if:
+		Between time 221.000 and time 415.000, variable sq147;size=57987; average is below 0.0079
+This rule applies to 100/109 (0.917) subjects in dataset, 40/100 with positive outcomes (0.400).
+
+Accuracy of representative rule:
+AUC: 0.592
+Confusion matrix: 
+	[[60  0]
+	 [40  9]]
+
+
+Rule list cluster 56: posterior probability 0.000533
+Representative rule list:
+Rule list with 1 rules (overall likelihood -70):
+If NO rules apply: positive outcome probability 0.483 (0.384 -- 0.576) (log-odds: -0.0688 (-0.475 -- 0.308))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.00197 (6.35e-05 -- 0.0879)):
+	 Odds of positive outcome DECREASE (log-odds change by -6.16 (-9.6 -- -2.27)), if:
+		Between time 318.000 and time 706.000, variable sq140;size=62426; slope is below -0.0000
+This rule applies to 8/109 (0.073) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.500
+Confusion matrix: 
+	[[60  0]
+	 [49  0]]
+
+
+Rule list cluster 57: posterior probability 0.000533
+Representative rule list:
+Rule list with 1 rules (overall likelihood -67.9):
+If NO rules apply: positive outcome probability 0.496 (0.427 -- 0.606) (log-odds: -0.0154 (-0.295 -- 0.432))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 3.25e-07 (9.7e-12 -- 0.0189)):
+	 Odds of positive outcome DECREASE (log-odds change by -14.9 (-25.3 -- -3.94)), if:
+		Between time 27.000 and time 415.000, variable sq55;size=230567; slope is above 0.0000
+This rule applies to 11/109 (0.101) subjects in dataset, 0/11 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.500
+Confusion matrix: 
+	[[60  0]
+	 [49  0]]
+
+
+Rule list cluster 58: posterior probability 0.000489
+Representative rule list:
+Rule list with 2 rules (overall likelihood -63):
+If NO rules apply: positive outcome probability 0.00218 (3.67e-07 -- 0.561) (log-odds: -6.13 (-14.8 -- 0.246))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.507 (0.00212 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 6.15 (-0.028 -- 14.9)), if:
+		Between time 221.000 and time 609.000, variable 13141 average is below 0.0509
+This rule applies to 108/109 (0.991) subjects in dataset, 49/108 with positive outcomes (0.454).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 4.86e-08 (4.78e-12 -- 9.57e-06)):
+	 Odds of positive outcome DECREASE (log-odds change by -10.7 (-19.9 -- -5.43)), if:
+		Between time 221.000 and time 512.000, variable 11740 average is above 0.0000
+This rule applies to 17/109 (0.156) subjects in dataset, 0/17 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.650
+Confusion matrix: 
+	[[18 42]
+	 [ 0 49]]
+
+
+Rule list cluster 59: posterior probability 0.000489
+Representative rule list:
+Rule list with 2 rules (overall likelihood -56.5):
+If NO rules apply: positive outcome probability 0.000713 (2.66e-05 -- 0.031) (log-odds: -7.24 (-10.5 -- -3.44))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.547 (0.0336 -- 0.976)):
+	 Odds of positive outcome INCREASE (log-odds change by 7.43 (3.89 -- 10.9)), if:
+		Between time 124.000 and time 512.000, variable 11740 average is below 0.0000
+This rule applies to 88/109 (0.807) subjects in dataset, 49/88 with positive outcomes (0.557).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 6.07e-07 (7.72e-14 -- 7.93e-05)):
+	 Odds of positive outcome DECREASE (log-odds change by -7.07 (-22.9 -- -2.2)), if:
+		Between time 512.000 and time 900.000, variable 4057 slope is below -0.0003
+		Between time 415.000 and time 803.000, variable 6248 slope is above -0.0010
+This rule applies to 9/109 (0.083) subjects in dataset, 0/9 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.717
+Confusion matrix: 
+	[[26 34]
+	 [ 0 49]]
+
+
+Rule list cluster 60: posterior probability 0.000489
+Representative rule list:
+Rule list with 2 rules (overall likelihood -43):
+If NO rules apply: positive outcome probability 1.63e-05 (7.26e-08 -- 0.000539) (log-odds: -11 (-16.4 -- -7.52))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.419 (0.0155 -- 0.994)):
+	 Odds of positive outcome INCREASE (log-odds change by 10.7 (6.88 -- 16.1)), if:
+		Between time 124.000 and time 512.000, variable 11740 average is below 0.0000
+This rule applies to 88/109 (0.807) subjects in dataset, 49/88 with positive outcomes (0.557).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.0129 (0.000247 -- 0.227)):
+	 Odds of positive outcome INCREASE (log-odds change by 6.68 (2.72 -- 9.8)), if:
+		Between time 221.000 and time 609.000, variable 4090 slope is below -0.0003
+		Between time 124.000 and time 512.000, variable 9377 slope is below 0.0000
+		Between time 318.000 and time 706.000, variable sq237;size=28760; average is below 0.0008
+		Between time 124.000 and time 415.000, variable 14878 average is below 0.1366
+This rule applies to 29/109 (0.266) subjects in dataset, 24/29 with positive outcomes (0.828).
+
+Accuracy of representative rule:
+AUC: 0.745
+Confusion matrix: 
+	[[60  0]
+	 [25 24]]
+
+
+Rule list cluster 61: posterior probability 0.000489
+Representative rule list:
+Rule list with 1 rules (overall likelihood -61.2):
+If NO rules apply: positive outcome probability 0.544 (0.448 -- 0.651) (log-odds: 0.175 (-0.209 -- 0.623))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1.75e-05 (1.46e-08 -- 0.00159)):
+	 Odds of positive outcome DECREASE (log-odds change by -11.1 (-18.2 -- -6.62)), if:
+		Between time 124.000 and time 512.000, variable 11740 average is above 0.0000
+		Between time 221.000 and time 609.000, variable sq334;size=14189; average is below 0.0032
+This rule applies to 20/109 (0.183) subjects in dataset, 0/20 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.667
+Confusion matrix: 
+	[[20 40]
+	 [ 0 49]]
+
+
+Rule list cluster 62: posterior probability 0.000489
+Representative rule list:
+Rule list with 2 rules (overall likelihood -49.5):
+If NO rules apply: positive outcome probability 0.66 (0.541 -- 0.74) (log-odds: 0.661 (0.166 -- 1.05))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.00268 (1.18e-05 -- 0.0673)):
+	 Odds of positive outcome DECREASE (log-odds change by -6.58 (-12 -- -3.29)), if:
+		Between time 124.000 and time 512.000, variable 11740 average is above 0.0000
+This rule applies to 20/109 (0.183) subjects in dataset, 0/20 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 7.35e-08 (2.32e-10 -- 0.00523)):
+	 Odds of positive outcome DECREASE (log-odds change by -17.1 (-22.8 -- -5.91)), if:
+		Between time 124.000 and time 512.000, variable 13148 average is above 0.0016
+		Between time 512.000 and time 803.000, variable 12618 average is above 0.1153
+This rule applies to 19/109 (0.174) subjects in dataset, 0/19 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.775
+Confusion matrix: 
+	[[33 27]
+	 [ 0 49]]
+
+
+Rule list cluster 63: posterior probability 0.000489
+Representative rule list:
+Rule list with 2 rules (overall likelihood -57.9):
+If NO rules apply: positive outcome probability 0.568 (0.493 -- 0.653) (log-odds: 0.273 (-0.0264 -- 0.634))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000245 (7.25e-08 -- 0.0286)):
+	 Odds of positive outcome DECREASE (log-odds change by -8.59 (-16.7 -- -3.8)), if:
+		Between time 124.000 and time 415.000, variable 11740 average is above 0.0000
+This rule applies to 16/109 (0.147) subjects in dataset, 0/16 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1.03e-05 (3.1e-12 -- 0.00222)):
+	 Odds of positive outcome DECREASE (log-odds change by -11.8 (-26.8 -- -6.38)), if:
+		Between time 124.000 and time 512.000, variable sq113;size=80837; slope is above 0.0000
+This rule applies to 10/109 (0.092) subjects in dataset, 0/10 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.700
+Confusion matrix: 
+	[[24 36]
+	 [ 0 49]]
+
+
+Rule list cluster 64: posterior probability 0.000489
+Representative rule list:
+Rule list with 1 rules (overall likelihood -54.4):
+If NO rules apply: positive outcome probability 0.00123 (1.83e-07 -- 0.0169) (log-odds: -6.7 (-15.5 -- -4.06))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.617 (0.0733 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 7.18 (4.16 -- 16.1)), if:
+		Between time 512.000 and time 900.000, variable 4053 slope is above -0.0001
+		Between time 124.000 and time 512.000, variable 11740 average is below 0.0000
+This rule applies to 81/109 (0.743) subjects in dataset, 49/81 with positive outcomes (0.605).
+
+Accuracy of representative rule:
+AUC: 0.733
+Confusion matrix: 
+	[[28 32]
+	 [ 0 49]]
+
+
+Rule list cluster 65: posterior probability 0.000489
+Representative rule list:
+Rule list with 1 rules (overall likelihood -57.1):
+If NO rules apply: positive outcome probability 0.583 (0.496 -- 0.682) (log-odds: 0.334 (-0.0145 -- 0.765))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1.43e-06 (2.5e-15 -- 0.0067)):
+	 Odds of positive outcome DECREASE (log-odds change by -13.8 (-34 -- -5.33)), if:
+		Between time 124.000 and time 512.000, variable 11782 average is above 0.0000
+		Between time 124.000 and time 512.000, variable 11752 average is below 0.0086
+This rule applies to 25/109 (0.229) subjects in dataset, 0/25 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.708
+Confusion matrix: 
+	[[25 35]
+	 [ 0 49]]
+
+
+Rule list cluster 66: posterior probability 0.000489
+Representative rule list:
+Rule list with 1 rules (overall likelihood -54.4):
+If NO rules apply: positive outcome probability 0.000106 (2.3e-07 -- 0.0291) (log-odds: -9.15 (-15.3 -- -3.51))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.616 (0.0057 -- 0.999)):
+	 Odds of positive outcome INCREASE (log-odds change by 9.62 (3.99 -- 16)), if:
+		Between time 415.000 and time 609.000, variable 12213 average is below 0.0436
+		Between time 124.000 and time 512.000, variable 11740 slope is above -0.0000
+This rule applies to 81/109 (0.743) subjects in dataset, 49/81 with positive outcomes (0.605).
+
+Accuracy of representative rule:
+AUC: 0.733
+Confusion matrix: 
+	[[28 32]
+	 [ 0 49]]
+
+
+Rule list cluster 67: posterior probability 0.000489
+Representative rule list:
+Rule list with 1 rules (overall likelihood -68.2):
+If NO rules apply: positive outcome probability 0.398 (0.303 -- 0.521) (log-odds: -0.416 (-0.832 -- 0.0854))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.884 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 8.76 (2.45 -- 25.6)), if:
+		Between time 124.000 and time 512.000, variable sq114;size=79346; slope is above 0.0000
+This rule applies to 8/109 (0.073) subjects in dataset, 8/8 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 0.582
+Confusion matrix: 
+	[[60  0]
+	 [41  8]]
+
+
+Rule list cluster 68: posterior probability 0.000489
+Representative rule list:
+Rule list with 2 rules (overall likelihood -60.4):
+If NO rules apply: positive outcome probability 0.146 (0.0258 -- 0.375) (log-odds: -1.77 (-3.63 -- -0.51))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.571 (0.23 -- 0.911)):
+	 Odds of positive outcome INCREASE (log-odds change by 2.05 (0.558 -- 4.09)), if:
+		Between time 124.000 and time 512.000, variable sq87;size=120786; average is below 0.0048
+This rule applies to 100/109 (0.917) subjects in dataset, 48/100 with positive outcomes (0.480).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 2.26e-08 (2.3e-09 -- 6.72e-05)):
+	 Odds of positive outcome DECREASE (log-odds change by -15.8 (-18.1 -- -7.84)), if:
+		Between time 124.000 and time 512.000, variable 11740 average is above 0.0000
+This rule applies to 17/109 (0.156) subjects in dataset, 0/17 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.690
+Confusion matrix: 
+	[[24 36]
+	 [ 1 48]]
+
+
+Rule list cluster 69: posterior probability 0.000489
+Representative rule list:
+Rule list with 1 rules (overall likelihood -64.4):
+If NO rules apply: positive outcome probability 0.537 (0.439 -- 0.613) (log-odds: 0.149 (-0.243 -- 0.458))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.00042 (3.69e-10 -- 0.0618)):
+	 Odds of positive outcome DECREASE (log-odds change by -7.92 (-21.9 -- -2.87)), if:
+		Between time 221.000 and time 512.000, variable sq64;size=191421; average is above 0.0035
+		Between time 318.000 and time 706.000, variable sq159;size=51411; average is below 0.0027
+This rule applies to 16/109 (0.147) subjects in dataset, 0/16 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.633
+Confusion matrix: 
+	[[16 44]
+	 [ 0 49]]
+
+
+Rule list cluster 70: posterior probability 0.000489
+Representative rule list:
+Rule list with 1 rules (overall likelihood -64.3):
+If NO rules apply: positive outcome probability 0.525 (0.417 -- 0.609) (log-odds: 0.0995 (-0.337 -- 0.443))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 8.22e-05 (9.48e-10 -- 0.0551)):
+	 Odds of positive outcome DECREASE (log-odds change by -9.51 (-20.9 -- -2.94)), if:
+		Between time 221.000 and time 512.000, variable sq64;size=191421; average is above 0.0035
+		Between time 318.000 and time 706.000, variable sq128;size=70944; average is below 0.0003
+This rule applies to 16/109 (0.147) subjects in dataset, 0/16 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.633
+Confusion matrix: 
+	[[16 44]
+	 [ 0 49]]
+
+
+Rule list cluster 71: posterior probability 0.000444
+Representative rule list:
+Rule list with 2 rules (overall likelihood -54.5):
+If NO rules apply: positive outcome probability 0.00229 (6.97e-05 -- 0.0418) (log-odds: -6.08 (-9.57 -- -3.13))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 7.59e-07 (1.92e-13 -- 0.00214)):
+	 Odds of positive outcome DECREASE (log-odds change by -8.01 (-23.2 -- -0.0676)), if:
+		Between time 318.000 and time 706.000, variable 12615 average is above 0.0680
+		Between time 318.000 and time 706.000, variable 8002 slope is below 0.0001
+This rule applies to 1/109 (0.009) subjects in dataset, 0/1 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.581 (0.0783 -- 0.977)):
+	 Odds of positive outcome INCREASE (log-odds change by 6.41 (3.61 -- 9.83)), if:
+		Between time 124.000 and time 512.000, variable 11740 average is below 0.0000
+		Between time 221.000 and time 512.000, variable sq87;size=120786; average is below 0.0059
+This rule applies to 82/109 (0.752) subjects in dataset, 49/82 with positive outcomes (0.598).
+
+Accuracy of representative rule:
+AUC: 0.733
+Confusion matrix: 
+	[[28 32]
+	 [ 0 49]]
+
+
+Rule list cluster 72: posterior probability 0.000444
+Representative rule list:
+Rule list with 1 rules (overall likelihood -63.6):
+If NO rules apply: positive outcome probability 0.538 (0.425 -- 0.625) (log-odds: 0.153 (-0.302 -- 0.51))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1.15e-08 (2.76e-14 -- 8.46e-05)):
+	 Odds of positive outcome DECREASE (log-odds change by -18.4 (-31.4 -- -9.53)), if:
+		Between time 221.000 and time 512.000, variable 11740 average is above 0.0000
+		Between time 318.000 and time 706.000, variable sq70;size=169081; slope is above -0.0000
+This rule applies to 17/109 (0.156) subjects in dataset, 0/17 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.642
+Confusion matrix: 
+	[[17 43]
+	 [ 0 49]]
+
+
+Rule list cluster 73: posterior probability 0.000444
+Representative rule list:
+Rule list with 2 rules (overall likelihood -54.6):
+If NO rules apply: positive outcome probability 4.86e-06 (1.13e-09 -- 0.000126) (log-odds: -12.2 (-20.6 -- -8.98))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.642 (0.0625 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 12.8 (9.53 -- 20.9)), if:
+		Between time 124.000 and time 512.000, variable 11740 average is below 0.0000
+This rule applies to 89/109 (0.817) subjects in dataset, 49/89 with positive outcomes (0.551).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 2.01e-10 (1.61e-14 -- 4.03e-07)):
+	 Odds of positive outcome DECREASE (log-odds change by -10.1 (-19.5 -- -2.49)), if:
+		Between time 415.000 and time 706.000, variable 13085 average is above 0.0073
+		Between time 318.000 and time 706.000, variable sq305;size=17074; average is above 0.0001
+This rule applies to 12/109 (0.110) subjects in dataset, 0/12 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.733
+Confusion matrix: 
+	[[28 32]
+	 [ 0 49]]
+
+
+Rule list cluster 74: posterior probability 0.000444
+Representative rule list:
+Rule list with 1 rules (overall likelihood -57.2):
+If NO rules apply: positive outcome probability 0.6 (0.505 -- 0.683) (log-odds: 0.407 (0.0195 -- 0.77))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.00421 (4.57e-05 -- 0.0301)):
+	 Odds of positive outcome DECREASE (log-odds change by -5.87 (-10.4 -- -3.88)), if:
+		Between time 124.000 and time 512.000, variable 11782 average is above 0.0000
+		Between time 221.000 and time 609.000, variable sq265;size=23446; average is below 0.0004
+This rule applies to 25/109 (0.229) subjects in dataset, 0/25 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.708
+Confusion matrix: 
+	[[25 35]
+	 [ 0 49]]
+
+
+Rule list cluster 75: posterior probability 0.000444
+Representative rule list:
+Rule list with 1 rules (overall likelihood -47.6):
+If NO rules apply: positive outcome probability 0.000488 (9.83e-08 -- 0.0201) (log-odds: -7.63 (-16.1 -- -3.89))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.7 (0.0372 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 8.47 (4.37 -- 16.4)), if:
+		Between time 415.000 and time 706.000, variable 12580 average is below 0.0448
+		Between time 124.000 and time 512.000, variable 11782 slope is above -0.0000
+		Between time 124.000 and time 512.000, variable sq113;size=80837; slope is below 0.0000
+This rule applies to 74/109 (0.679) subjects in dataset, 49/74 with positive outcomes (0.662).
+
+Accuracy of representative rule:
+AUC: 0.792
+Confusion matrix: 
+	[[35 25]
+	 [ 0 49]]
+
+
+Rule list cluster 76: posterior probability 0.000444
+Representative rule list:
+Rule list with 1 rules (overall likelihood -69.4):
+If NO rules apply: positive outcome probability 1 (0.992 -- 1) (log-odds: 9.79 (4.83 -- 19.1))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.446 (6.2e-05 -- 0.992)):
+	 Odds of positive outcome DECREASE (log-odds change by -10 (-19.5 -- -4.97)), if:
+		Between time 415.000 and time 803.000, variable sq54;size=232339; slope is above -0.0000
+This rule applies to 102/109 (0.936) subjects in dataset, 42/102 with positive outcomes (0.412).
+
+Accuracy of representative rule:
+AUC: 0.571
+Confusion matrix: 
+	[[60  0]
+	 [42  7]]
+
+
+Rule list cluster 77: posterior probability 0.000444
+Representative rule list:
+Rule list with 2 rules (overall likelihood -53.5):
+If NO rules apply: positive outcome probability 4.13e-05 (1.58e-09 -- 0.00233) (log-odds: -10.1 (-20.3 -- -6.06))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.0791 (0.000832 -- 0.951)):
+	 Odds of positive outcome INCREASE (log-odds change by 7.64 (3 -- 13.1)), if:
+		Between time 221.000 and time 609.000, variable 6144 average is above 0.0537
+This rule applies to 13/109 (0.119) subjects in dataset, 11/13 with positive outcomes (0.846).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.489 (0.0147 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 10.1 (5.89 -- 20.5)), if:
+		Between time 124.000 and time 512.000, variable 11740 average is below 0.0000
+This rule applies to 88/109 (0.807) subjects in dataset, 49/88 with positive outcomes (0.557).
+
+Accuracy of representative rule:
+AUC: 0.612
+Confusion matrix: 
+	[[60  0]
+	 [38 11]]
+
+
+Rule list cluster 78: posterior probability 0.000444
+Representative rule list:
+Rule list with 1 rules (overall likelihood -59.1):
+If NO rules apply: positive outcome probability 0.0101 (0.00088 -- 0.0449) (log-odds: -4.59 (-7.04 -- -3.06))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.591 (0.184 -- 0.953)):
+	 Odds of positive outcome INCREASE (log-odds change by 4.95 (3.1 -- 7.59)), if:
+		Between time 124.000 and time 512.000, variable 11740 average is below 0.0000
+		Between time 221.000 and time 512.000, variable sq120;size=76131; average is below 0.0082
+This rule applies to 86/109 (0.789) subjects in dataset, 49/86 with positive outcomes (0.570).
+
+Accuracy of representative rule:
+AUC: 0.692
+Confusion matrix: 
+	[[23 37]
+	 [ 0 49]]
+
+
+Rule list cluster 79: posterior probability 0.000444
+Representative rule list:
+Rule list with 2 rules (overall likelihood -60.6):
+If NO rules apply: positive outcome probability 0.125 (0.000771 -- 0.95) (log-odds: -1.94 (-7.17 -- 2.95))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.999 (0.838 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 9.04 (3.59 -- 18.4)), if:
+		Between time 124.000 and time 415.000, variable 11740 average is below 0.0000
+This rule applies to 90/109 (0.826) subjects in dataset, 49/90 with positive outcomes (0.544).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 7.8e-05 (4.4e-09 -- 0.0237)):
+	 Odds of positive outcome DECREASE (log-odds change by -7.52 (-17.3 -- -1.78)), if:
+		Between time 415.000 and time 609.000, variable sq32;size=481959; average is below 0.0588
+This rule applies to 102/109 (0.936) subjects in dataset, 43/102 with positive outcomes (0.422).
+
+Accuracy of representative rule:
+AUC: 0.561
+Confusion matrix: 
+	[[60  0]
+	 [43  6]]
+
+
+Rule list cluster 80: posterior probability 0.000444
+Representative rule list:
+Rule list with 2 rules (overall likelihood -59.1):
+If NO rules apply: positive outcome probability 7.18e-06 (3.72e-08 -- 0.000184) (log-odds: -11.8 (-17.1 -- -8.6))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1.78e-09 (1.57e-18 -- 4.17e-07)):
+	 Odds of positive outcome DECREASE (log-odds change by -8.3 (-29.2 -- -2.85)), if:
+		Between time 318.000 and time 706.000, variable sq143;size=60973; average is above 0.0098
+This rule applies to 3/109 (0.028) subjects in dataset, 0/3 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.524 (0.0601 -- 0.996)):
+	 Odds of positive outcome INCREASE (log-odds change by 11.9 (9.09 -- 17.3)), if:
+		Between time 124.000 and time 512.000, variable 11740 average is below 0.0000
+This rule applies to 88/109 (0.807) subjects in dataset, 49/88 with positive outcomes (0.557).
+
+Accuracy of representative rule:
+AUC: 0.692
+Confusion matrix: 
+	[[23 37]
+	 [ 0 49]]
+
+
+Rule list cluster 81: posterior probability 0.0004
+Representative rule list:
+Rule list with 1 rules (overall likelihood -72.9):
+If NO rules apply: positive outcome probability 0.353 (0.24 -- 0.451) (log-odds: -0.607 (-1.15 -- -0.196))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.533 (0.389 -- 0.711)):
+	 Odds of positive outcome INCREASE (log-odds change by 0.739 (0.155 -- 1.5)), if:
+		Between time 512.000 and time 706.000, variable 9378 average is below 0.0074
+This rule applies to 57/109 (0.523) subjects in dataset, 31/57 with positive outcomes (0.544).
+
+Accuracy of representative rule:
+AUC: 0.600
+Confusion matrix: 
+	[[34 26]
+	 [18 31]]
+
+
+Rule list cluster 82: posterior probability 0.0004
+Representative rule list:
+Rule list with 2 rules (overall likelihood -57.1):
+If NO rules apply: positive outcome probability 0.585 (0.478 -- 0.67) (log-odds: 0.342 (-0.0862 -- 0.706))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.00202 (7.48e-07 -- 0.129)):
+	 Odds of positive outcome DECREASE (log-odds change by -6.55 (-14.4 -- -2.25)), if:
+		Between time 415.000 and time 609.000, variable 6018 average is above 0.0001
+		Between time 318.000 and time 609.000, variable 12590 average is below 0.0020
+		Between time 221.000 and time 609.000, variable sq126;size=71476; average is below 0.0021
+This rule applies to 12/109 (0.110) subjects in dataset, 0/12 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.000342 (1.15e-08 -- 0.0382)):
+	 Odds of positive outcome DECREASE (log-odds change by -8.32 (-18.6 -- -3.57)), if:
+		Between time 124.000 and time 415.000, variable 11740 average is above 0.0000
+This rule applies to 17/109 (0.156) subjects in dataset, 0/17 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.708
+Confusion matrix: 
+	[[25 35]
+	 [ 0 49]]
+
+
+Rule list cluster 83: posterior probability 0.0004
+Representative rule list:
+Rule list with 2 rules (overall likelihood -60.5):
+If NO rules apply: positive outcome probability 1.2e-05 (5.16e-11 -- 0.00185) (log-odds: -11.3 (-23.7 -- -6.29))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.57 (0.00715 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 11.6 (6.4 -- 24)), if:
+		Between time 124.000 and time 512.000, variable 11740 slope is above -0.0000
+This rule applies to 90/109 (0.826) subjects in dataset, 49/90 with positive outcomes (0.544).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 5.89e-09 (4.01e-13 -- 5.97e-06)):
+	 Odds of positive outcome DECREASE (log-odds change by -7.62 (-17.2 -- -0.696)), if:
+		Between time 512.000 and time 803.000, variable 13067 average is above 0.0286
+		Between time 124.000 and time 512.000, variable 6139 average is above 0.0361
+This rule applies to 2/109 (0.018) subjects in dataset, 0/2 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.675
+Confusion matrix: 
+	[[21 39]
+	 [ 0 49]]
+
+
+Rule list cluster 84: posterior probability 0.0004
+Representative rule list:
+Rule list with 1 rules (overall likelihood -63.6):
+If NO rules apply: positive outcome probability 0.521 (0.452 -- 0.613) (log-odds: 0.0849 (-0.192 -- 0.461))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1.07e-07 (4.8e-10 -- 2.3e-05)):
+	 Odds of positive outcome DECREASE (log-odds change by -16.1 (-21.5 -- -10.8)), if:
+		Between time 124.000 and time 512.000, variable 11740 average is above 0.0000
+		Between time 221.000 and time 609.000, variable sq564;size=5037; average is below 0.0000
+This rule applies to 17/109 (0.156) subjects in dataset, 0/17 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.642
+Confusion matrix: 
+	[[17 43]
+	 [ 0 49]]
+
+
+Rule list cluster 85: posterior probability 0.0004
+Representative rule list:
+Rule list with 1 rules (overall likelihood -58.1):
+If NO rules apply: positive outcome probability 0.00637 (0.000223 -- 0.0424) (log-odds: -5.05 (-8.41 -- -3.12))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.587 (0.138 -- 0.977)):
+	 Odds of positive outcome INCREASE (log-odds change by 5.4 (3.21 -- 8.78)), if:
+		Between time 512.000 and time 900.000, variable 12958 slope is above -0.0000
+		Between time 124.000 and time 512.000, variable 11740 average is below 0.0000
+This rule applies to 85/109 (0.780) subjects in dataset, 49/85 with positive outcomes (0.576).
+
+Accuracy of representative rule:
+AUC: 0.700
+Confusion matrix: 
+	[[24 36]
+	 [ 0 49]]
+
+
+Rule list cluster 86: posterior probability 0.0004
+Representative rule list:
+Rule list with 1 rules (overall likelihood -61.3):
+If NO rules apply: positive outcome probability 0.539 (0.459 -- 0.643) (log-odds: 0.157 (-0.165 -- 0.589))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1.17e-05 (4.04e-08 -- 0.00925)):
+	 Odds of positive outcome DECREASE (log-odds change by -11.5 (-17.2 -- -4.83)), if:
+		Between time 124.000 and time 512.000, variable 11782 average is above 0.0000
+		Between time 318.000 and time 706.000, variable 13148 average is below 0.0067
+This rule applies to 20/109 (0.183) subjects in dataset, 0/20 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.667
+Confusion matrix: 
+	[[20 40]
+	 [ 0 49]]
+
+
+Rule list cluster 87: posterior probability 0.0004
+Representative rule list:
+Rule list with 3 rules (overall likelihood -50.5):
+If NO rules apply: positive outcome probability 0.735 (0.647 -- 0.843) (log-odds: 1.02 (0.605 -- 1.68))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.00851 (0.000311 -- 0.263)):
+	 Odds of positive outcome DECREASE (log-odds change by -5.78 (-9.1 -- -2.05)), if:
+		Between time 415.000 and time 706.000, variable 12580 average is above 0.0506
+This rule applies to 11/109 (0.101) subjects in dataset, 0/11 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.0147 (6.45e-05 -- 0.121)):
+	 Odds of positive outcome DECREASE (log-odds change by -5.22 (-10.7 -- -3.01)), if:
+		Between time 124.000 and time 512.000, variable 11782 average is above 0.0000
+		Between time 512.000 and time 803.000, variable 6263 average is below 0.0030
+This rule applies to 19/109 (0.174) subjects in dataset, 0/19 with positive outcomes (0.000).
+
+Rule 2 (predicted positive outcome probability if only this rule is satisfied, 0.4 (0.225 -- 0.559)):
+	 Odds of positive outcome DECREASE (log-odds change by -1.43 (-2.26 -- -0.784)), if:
+		Between time 221.000 and time 512.000, variable sq4;size=2328586; average is above 0.0309
+This rule applies to 44/109 (0.404) subjects in dataset, 14/44 with positive outcomes (0.318).
+
+Accuracy of representative rule:
+AUC: 0.757
+Confusion matrix: 
+	[[48 12]
+	 [14 35]]
+
+
+Rule list cluster 88: posterior probability 0.0004
+Representative rule list:
+Rule list with 1 rules (overall likelihood -68.6):
+If NO rules apply: positive outcome probability 0.487 (0.429 -- 0.589) (log-odds: -0.0505 (-0.287 -- 0.358))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000813 (6.43e-06 -- 0.061)):
+	 Odds of positive outcome DECREASE (log-odds change by -7.06 (-11.9 -- -2.68)), if:
+		Between time 221.000 and time 609.000, variable sq105;size=88435; average is above 0.0024
+		Between time 221.000 and time 512.000, variable 11789 average is above 0.2407
+This rule applies to 10/109 (0.092) subjects in dataset, 0/10 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.500
+Confusion matrix: 
+	[[60  0]
+	 [49  0]]
+
+
+Rule list cluster 89: posterior probability 0.0004
+Representative rule list:
+Rule list with 2 rules (overall likelihood -55.4):
+If NO rules apply: positive outcome probability 0.00114 (7.17e-06 -- 0.00861) (log-odds: -6.77 (-11.8 -- -4.75))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.579 (0.161 -- 0.996)):
+	 Odds of positive outcome INCREASE (log-odds change by 7.09 (5.13 -- 12.3)), if:
+		Between time 124.000 and time 512.000, variable 11740 slope is above -0.0000
+		Between time 512.000 and time 900.000, variable 4057 slope is above -0.0003
+This rule applies to 83/109 (0.761) subjects in dataset, 49/83 with positive outcomes (0.590).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1.72e-06 (5.85e-11 -- 0.00164)):
+	 Odds of positive outcome DECREASE (log-odds change by -6.5 (-16.8 -- 0.36)), if:
+		Between time 318.000 and time 706.000, variable 12958 average is above 0.0075
+This rule applies to 1/109 (0.009) subjects in dataset, 0/1 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.725
+Confusion matrix: 
+	[[27 33]
+	 [ 0 49]]
+
+
+Rule list cluster 90: posterior probability 0.0004
+Representative rule list:
+Rule list with 1 rules (overall likelihood -54.9):
+If NO rules apply: positive outcome probability 0.0181 (0.000288 -- 0.15) (log-odds: -4 (-8.15 -- -1.73))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.597 (0.123 -- 0.989)):
+	 Odds of positive outcome INCREASE (log-odds change by 4.39 (2.03 -- 8.48)), if:
+		Between time 124.000 and time 512.000, variable 11740 average is below 0.0000
+		Between time 512.000 and time 900.000, variable sq123;size=72805; average is below 0.0045
+This rule applies to 81/109 (0.743) subjects in dataset, 49/81 with positive outcomes (0.605).
+
+Accuracy of representative rule:
+AUC: 0.733
+Confusion matrix: 
+	[[28 32]
+	 [ 0 49]]
+
+
+Rule list cluster 91: posterior probability 0.0004
+Representative rule list:
+Rule list with 1 rules (overall likelihood -61.3):
+If NO rules apply: positive outcome probability 0.548 (0.458 -- 0.655) (log-odds: 0.194 (-0.167 -- 0.639))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.0033 (5.03e-10 -- 0.106)):
+	 Odds of positive outcome DECREASE (log-odds change by -5.9 (-21.6 -- -2.33)), if:
+		Between time 124.000 and time 512.000, variable 11740 average is above 0.0000
+		Between time 318.000 and time 609.000, variable sq328;size=14567; average is below 0.0034
+This rule applies to 20/109 (0.183) subjects in dataset, 0/20 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.667
+Confusion matrix: 
+	[[20 40]
+	 [ 0 49]]
+
+
+Rule list cluster 92: posterior probability 0.0004
+Representative rule list:
+Rule list with 2 rules (overall likelihood -58):
+If NO rules apply: positive outcome probability 0.00152 (2.14e-06 -- 0.224) (log-odds: -6.49 (-13.1 -- -1.24))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1.9e-08 (2.07e-10 -- 5.69e-06)):
+	 Odds of positive outcome DECREASE (log-odds change by -11.3 (-15.8 -- -5.59)), if:
+		Between time 124.000 and time 512.000, variable 11740 average is above 0.0000
+This rule applies to 21/109 (0.193) subjects in dataset, 0/21 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.591 (0.0061 -- 0.999)):
+	 Odds of positive outcome INCREASE (log-odds change by 6.85 (1.39 -- 13.3)), if:
+		Between time 415.000 and time 609.000, variable 9379 average is below 0.1694
+This rule applies to 106/109 (0.972) subjects in dataset, 49/106 with positive outcomes (0.462).
+
+Accuracy of representative rule:
+AUC: 0.700
+Confusion matrix: 
+	[[24 36]
+	 [ 0 49]]
+
+
+Rule list cluster 93: posterior probability 0.0004
+Representative rule list:
+Rule list with 2 rules (overall likelihood -56.2):
+If NO rules apply: positive outcome probability 0.593 (0.499 -- 0.659) (log-odds: 0.378 (-0.00417 -- 0.657))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000966 (1.12e-05 -- 0.00971)):
+	 Odds of positive outcome DECREASE (log-odds change by -7.32 (-11.8 -- -5)), if:
+		Between time 124.000 and time 415.000, variable 11740 average is above 0.0000
+This rule applies to 18/109 (0.165) subjects in dataset, 0/18 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.00124 (2.06e-07 -- 0.0994)):
+	 Odds of positive outcome DECREASE (log-odds change by -7.07 (-15.8 -- -2.58)), if:
+		Between time 415.000 and time 706.000, variable sq290;size=18700; average is above 0.0000
+		Between time 512.000 and time 706.000, variable sq41;size=372936; average is below 0.0013
+		Between time 512.000 and time 706.000, variable 12624 average is below 0.0172
+		Between time 415.000 and time 803.000, variable sq161;size=50885; slope is above -0.0000
+This rule applies to 9/109 (0.083) subjects in dataset, 0/9 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.717
+Confusion matrix: 
+	[[26 34]
+	 [ 0 49]]
+
+
+Rule list cluster 94: posterior probability 0.0004
+Representative rule list:
+Rule list with 1 rules (overall likelihood -49.5):
+If NO rules apply: positive outcome probability 0.000852 (3.35e-05 -- 0.00631) (log-odds: -7.07 (-10.3 -- -5.06))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.663 (0.151 -- 0.983)):
+	 Odds of positive outcome INCREASE (log-odds change by 7.75 (5.34 -- 11.1)), if:
+		Between time 415.000 and time 803.000, variable 12580 average is below 0.0440
+		Between time 512.000 and time 900.000, variable 9377 average is below 0.0938
+		Between time 124.000 and time 512.000, variable 11740 slope is above -0.0000
+This rule applies to 76/109 (0.697) subjects in dataset, 49/76 with positive outcomes (0.645).
+
+Accuracy of representative rule:
+AUC: 0.775
+Confusion matrix: 
+	[[33 27]
+	 [ 0 49]]
+
+
+Rule list cluster 95: posterior probability 0.0004
+Representative rule list:
+Rule list with 2 rules (overall likelihood -57.6):
+If NO rules apply: positive outcome probability 0.513 (0.405 -- 0.625) (log-odds: 0.053 (-0.385 -- 0.512))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.995 (0.839 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 5.17 (1.6 -- 11.2)), if:
+		Between time 27.000 and time 415.000, variable sq179;size=43183; slope is above 0.0000
+This rule applies to 9/109 (0.083) subjects in dataset, 7/9 with positive outcomes (0.778).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 9.76e-05 (3.01e-07 -- 0.00158)):
+	 Odds of positive outcome DECREASE (log-odds change by -9.29 (-15.1 -- -6.5)), if:
+		Between time 124.000 and time 512.000, variable 11782 slope is below -0.0000
+This rule applies to 19/109 (0.174) subjects in dataset, 0/19 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.658
+Confusion matrix: 
+	[[19 41]
+	 [ 0 49]]
+
+
+Rule list cluster 96: posterior probability 0.0004
+Representative rule list:
+Rule list with 1 rules (overall likelihood -69.1):
+If NO rules apply: positive outcome probability 0.404 (0.295 -- 0.49) (log-odds: -0.388 (-0.869 -- -0.0413))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.987 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 8.62 (4.74 -- 19.1)), if:
+		Between time 124.000 and time 415.000, variable sq168;size=46687; average is above 0.0038
+This rule applies to 7/109 (0.064) subjects in dataset, 7/7 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 0.571
+Confusion matrix: 
+	[[60  0]
+	 [42  7]]
+
+
+Rule list cluster 97: posterior probability 0.0004
+Representative rule list:
+Rule list with 1 rules (overall likelihood -69.1):
+If NO rules apply: positive outcome probability 0.425 (0.322 -- 0.515) (log-odds: -0.303 (-0.746 -- 0.062))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.995 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 13.6 (5.56 -- 27.9)), if:
+		Between time 512.000 and time 803.000, variable sq146;size=59405; average is above 0.0030
+This rule applies to 7/109 (0.064) subjects in dataset, 7/7 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 0.571
+Confusion matrix: 
+	[[60  0]
+	 [42  7]]
+
+
+Rule list cluster 98: posterior probability 0.0004
+Representative rule list:
+Rule list with 2 rules (overall likelihood -58.8):
+If NO rules apply: positive outcome probability 0.000472 (6.41e-06 -- 0.00805) (log-odds: -7.66 (-12 -- -4.81))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1.52e-07 (2.21e-11 -- 0.000314)):
+	 Odds of positive outcome DECREASE (log-odds change by -8.04 (-16.9 -- -0.407)), if:
+		Between time 318.000 and time 706.000, variable sq143;size=60973; average is above 0.0098
+		Between time 124.000 and time 512.000, variable 12576 slope is below 0.0001
+This rule applies to 3/109 (0.028) subjects in dataset, 0/3 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.568 (0.0623 -- 0.991)):
+	 Odds of positive outcome INCREASE (log-odds change by 7.93 (4.95 -- 12.3)), if:
+		Between time 124.000 and time 512.000, variable 11740 average is below 0.0000
+This rule applies to 88/109 (0.807) subjects in dataset, 49/88 with positive outcomes (0.557).
+
+Accuracy of representative rule:
+AUC: 0.692
+Confusion matrix: 
+	[[23 37]
+	 [ 0 49]]
+
+
+Rule list cluster 99: posterior probability 0.000356
+Representative rule list:
+Rule list with 2 rules (overall likelihood -64.7):
+If NO rules apply: positive outcome probability 0.0137 (0.0038 -- 0.101) (log-odds: -4.28 (-5.57 -- -2.19))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.0245 (0.0101 -- 0.0458)):
+	 Odds of positive outcome INCREASE (log-odds change by 0.594 (-0.303 -- 1.24)), if:
+		Between time 124.000 and time 415.000, variable 13190 average is below 0.0080
+This rule applies to 69/109 (0.633) subjects in dataset, 34/69 with positive outcomes (0.493).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.464 (0.103 -- 0.732)):
+	 Odds of positive outcome INCREASE (log-odds change by 4.14 (2.12 -- 5.28)), if:
+		Between time 221.000 and time 415.000, variable 11740 average is below 0.0000
+This rule applies to 94/109 (0.862) subjects in dataset, 49/94 with positive outcomes (0.521).
+
+Accuracy of representative rule:
+AUC: 0.639
+Confusion matrix: 
+	[[35 25]
+	 [15 34]]
+
+

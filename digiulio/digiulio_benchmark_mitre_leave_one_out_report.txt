@@ -1,0 +1,3 @@
+            AP   AUC    F1   MCC  fn  fp  precision  recall  tn  tp
+ensemble 0.619 0.806 0.833 0.801   1   1      0.833   0.833  30   5
+point    0.758 0.823 0.833 0.801   1   1      0.833   0.833  30   5

@@ -1,0 +1,2214 @@
+BAYES FACTOR FOR THE EMPTY RULE SET: 0.00359
+
+
+POINT SUMMARY:
+Rule list with 1 rules (overall likelihood -3.85):
+If NO rules apply: positive outcome probability 0.633 (0.357 -- 0.907) (log-odds: 0.547 (-0.587 -- 2.28))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 8.79 (4.85 -- 12.1))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 3.13e-07 (4.43e-09 -- 5.95e-06)):
+	 Odds of positive outcome DECREASE (log-odds change by -15.5 (-19.8 -- -12.6)), if:
+		Between time 0.000 and time 156.250, variable 13241 slope is below 0.0003
+This rule applies to 22/35 (0.629) subjects in dataset, 0/22 with positive outcomes (0.000).
+
+POINT SUMMARY CLASSIFIER PERFORMANCE:
+AUC: 0.985
+Confusion matrix: 
+	[[22  2]
+	 [ 0 11]]
+
+ENSEMBLE CLASSIFIER PERFORMANCE:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+44999 total samples after 5000 burnin
+Most frequent rule list lengths (counting total number of primitives):
+	frequency	length
+	0.474		1
+	0.262		2
+	0.121		3
+	0.0633		4
+	0.0312		5
+
+ Best (highest posterior probability) rule list clusters: 
+Rule list cluster 0: posterior probability 0.109
+Representative rule list:
+Rule list with 1 rules (overall likelihood -3.86):
+If NO rules apply: positive outcome probability 0.693 (0.291 -- 0.951) (log-odds: 0.815 (-0.889 -- 2.96))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 4.77 (0.168 -- 14.2))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 4.2e-06 (7.66e-12 -- 0.00768)):
+	 Odds of positive outcome DECREASE (log-odds change by -13.2 (-26.4 -- -5.68)), if:
+		Between time 0.000 and time 156.250, variable 13240 slope is below 0.0003
+This rule applies to 22/35 (0.629) subjects in dataset, 0/22 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.958
+Confusion matrix: 
+	[[22  2]
+	 [ 0 11]]
+
+
+Rule list cluster 1: posterior probability 0.105
+Representative rule list:
+Rule list with 1 rules (overall likelihood -3.86):
+If NO rules apply: positive outcome probability 0.694 (0.292 -- 0.947) (log-odds: 0.818 (-0.884 -- 2.88))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 4.77 (0.267 -- 13.9))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 3.92e-06 (6.57e-12 -- 0.00738)):
+	 Odds of positive outcome DECREASE (log-odds change by -13.3 (-26.6 -- -5.72)), if:
+		Between time 0.000 and time 156.250, variable 13241 slope is below 0.0003
+This rule applies to 22/35 (0.629) subjects in dataset, 0/22 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.958
+Confusion matrix: 
+	[[22  2]
+	 [ 0 11]]
+
+
+Rule list cluster 2: posterior probability 0.0522
+Representative rule list:
+Rule list with 1 rules (overall likelihood -6.79):
+If NO rules apply: positive outcome probability 0.407 (0.144 -- 0.708) (log-odds: -0.377 (-1.78 -- 0.885))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 5.17 (1.48 -- 13))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 3.33e-06 (6.06e-12 -- 0.0051)):
+	 Odds of positive outcome DECREASE (log-odds change by -12.2 (-25.5 -- -4.9)), if:
+		Between time 187.500 and time 250.000, variable 13140 average is below 0.0014
+This rule applies to 18/35 (0.514) subjects in dataset, 0/18 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.818
+Confusion matrix: 
+	[[24  0]
+	 [ 4  7]]
+
+
+Rule list cluster 3: posterior probability 0.0358
+Representative rule list:
+Rule list with 1 rules (overall likelihood -6.76):
+If NO rules apply: positive outcome probability 0.396 (0.144 -- 0.688) (log-odds: -0.422 (-1.79 -- 0.789))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 6.09 (1.62 -- 15.6))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1.17e-06 (6.24e-13 -- 0.00297)):
+	 Odds of positive outcome DECREASE (log-odds change by -13.2 (-27.7 -- -5.4)), if:
+		Between time 187.500 and time 250.000, variable 13141 average is below 0.0014
+This rule applies to 18/35 (0.514) subjects in dataset, 0/18 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.818
+Confusion matrix: 
+	[[24  0]
+	 [ 4  7]]
+
+
+Rule list cluster 4: posterior probability 0.0356
+Representative rule list:
+Rule list with 1 rules (overall likelihood -4.82):
+If NO rules apply: positive outcome probability 0.586 (0.228 -- 0.889) (log-odds: 0.348 (-1.22 -- 2.08))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 5.09 (0.679 -- 14.9))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1.8e-06 (9.22e-12 -- 0.0052)):
+	 Odds of positive outcome DECREASE (log-odds change by -13.6 (-25.8 -- -5.6)), if:
+		Between time 0.000 and time 156.250, variable 13257 slope is below 0.0004
+This rule applies to 21/35 (0.600) subjects in dataset, 0/21 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.938
+Confusion matrix: 
+	[[21  3]
+	 [ 0 11]]
+
+
+Rule list cluster 5: posterior probability 0.0204
+Representative rule list:
+Rule list with 1 rules (overall likelihood -7.25):
+If NO rules apply: positive outcome probability 0.364 (0.126 -- 0.657) (log-odds: -0.559 (-1.93 -- 0.65))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 5.98 (1.83 -- 14.6))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 4.26e-06 (1.65e-11 -- 0.00218)):
+	 Odds of positive outcome DECREASE (log-odds change by -11.8 (-24.3 -- -5.57)), if:
+		Between time 156.250 and time 218.750, variable 12628 average is below 0.0074
+This rule applies to 17/35 (0.486) subjects in dataset, 0/17 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.818
+Confusion matrix: 
+	[[24  0]
+	 [ 4  7]]
+
+
+Rule list cluster 6: posterior probability 0.0169
+Representative rule list:
+Rule list with 1 rules (overall likelihood -5.8):
+If NO rules apply: positive outcome probability 0.0032 (1.31e-06 -- 0.0829) (log-odds: -5.74 (-13.5 -- -2.4))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 4.96 (1.29 -- 12.8))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.999 (0.408 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 12.9 (5.37 -- 26.2)), if:
+		Between time 125.000 and time 187.500, variable sq35;size=126951; average is above 0.0113
+This rule applies to 8/35 (0.229) subjects in dataset, 8/8 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 0.864
+Confusion matrix: 
+	[[24  0]
+	 [ 3  8]]
+
+
+Rule list cluster 7: posterior probability 0.0112
+Representative rule list:
+Rule list with 1 rules (overall likelihood -6.55):
+If NO rules apply: positive outcome probability 0.0889 (0.0152 -- 0.26) (log-odds: -2.33 (-4.17 -- -1.04))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome DECREASE (log-odds change by -3.07 (-11.4 -- 1.56))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.956 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 12.3 (5.4 -- 25.8)), if:
+		Between time 93.750 and time 156.250, variable 13240 average is above 0.1356
+This rule applies to 9/35 (0.257) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 0.909
+Confusion matrix: 
+	[[24  0]
+	 [ 2  9]]
+
+
+Rule list cluster 8: posterior probability 0.0108
+Representative rule list:
+Rule list with 1 rules (overall likelihood -6.54):
+If NO rules apply: positive outcome probability 0.0915 (0.0153 -- 0.26) (log-odds: -2.29 (-4.17 -- -1.04))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome DECREASE (log-odds change by -3.16 (-12.8 -- 1.61))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.958 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 13.3 (5.42 -- 25.9)), if:
+		Between time 93.750 and time 156.250, variable 13258 average is above 0.1495
+This rule applies to 9/35 (0.257) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 0.909
+Confusion matrix: 
+	[[24  0]
+	 [ 2  9]]
+
+
+Rule list cluster 9: posterior probability 0.0102
+Representative rule list:
+Rule list with 1 rules (overall likelihood -6.54):
+If NO rules apply: positive outcome probability 0.0862 (0.0142 -- 0.254) (log-odds: -2.36 (-4.24 -- -1.08))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome DECREASE (log-odds change by -3.97 (-14 -- 1.28))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.965 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 14.2 (5.67 -- 28.1)), if:
+		Between time 93.750 and time 156.250, variable 13241 average is above 0.1356
+This rule applies to 9/35 (0.257) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 0.909
+Confusion matrix: 
+	[[24  0]
+	 [ 2  9]]
+
+
+Rule list cluster 10: posterior probability 0.00976
+Representative rule list:
+Rule list with 1 rules (overall likelihood -6.55):
+If NO rules apply: positive outcome probability 0.0878 (0.0137 -- 0.27) (log-odds: -2.34 (-4.27 -- -0.994))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome DECREASE (log-odds change by -3.01 (-11.7 -- 1.45))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.96 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 12.8 (5.52 -- 25.6)), if:
+		Between time 93.750 and time 156.250, variable 13257 average is above 0.1360
+This rule applies to 9/35 (0.257) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 0.909
+Confusion matrix: 
+	[[24  0]
+	 [ 2  9]]
+
+
+Rule list cluster 11: posterior probability 0.00967
+Representative rule list:
+Rule list with 1 rules (overall likelihood -6.55):
+If NO rules apply: positive outcome probability 0.084 (0.0137 -- 0.254) (log-odds: -2.39 (-4.27 -- -1.08))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome DECREASE (log-odds change by -3.29 (-12.3 -- 1.55))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.964 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 14.2 (5.68 -- 28.1)), if:
+		Between time 93.750 and time 156.250, variable 13231 average is above 0.1309
+This rule applies to 9/35 (0.257) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 0.909
+Confusion matrix: 
+	[[24  0]
+	 [ 2  9]]
+
+
+Rule list cluster 12: posterior probability 0.005
+Representative rule list:
+Rule list with 1 rules (overall likelihood -6.85):
+If NO rules apply: positive outcome probability 0.673 (0.277 -- 0.943) (log-odds: 0.721 (-0.957 -- 2.8))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 1.44 (-1.18 -- 4.34))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 6.92e-05 (7.04e-10 -- 0.0155)):
+	 Odds of positive outcome DECREASE (log-odds change by -10.3 (-21.8 -- -4.87)), if:
+		Between time 0.000 and time 156.250, variable 13231 slope is below 0.0004
+This rule applies to 21/35 (0.600) subjects in dataset, 0/21 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.938
+Confusion matrix: 
+	[[21  3]
+	 [ 0 11]]
+
+
+Rule list cluster 13: posterior probability 0.00407
+Representative rule list:
+Rule list with 1 rules (overall likelihood -8.39):
+If NO rules apply: positive outcome probability 0.705 (0.33 -- 0.96) (log-odds: 0.87 (-0.709 -- 3.19))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 6.03 (2.03 -- 16.5))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000648 (1.87e-09 -- 0.061)):
+	 Odds of positive outcome DECREASE (log-odds change by -8.21 (-21 -- -3.6)), if:
+		Between time 125.000 and time 218.750, variable 13211 average is below 0.0106
+This rule applies to 24/35 (0.686) subjects in dataset, 2/24 with positive outcomes (0.083).
+
+Accuracy of representative rule:
+AUC: 0.867
+Confusion matrix: 
+	[[22  2]
+	 [ 2  9]]
+
+
+Rule list cluster 14: posterior probability 0.00387
+Representative rule list:
+Rule list with 1 rules (overall likelihood -9.77):
+If NO rules apply: positive outcome probability 0.418 (0.202 -- 0.654) (log-odds: -0.332 (-1.37 -- 0.639))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 2.48 (0.103 -- 4.89))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 6.38e-05 (1.46e-10 -- 0.0073)):
+	 Odds of positive outcome DECREASE (log-odds change by -9.33 (-22.3 -- -4.58)), if:
+		Between time 93.750 and time 218.750, variable 13230 average is below 0.0628
+This rule applies to 17/35 (0.486) subjects in dataset, 0/17 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.797
+Confusion matrix: 
+	[[23  1]
+	 [ 4  7]]
+
+
+Rule list cluster 15: posterior probability 0.00358
+Representative rule list:
+Rule list with 0 rules (overall likelihood -19.4):
+If NO rules apply: positive outcome probability 0.166 (0.0536 -- 0.359) (log-odds: -1.62 (-2.87 -- -0.578))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 1.79 (0.178 -- 3.43))
+
+
+
+Accuracy of representative rule:
+AUC: 0.693
+Confusion matrix: 
+	[[18  6]
+	 [ 4  7]]
+
+
+Rule list cluster 16: posterior probability 0.00302
+Representative rule list:
+Rule list with 1 rules (overall likelihood -7.74):
+If NO rules apply: positive outcome probability 0.593 (0.222 -- 0.894) (log-odds: 0.378 (-1.25 -- 2.13))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 5.28 (1.72 -- 15.6))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000577 (5.01e-08 -- 0.0271)):
+	 Odds of positive outcome DECREASE (log-odds change by -7.84 (-17.2 -- -3.96)), if:
+		Between time 156.250 and time 218.750, variable sq53;size=88716; average is below 0.0065
+This rule applies to 22/35 (0.629) subjects in dataset, 1/22 with positive outcomes (0.045).
+
+Accuracy of representative rule:
+AUC: 0.892
+Confusion matrix: 
+	[[21  3]
+	 [ 1 10]]
+
+
+Rule list cluster 17: posterior probability 0.00296
+Representative rule list:
+Rule list with 1 rules (overall likelihood -7.91):
+If NO rules apply: positive outcome probability 0.585 (0.215 -- 0.851) (log-odds: 0.345 (-1.29 -- 1.75))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 2.1 (-0.446 -- 5.56))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000247 (3.94e-10 -- 0.0291)):
+	 Odds of positive outcome DECREASE (log-odds change by -8.65 (-22 -- -3.85)), if:
+		Between time 125.000 and time 187.500, variable 13229 average is below 0.0677
+This rule applies to 20/35 (0.571) subjects in dataset, 0/20 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.917
+Confusion matrix: 
+	[[20  4]
+	 [ 0 11]]
+
+
+Rule list cluster 18: posterior probability 0.00289
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.0381):
+If NO rules apply: positive outcome probability 4.69e-05 (3.76e-07 -- 0.0305) (log-odds: -9.97 (-14.8 -- -3.46))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 1.7 (-4.21 -- 7.69))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.993 (0.164 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 15 (8.34 -- 26)), if:
+		Between time 125.000 and time 281.250, variable 13141 average is above 0.0022
+		Between time 0.000 and time 156.250, variable 13241 slope is above 0.0002
+This rule applies to 11/35 (0.314) subjects in dataset, 11/11 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 19: posterior probability 0.0024
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.0918):
+If NO rules apply: positive outcome probability 0.00284 (0.000185 -- 0.0327) (log-odds: -5.86 (-8.59 -- -3.39))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 0.868 (-11 -- 5.53))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.969 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 19.8 (9.32 -- 28.9)), if:
+		Between time 0.000 and time 156.250, variable 13240 slope is above 0.0003
+		Between time 125.000 and time 281.250, variable 13140 average is above 0.0019
+This rule applies to 11/35 (0.314) subjects in dataset, 11/11 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 20: posterior probability 0.00238
+Representative rule list:
+Rule list with 1 rules (overall likelihood -7.68):
+If NO rules apply: positive outcome probability 0.594 (0.248 -- 0.867) (log-odds: 0.379 (-1.11 -- 1.87))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 5.74 (1.63 -- 13.9))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000574 (4.85e-08 -- 0.024)):
+	 Odds of positive outcome DECREASE (log-odds change by -7.84 (-17.2 -- -4.09)), if:
+		Between time 156.250 and time 218.750, variable 12624 average is below 0.0065
+This rule applies to 22/35 (0.629) subjects in dataset, 1/22 with positive outcomes (0.045).
+
+Accuracy of representative rule:
+AUC: 0.892
+Confusion matrix: 
+	[[21  3]
+	 [ 1 10]]
+
+
+Rule list cluster 21: posterior probability 0.00202
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.0457):
+If NO rules apply: positive outcome probability 0.00235 (3.68e-07 -- 0.0569) (log-odds: -6.05 (-14.8 -- -2.81))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome DECREASE (log-odds change by -1.54 (-10.9 -- 4.62))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.977 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 17.8 (9.8 -- 36)), if:
+		Between time 125.000 and time 281.250, variable 13141 average is above 0.0020
+		Between time 0.000 and time 156.250, variable 13240 slope is above 0.0003
+This rule applies to 11/35 (0.314) subjects in dataset, 11/11 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 22: posterior probability 0.00196
+Representative rule list:
+Rule list with 1 rules (overall likelihood -7.7):
+If NO rules apply: positive outcome probability 0.319 (0.116 -- 0.601) (log-odds: -0.759 (-2.03 -- 0.408))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 5.68 (1.8 -- 14.4))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 5.52e-06 (4.07e-11 -- 0.00289)):
+	 Odds of positive outcome DECREASE (log-odds change by -11.3 (-23.2 -- -5.09)), if:
+		Between time 281.250 and time 375.000, variable 4216 average is above 0.1474
+This rule applies to 16/35 (0.457) subjects in dataset, 0/16 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.818
+Confusion matrix: 
+	[[24  0]
+	 [ 4  7]]
+
+
+Rule list cluster 23: posterior probability 0.00189
+Representative rule list:
+Rule list with 1 rules (overall likelihood -7.83):
+If NO rules apply: positive outcome probability 0.58 (0.241 -- 0.894) (log-odds: 0.322 (-1.15 -- 2.14))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 1.91 (-0.441 -- 4.99))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 7.82e-05 (8.63e-09 -- 0.0283)):
+	 Odds of positive outcome DECREASE (log-odds change by -9.78 (-18.9 -- -3.86)), if:
+		Between time 0.000 and time 156.250, variable 13258 slope is below 0.0004
+This rule applies to 20/35 (0.571) subjects in dataset, 0/20 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.917
+Confusion matrix: 
+	[[20  4]
+	 [ 0 11]]
+
+
+Rule list cluster 24: posterior probability 0.00189
+Representative rule list:
+Rule list with 1 rules (overall likelihood -7.66):
+If NO rules apply: positive outcome probability 0.34 (0.121 -- 0.601) (log-odds: -0.665 (-1.98 -- 0.411))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 6.8 (1.78 -- 14.4))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 5.3e-07 (5.37e-13 -- 0.00254)):
+	 Odds of positive outcome DECREASE (log-odds change by -13.8 (-27.6 -- -5.31)), if:
+		Between time 281.250 and time 375.000, variable 4090 average is above 0.1448
+This rule applies to 16/35 (0.457) subjects in dataset, 0/16 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.818
+Confusion matrix: 
+	[[24  0]
+	 [ 4  7]]
+
+
+Rule list cluster 25: posterior probability 0.00189
+Representative rule list:
+Rule list with 1 rules (overall likelihood -7.68):
+If NO rules apply: positive outcome probability 0.328 (0.131 -- 0.613) (log-odds: -0.716 (-1.89 -- 0.458))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 5.88 (2.01 -- 15.6))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1.21e-06 (2.01e-12 -- 0.00228)):
+	 Odds of positive outcome DECREASE (log-odds change by -12.9 (-26.2 -- -5.36)), if:
+		Between time 281.250 and time 375.000, variable 4070 average is above 0.1447
+This rule applies to 16/35 (0.457) subjects in dataset, 0/16 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.818
+Confusion matrix: 
+	[[24  0]
+	 [ 4  7]]
+
+
+Rule list cluster 26: posterior probability 0.00171
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.0178):
+If NO rules apply: positive outcome probability 0.000836 (8.56e-09 -- 0.0629) (log-odds: -7.09 (-18.6 -- -2.7))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome DECREASE (log-odds change by -1.66 (-13.5 -- 2.93))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.773 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 17.1 (8.31 -- 25.8)), if:
+		Between time 0.000 and time 156.250, variable 13241 slope is above 0.0002
+		Between time 62.500 and time 125.000, variable 14341 average is below 0.0000
+This rule applies to 11/35 (0.314) subjects in dataset, 11/11 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 27: posterior probability 0.00169
+Representative rule list:
+Rule list with 1 rules (overall likelihood -9.23):
+If NO rules apply: positive outcome probability 0.47 (0.207 -- 0.731) (log-odds: -0.12 (-1.34 -- 1))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 2.21 (0.166 -- 5.72))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000242 (1.5e-09 -- 0.0399)):
+	 Odds of positive outcome DECREASE (log-odds change by -8.21 (-20.2 -- -3.06)), if:
+		Between time 125.000 and time 187.500, variable 13224 average is below 0.0538
+This rule applies to 18/35 (0.514) subjects in dataset, 0/18 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.797
+Confusion matrix: 
+	[[23  1]
+	 [ 4  7]]
+
+
+Rule list cluster 28: posterior probability 0.00156
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0752):
+If NO rules apply: positive outcome probability 0.00206 (2.89e-06 -- 0.66) (log-odds: -6.18 (-12.8 -- 0.662))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 10.5 (6.07 -- 19.8))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.997 (0.692 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 11.9 (6.99 -- 19.3)), if:
+		Between time 125.000 and time 281.250, variable 13140 average is above 0.0023
+This rule applies to 17/35 (0.486) subjects in dataset, 11/17 with positive outcomes (0.647).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 2.26e-08 (7.51e-13 -- 4.8e-05)):
+	 Odds of positive outcome DECREASE (log-odds change by -11.4 (-21.7 -- -3.76)), if:
+		Between time 125.000 and time 250.000, variable sq35;size=126951; average is below 0.0081
+This rule applies to 26/35 (0.743) subjects in dataset, 4/26 with positive outcomes (0.154).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 29: posterior probability 0.00151
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.0335):
+If NO rules apply: positive outcome probability 0.00181 (1.43e-05 -- 0.0687) (log-odds: -6.31 (-11.2 -- -2.61))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome DECREASE (log-odds change by -4.2 (-15.8 -- 2.28))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.316 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 19.7 (5.54 -- 27.5)), if:
+		Between time 187.500 and time 281.250, variable 13140 average is above 0.0030
+		Between time 0.000 and time 156.250, variable 13241 slope is above 0.0002
+This rule applies to 11/35 (0.314) subjects in dataset, 11/11 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 30: posterior probability 0.00144
+Representative rule list:
+Rule list with 1 rules (overall likelihood -10.5):
+If NO rules apply: positive outcome probability 0.345 (0.104 -- 0.621) (log-odds: -0.643 (-2.16 -- 0.495))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 11.5 (3.31 -- 21))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 5.55e-07 (8.47e-11 -- 0.00302)):
+	 Odds of positive outcome DECREASE (log-odds change by -13.8 (-22.5 -- -5.16)), if:
+		Between time 93.750 and time 156.250, variable 12620 average is below 0.0006
+This rule applies to 18/35 (0.514) subjects in dataset, 1/18 with positive outcomes (0.056).
+
+Accuracy of representative rule:
+AUC: 0.773
+Confusion matrix: 
+	[[24  0]
+	 [ 5  6]]
+
+
+Rule list cluster 31: posterior probability 0.00142
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.0052):
+If NO rules apply: positive outcome probability 0.000112 (3.93e-07 -- 0.00585) (log-odds: -9.1 (-14.8 -- -5.14))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome DECREASE (log-odds change by -0.401 (-11.3 -- 7.13))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.628 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 17.7 (9.62 -- 32.3)), if:
+		Between time 0.000 and time 156.250, variable 13240 slope is above 0.0003
+		Between time 93.750 and time 218.750, variable 14341 average is below 0.0087
+This rule applies to 11/35 (0.314) subjects in dataset, 11/11 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 32: posterior probability 0.00142
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.0185):
+If NO rules apply: positive outcome probability 0.000418 (2.14e-06 -- 0.00704) (log-odds: -7.78 (-13.1 -- -4.95))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome DECREASE (log-odds change by -1.97 (-9.32 -- 2.47))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.921 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 16.3 (10.2 -- 23.9)), if:
+		Between time 93.750 and time 250.000, variable 13140 average is above 0.0008
+		Between time 0.000 and time 156.250, variable 13257 slope is above 0.0001
+This rule applies to 11/35 (0.314) subjects in dataset, 11/11 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 33: posterior probability 0.00131
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.102):
+If NO rules apply: positive outcome probability 0.00446 (6.54e-06 -- 0.0852) (log-odds: -5.41 (-11.9 -- -2.37))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 11.8 (6 -- 18.3))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.999 (0.57 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 12.5 (5.69 -- 17.5)), if:
+		Between time 93.750 and time 187.500, variable sq35;size=126951; average is above 0.0070
+This rule applies to 10/35 (0.286) subjects in dataset, 8/10 with positive outcomes (0.800).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 4.26e-08 (5.19e-13 -- 2e-05)):
+	 Odds of positive outcome DECREASE (log-odds change by -11.6 (-22.9 -- -5.41)), if:
+		Between time 156.250 and time 250.000, variable 13141 average is below 0.0002
+This rule applies to 16/35 (0.457) subjects in dataset, 0/16 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 34: posterior probability 0.00129
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.0603):
+If NO rules apply: positive outcome probability 0.00241 (4.17e-06 -- 0.0372) (log-odds: -6.03 (-12.4 -- -3.25))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 0.143 (-21.6 -- 5.77))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.59 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 16.7 (6.39 -- 29.4)), if:
+		Between time 0.000 and time 156.250, variable 13240 slope is above 0.0003
+		Between time 0.000 and time 156.250, variable 14341 slope is below 0.0000
+This rule applies to 11/35 (0.314) subjects in dataset, 11/11 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 35: posterior probability 0.00122
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.108):
+If NO rules apply: positive outcome probability 0.00257 (6.06e-08 -- 0.0649) (log-odds: -5.96 (-16.6 -- -2.67))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome DECREASE (log-odds change by -1.28 (-5.22 -- 4.96))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.998 (0.624 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 12.2 (6.47 -- 21)), if:
+		Between time 93.750 and time 250.000, variable 13141 average is above 0.0004
+		Between time 0.000 and time 156.250, variable 13257 slope is above 0.0001
+This rule applies to 11/35 (0.314) subjects in dataset, 11/11 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 36: posterior probability 0.00122
+Representative rule list:
+Rule list with 1 rules (overall likelihood -8.62):
+If NO rules apply: positive outcome probability 0.000257 (1.57e-06 -- 0.071) (log-odds: -8.27 (-13.4 -- -2.57))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 5.87 (1.72 -- 11.4))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.446 (0.00307 -- 0.993)):
+	 Odds of positive outcome INCREASE (log-odds change by 8.05 (2.48 -- 13.3)), if:
+		Between time 218.750 and time 312.500, variable 13154 average is above 0.0000
+This rule applies to 14/35 (0.400) subjects in dataset, 10/14 with positive outcomes (0.714).
+
+Accuracy of representative rule:
+AUC: 0.773
+Confusion matrix: 
+	[[24  0]
+	 [ 5  6]]
+
+
+Rule list cluster 37: posterior probability 0.00116
+Representative rule list:
+Rule list with 1 rules (overall likelihood -8.6):
+If NO rules apply: positive outcome probability 0.698 (0.304 -- 0.952) (log-odds: 0.836 (-0.831 -- 2.99))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 0.429 (-2.07 -- 3.02))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1.26e-05 (2.59e-08 -- 0.00907)):
+	 Odds of positive outcome DECREASE (log-odds change by -12.1 (-18.3 -- -5.53)), if:
+		Between time 0.000 and time 156.250, variable 13230 slope is below 0.0003
+This rule applies to 20/35 (0.571) subjects in dataset, 0/20 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.917
+Confusion matrix: 
+	[[20  4]
+	 [ 0 11]]
+
+
+Rule list cluster 38: posterior probability 0.00107
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.0179):
+If NO rules apply: positive outcome probability 0.999 (0.893 -- 1) (log-odds: 7.1 (2.12 -- 12.5))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome DECREASE (log-odds change by -0.641 (-9.14 -- 3.83))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000175 (7.11e-08 -- 0.184)):
+	 Odds of positive outcome DECREASE (log-odds change by -15.8 (-23.6 -- -8.59)), if:
+		Between time 93.750 and time 156.250, variable 13231 average is below 0.1717
+		Between time 125.000 and time 187.500, variable sq35;size=126951; average is below 0.0113
+This rule applies to 24/35 (0.686) subjects in dataset, 0/24 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 39: posterior probability 0.00102
+Representative rule list:
+Rule list with 1 rules (overall likelihood -8.43):
+If NO rules apply: positive outcome probability 0.999 (0.829 -- 1) (log-odds: 6.97 (1.58 -- 16.6))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 2 (-0.259 -- 4.4))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.0479 (1.59e-06 -- 0.952)):
+	 Odds of positive outcome DECREASE (log-odds change by -9.96 (-20.3 -- -3.98)), if:
+		Between time 125.000 and time 281.250, variable sq35;size=126951; slope is above -0.0000
+This rule applies to 27/35 (0.771) subjects in dataset, 3/27 with positive outcomes (0.111).
+
+Accuracy of representative rule:
+AUC: 0.864
+Confusion matrix: 
+	[[24  0]
+	 [ 3  8]]
+
+
+Rule list cluster 40: posterior probability 0.001
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.108):
+If NO rules apply: positive outcome probability 0.000508 (1.11e-06 -- 0.148) (log-odds: -7.58 (-13.7 -- -1.75))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome DECREASE (log-odds change by -0.283 (-6.13 -- 8.15))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.992 (0.394 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 12.4 (7.15 -- 22.2)), if:
+		Between time 125.000 and time 281.250, variable 13141 average is above 0.0020
+This rule applies to 20/35 (0.571) subjects in dataset, 11/20 with positive outcomes (0.550).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 4.28e-10 (3.43e-15 -- 2.57e-07)):
+	 Odds of positive outcome DECREASE (log-odds change by -14 (-25.7 -- -7.59)), if:
+		Between time 0.000 and time 156.250, variable 13241 slope is below 0.0002
+This rule applies to 19/35 (0.543) subjects in dataset, 0/19 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 41: posterior probability 0.000956
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.089):
+If NO rules apply: positive outcome probability 4.68e-05 (3.9e-09 -- 0.0387) (log-odds: -9.97 (-19.4 -- -3.21))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 0.718 (-4.44 -- 10.7))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.988 (0.378 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 14.4 (9.47 -- 22.1)), if:
+		Between time 31.250 and time 156.250, variable 14341 slope is below 0.0000
+		Between time 0.000 and time 156.250, variable 13241 slope is above 0.0002
+This rule applies to 11/35 (0.314) subjects in dataset, 11/11 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 42: posterior probability 0.000956
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0546):
+If NO rules apply: positive outcome probability 1.83e-06 (7.15e-09 -- 0.00195) (log-odds: -13.2 (-18.8 -- -6.24))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 2.69 (-2.95 -- 10.1))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.989 (0.137 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 17.7 (11.4 -- 27)), if:
+		Between time 125.000 and time 281.250, variable 13140 average is above 0.0023
+This rule applies to 17/35 (0.486) subjects in dataset, 11/17 with positive outcomes (0.647).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 2.12e-11 (3.55e-14 -- 3.75e-09)):
+	 Odds of positive outcome DECREASE (log-odds change by -11.4 (-17.8 -- -6.19)), if:
+		Between time 0.000 and time 156.250, variable 13240 slope is below 0.0002
+This rule applies to 20/35 (0.571) subjects in dataset, 0/20 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 43: posterior probability 0.000911
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.0375):
+If NO rules apply: positive outcome probability 0.00203 (2.4e-05 -- 0.0181) (log-odds: -6.2 (-10.6 -- -3.99))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome DECREASE (log-odds change by -2.93 (-11.2 -- 6.39))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.926 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 19.5 (8.72 -- 30.6)), if:
+		Between time 0.000 and time 156.250, variable 13231 slope is above 0.0004
+		Between time 93.750 and time 250.000, variable 13141 average is above 0.0004
+This rule applies to 11/35 (0.314) subjects in dataset, 11/11 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 44: posterior probability 0.000911
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.157):
+If NO rules apply: positive outcome probability 0.99 (0.642 -- 1) (log-odds: 4.59 (0.585 -- 8.34))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome DECREASE (log-odds change by -0.215 (-4.94 -- 2.98))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.00131 (4.46e-11 -- 0.419)):
+	 Odds of positive outcome DECREASE (log-odds change by -11.2 (-28.4 -- -4.92)), if:
+		Between time 62.500 and time 187.500, variable 14341 average is above 0.0013
+This rule applies to 14/35 (0.400) subjects in dataset, 0/14 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.00239 (6.03e-06 -- 0.162)):
+	 Odds of positive outcome DECREASE (log-odds change by -10.6 (-16.6 -- -6.23)), if:
+		Between time 0.000 and time 156.250, variable 13241 slope is below 0.0002
+This rule applies to 19/35 (0.543) subjects in dataset, 0/19 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 45: posterior probability 0.000889
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.0622):
+If NO rules apply: positive outcome probability 5.08e-05 (1.99e-08 -- 0.0493) (log-odds: -9.89 (-17.7 -- -2.96))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 5.3 (-2.41 -- 15.2))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.626 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 19.4 (10.4 -- 29.1)), if:
+		Between time 0.000 and time 156.250, variable 13240 slope is above 0.0003
+		Between time 187.500 and time 343.750, variable sq40;size=115338; slope is below 0.0000
+This rule applies to 11/35 (0.314) subjects in dataset, 11/11 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 46: posterior probability 0.000889
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0275):
+If NO rules apply: positive outcome probability 0.000318 (2.04e-07 -- 0.0147) (log-odds: -8.05 (-15.4 -- -4.21))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 2.03 (-6.28 -- 12.9))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.996 (0.415 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 13.6 (7.71 -- 19.8)), if:
+		Between time 0.000 and time 156.250, variable 13241 slope is above 0.0002
+This rule applies to 16/35 (0.457) subjects in dataset, 11/16 with positive outcomes (0.688).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 3.52e-10 (2.81e-13 -- 8.15e-08)):
+	 Odds of positive outcome DECREASE (log-odds change by -13.7 (-20.8 -- -8.27)), if:
+		Between time 156.250 and time 312.500, variable 13140 average is below 0.0027
+This rule applies to 16/35 (0.457) subjects in dataset, 0/16 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 47: posterior probability 0.000889
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.0233):
+If NO rules apply: positive outcome probability 0.998 (0.909 -- 1) (log-odds: 6.28 (2.3 -- 15.5))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 1.14 (-4.99 -- 9.81))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000317 (8.39e-09 -- 0.0663)):
+	 Odds of positive outcome DECREASE (log-odds change by -14.3 (-24.9 -- -8.93)), if:
+		Between time 125.000 and time 187.500, variable sq35;size=126951; average is below 0.0113
+		Between time 93.750 and time 156.250, variable 13241 average is below 0.1921
+This rule applies to 24/35 (0.686) subjects in dataset, 0/24 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 48: posterior probability 0.000844
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.00684):
+If NO rules apply: positive outcome probability 6.41e-06 (3.27e-10 -- 0.0075) (log-odds: -12 (-21.8 -- -4.89))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 1.17 (-7.23 -- 9.25))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.999 (0.129 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 18.8 (10 -- 25.8)), if:
+		Between time 125.000 and time 250.000, variable 13141 average is above 0.0004
+		Between time 0.000 and time 156.250, variable 13258 slope is above 0.0002
+This rule applies to 11/35 (0.314) subjects in dataset, 11/11 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 49: posterior probability 0.000844
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.00454):
+If NO rules apply: positive outcome probability 1 (0.909 -- 1) (log-odds: 7.64 (2.3 -- 16.6))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 0.644 (-9.73 -- 8.72))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 2.84e-05 (1.02e-08 -- 0.201)):
+	 Odds of positive outcome DECREASE (log-odds change by -18.1 (-26 -- -9.01)), if:
+		Between time 93.750 and time 156.250, variable 13230 average is below 0.1638
+		Between time 125.000 and time 187.500, variable sq35;size=126951; average is below 0.0113
+This rule applies to 24/35 (0.686) subjects in dataset, 0/24 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 50: posterior probability 0.000844
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.0609):
+If NO rules apply: positive outcome probability 1.15e-05 (3.89e-07 -- 0.0116) (log-odds: -11.4 (-14.8 -- -4.45))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome DECREASE (log-odds change by -0.355 (-3.65 -- 7.39))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.996 (0.0482 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 16.8 (8.39 -- 22.9)), if:
+		Between time 62.500 and time 187.500, variable 14341 average is below 0.0002
+		Between time 0.000 and time 156.250, variable 13231 slope is above 0.0003
+This rule applies to 11/35 (0.314) subjects in dataset, 11/11 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 51: posterior probability 0.000822
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.0715):
+If NO rules apply: positive outcome probability 0.0018 (9.16e-08 -- 0.0779) (log-odds: -6.32 (-16.2 -- -2.47))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome DECREASE (log-odds change by -1.02 (-6.95 -- 10.2))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.998 (0.817 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 12.8 (7.81 -- 27.5)), if:
+		Between time 0.000 and time 156.250, variable 13257 slope is above 0.0004
+		Between time 93.750 and time 156.250, variable 14341 average is below 0.0003
+This rule applies to 11/35 (0.314) subjects in dataset, 11/11 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 52: posterior probability 0.0008
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.196):
+If NO rules apply: positive outcome probability 0.00732 (0.000142 -- 0.0635) (log-odds: -4.91 (-8.86 -- -2.69))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 9.78 (6.72 -- 15.6))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.996 (0.376 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 10.5 (4.4 -- 15.3)), if:
+		Between time 125.000 and time 250.000, variable 13211 average is above 0.0112
+This rule applies to 11/35 (0.314) subjects in dataset, 8/11 with positive outcomes (0.727).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1.6e-08 (2.9e-10 -- 1.55e-06)):
+	 Odds of positive outcome DECREASE (log-odds change by -13 (-17.1 -- -8.47)), if:
+		Between time 187.500 and time 312.500, variable 13141 average is below 0.0036
+This rule applies to 16/35 (0.457) subjects in dataset, 1/16 with positive outcomes (0.062).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 53: posterior probability 0.000778
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.208):
+If NO rules apply: positive outcome probability 0.00457 (7.98e-08 -- 0.0378) (log-odds: -5.38 (-16.3 -- -3.24))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 1.51 (-3.16 -- 5.43))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.946 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 13.3 (8.25 -- 23.7)), if:
+		Between time 0.000 and time 156.250, variable 13231 slope is above 0.0004
+		Between time 0.000 and time 156.250, variable 14341 slope is below 0.0000
+This rule applies to 11/35 (0.314) subjects in dataset, 11/11 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 54: posterior probability 0.000756
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.0325):
+If NO rules apply: positive outcome probability 0.000208 (6.65e-07 -- 0.0523) (log-odds: -8.48 (-14.2 -- -2.9))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 0.249 (-7.46 -- 9.38))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.997 (0.0632 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 14.3 (5.78 -- 24)), if:
+		Between time 0.000 and time 156.250, variable 13241 slope is above 0.0002
+		Between time 0.000 and time 125.000, variable 14341 slope is below 0.0000
+This rule applies to 11/35 (0.314) subjects in dataset, 11/11 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 55: posterior probability 0.000733
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.0422):
+If NO rules apply: positive outcome probability 0.000329 (9.52e-06 -- 0.00482) (log-odds: -8.02 (-11.6 -- -5.33))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 2.63 (-12.7 -- 6.48))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.998 (0.669 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 14.2 (8.72 -- 28.5)), if:
+		Between time 0.000 and time 156.250, variable 13230 slope is above 0.0003
+		Between time 62.500 and time 125.000, variable 14341 average is below 0.0003
+This rule applies to 11/35 (0.314) subjects in dataset, 11/11 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 56: posterior probability 0.000733
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.115):
+If NO rules apply: positive outcome probability 0.995 (0.818 -- 1) (log-odds: 5.36 (1.5 -- 9.09))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome DECREASE (log-odds change by -0.355 (-4.66 -- 10.1))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.00629 (3.73e-05 -- 0.341)):
+	 Odds of positive outcome DECREASE (log-odds change by -10.4 (-15.6 -- -6.02)), if:
+		Between time 0.000 and time 156.250, variable 13257 slope is below 0.0003
+This rule applies to 20/35 (0.571) subjects in dataset, 0/20 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.00133 (4.65e-06 -- 0.501)):
+	 Odds of positive outcome DECREASE (log-odds change by -12 (-17.6 -- -5.36)), if:
+		Between time 125.000 and time 281.250, variable 13140 average is below 0.0022
+This rule applies to 17/35 (0.486) subjects in dataset, 0/17 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 57: posterior probability 0.000733
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.126):
+If NO rules apply: positive outcome probability 0.974 (0.73 -- 1) (log-odds: 3.61 (0.995 -- 10))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 2.94 (-2.82 -- 7.42))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.00101 (4.8e-06 -- 0.048)):
+	 Odds of positive outcome DECREASE (log-odds change by -10.5 (-15.9 -- -6.59)), if:
+		Between time 0.000 and time 156.250, variable 13257 slope is below 0.0002
+This rule applies to 19/35 (0.543) subjects in dataset, 0/19 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1.18e-07 (2.86e-11 -- 0.00039)):
+	 Odds of positive outcome DECREASE (log-odds change by -19.6 (-27.9 -- -11.5)), if:
+		Between time 125.000 and time 281.250, variable 13141 average is below 0.0020
+This rule applies to 15/35 (0.429) subjects in dataset, 0/15 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 58: posterior probability 0.000711
+Representative rule list:
+Rule list with 1 rules (overall likelihood -5.76):
+If NO rules apply: positive outcome probability 0.00131 (1.95e-06 -- 0.0559) (log-odds: -6.63 (-13.1 -- -2.83))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 5.85 (1.68 -- 12.4))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.999 (0.378 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 13.4 (6.13 -- 24.1)), if:
+		Between time 125.000 and time 250.000, variable 13230 average is above 0.0608
+		Between time 93.750 and time 250.000, variable 13257 slope is below 0.0004
+This rule applies to 8/35 (0.229) subjects in dataset, 8/8 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 0.864
+Confusion matrix: 
+	[[24  0]
+	 [ 3  8]]
+
+
+Rule list cluster 59: posterior probability 0.000689
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.00953):
+If NO rules apply: positive outcome probability 0.000303 (1.18e-06 -- 0.00867) (log-odds: -8.1 (-13.6 -- -4.74))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 0.64 (-12.2 -- 7.32))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.635 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 17.5 (8.66 -- 24.7)), if:
+		Between time 0.000 and time 156.250, variable 13240 slope is above 0.0003
+		Between time 31.250 and time 156.250, variable 14543 slope is below 0.0000
+This rule applies to 11/35 (0.314) subjects in dataset, 11/11 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 60: posterior probability 0.000667
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0136):
+If NO rules apply: positive outcome probability 0.000692 (6.28e-07 -- 0.0329) (log-odds: -7.28 (-14.3 -- -3.38))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 0.776 (-6.38 -- 6.82))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 2.51e-11 (3.31e-18 -- 4.5e-07)):
+	 Odds of positive outcome DECREASE (log-odds change by -17.1 (-33 -- -7.34)), if:
+		Between time 187.500 and time 343.750, variable sq1;size=1726155; slope is above 0.0000
+This rule applies to 11/35 (0.314) subjects in dataset, 0/11 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (0.473 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 15.8 (7.17 -- 29.9)), if:
+		Between time 0.000 and time 156.250, variable 13240 slope is above 0.0003
+This rule applies to 14/35 (0.400) subjects in dataset, 11/14 with positive outcomes (0.786).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 61: posterior probability 0.000622
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.0275):
+If NO rules apply: positive outcome probability 0.00127 (4.58e-07 -- 0.0586) (log-odds: -6.67 (-14.6 -- -2.78))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome DECREASE (log-odds change by -1.85 (-13.3 -- 6.26))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.884 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 16.2 (8.7 -- 25)), if:
+		Between time 93.750 and time 250.000, variable 13140 average is above 0.0004
+		Between time 0.000 and time 156.250, variable 13258 slope is above 0.0002
+This rule applies to 11/35 (0.314) subjects in dataset, 11/11 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 62: posterior probability 0.0006
+Representative rule list:
+Rule list with 1 rules (overall likelihood -6.19):
+If NO rules apply: positive outcome probability 0.457 (0.163 -- 0.82) (log-odds: -0.173 (-1.64 -- 1.52))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 10.2 (1.75 -- 22.7))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 2.3e-08 (1.17e-11 -- 1.9e-05)):
+	 Odds of positive outcome DECREASE (log-odds change by -17.4 (-25 -- -10.7)), if:
+		Between time 187.500 and time 343.750, variable sq112;size=32769; average is below 0.0041
+		Between time 93.750 and time 187.500, variable 13142 average is below 0.0054
+This rule applies to 19/35 (0.543) subjects in dataset, 0/19 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.818
+Confusion matrix: 
+	[[24  0]
+	 [ 4  7]]
+
+
+Rule list cluster 63: posterior probability 0.0006
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.0282):
+If NO rules apply: positive outcome probability 0.000328 (7.47e-07 -- 0.00974) (log-odds: -8.02 (-14.1 -- -4.62))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome DECREASE (log-odds change by -0.14 (-6.33 -- 4.64))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.998 (0.785 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 14.4 (9.32 -- 27.8)), if:
+		Between time 0.000 and time 156.250, variable 13240 slope is above 0.0003
+		Between time 31.250 and time 125.000, variable sq1;size=1726155; average is below 0.2605
+This rule applies to 11/35 (0.314) subjects in dataset, 11/11 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 64: posterior probability 0.0006
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.0254):
+If NO rules apply: positive outcome probability 0.000583 (2.07e-07 -- 0.0694) (log-odds: -7.45 (-15.4 -- -2.6))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 1.44 (-8.04 -- 7.44))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.677 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 17.9 (8.19 -- 25.4)), if:
+		Between time 0.000 and time 156.250, variable 13231 slope is above 0.0004
+		Between time 187.500 and time 312.500, variable 13140 average is above 0.0029
+This rule applies to 11/35 (0.314) subjects in dataset, 11/11 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 65: posterior probability 0.000578
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.851):
+If NO rules apply: positive outcome probability 5.93e-07 (1.83e-12 -- 0.00022) (log-odds: -14.3 (-27 -- -8.42))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 7.65 (4.14 -- 17.9))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000953 (7.19e-05 -- 0.463)):
+	 Odds of positive outcome INCREASE (log-odds change by 7.38 (4.8 -- 14.2)), if:
+		Between time 93.750 and time 156.250, variable 13211 average is above 0.0040
+This rule applies to 11/35 (0.314) subjects in dataset, 7/11 with positive outcomes (0.636).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.0949 (3.55e-05 -- 0.996)):
+	 Odds of positive outcome INCREASE (log-odds change by 12.1 (4.09 -- 19.9)), if:
+		Between time 93.750 and time 250.000, variable 13140 average is above 0.0008
+This rule applies to 19/35 (0.543) subjects in dataset, 11/19 with positive outcomes (0.579).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 66: posterior probability 0.000578
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.207):
+If NO rules apply: positive outcome probability 0.00913 (1.94e-05 -- 0.133) (log-odds: -4.69 (-10.8 -- -1.87))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 10.3 (5.22 -- 16.2))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1.18e-07 (8.21e-10 -- 8.63e-06)):
+	 Odds of positive outcome DECREASE (log-odds change by -11.3 (-16.2 -- -6.97)), if:
+		Between time 93.750 and time 250.000, variable 13140 average is below 0.0004
+This rule applies to 15/35 (0.429) subjects in dataset, 0/15 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.981 (0.501 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 8.63 (4.69 -- 15.4)), if:
+		Between time 125.000 and time 218.750, variable 4039 average is above 0.1131
+This rule applies to 6/35 (0.171) subjects in dataset, 4/6 with positive outcomes (0.667).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 67: posterior probability 0.000556
+Representative rule list:
+Rule list with 1 rules (overall likelihood -8.66):
+If NO rules apply: positive outcome probability 0.667 (0.295 -- 0.932) (log-odds: 0.696 (-0.871 -- 2.61))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 4.46 (1.13 -- 15.2))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.00201 (1.99e-08 -- 0.07)):
+	 Odds of positive outcome DECREASE (log-odds change by -6.9 (-18.4 -- -3.28)), if:
+		Between time 31.250 and time 187.500, variable 13211 slope is below 0.0001
+This rule applies to 24/35 (0.686) subjects in dataset, 2/24 with positive outcomes (0.083).
+
+Accuracy of representative rule:
+AUC: 0.867
+Confusion matrix: 
+	[[22  2]
+	 [ 2  9]]
+
+
+Rule list cluster 68: posterior probability 0.000556
+Representative rule list:
+Rule list with 1 rules (overall likelihood -9.23):
+If NO rules apply: positive outcome probability 0.431 (0.164 -- 0.719) (log-odds: -0.277 (-1.63 -- 0.94))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 2.48 (0.224 -- 5.31))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 9.73e-06 (4.46e-09 -- 0.00162)):
+	 Odds of positive outcome DECREASE (log-odds change by -11.3 (-18.9 -- -6.15)), if:
+		Between time 93.750 and time 250.000, variable 13224 average is below 0.0698
+This rule applies to 18/35 (0.514) subjects in dataset, 0/18 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.797
+Confusion matrix: 
+	[[23  1]
+	 [ 4  7]]
+
+
+Rule list cluster 69: posterior probability 0.000533
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.14):
+If NO rules apply: positive outcome probability 0.014 (4.16e-06 -- 0.261) (log-odds: -4.25 (-12.4 -- -1.04))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 11.2 (3.9 -- 19.8))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.998 (0.304 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 10.4 (3.43 -- 20.4)), if:
+		Between time 281.250 and time 375.000, variable 12628 average is above 0.1285
+This rule applies to 13/35 (0.371) subjects in dataset, 6/13 with positive outcomes (0.462).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1.64e-10 (2.08e-14 -- 3.18e-07)):
+	 Odds of positive outcome DECREASE (log-odds change by -18.3 (-27.2 -- -10.7)), if:
+		Between time 125.000 and time 250.000, variable 13141 average is below 0.0004
+This rule applies to 15/35 (0.429) subjects in dataset, 0/15 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 70: posterior probability 0.000511
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.0233):
+If NO rules apply: positive outcome probability 0.00082 (2.82e-09 -- 0.018) (log-odds: -7.11 (-19.7 -- -4))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome DECREASE (log-odds change by -0.172 (-10.9 -- 4.06))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.793 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 15 (8.45 -- 24.2)), if:
+		Between time 0.000 and time 156.250, variable 13241 slope is above 0.0003
+		Between time 0.000 and time 156.250, variable sq1;size=1726155; average is below 0.2459
+This rule applies to 11/35 (0.314) subjects in dataset, 11/11 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 71: posterior probability 0.000511
+Representative rule list:
+Rule list with 1 rules (overall likelihood -9.76):
+If NO rules apply: positive outcome probability 0.402 (0.139 -- 0.765) (log-odds: -0.395 (-1.82 -- 1.18))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 2.5 (0.394 -- 5.21))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000118 (5.76e-12 -- 0.0567)):
+	 Odds of positive outcome DECREASE (log-odds change by -8.65 (-25.5 -- -2.42)), if:
+		Between time 62.500 and time 218.750, variable sq4;size=882628; average is below 0.0284
+This rule applies to 17/35 (0.486) subjects in dataset, 0/17 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.797
+Confusion matrix: 
+	[[23  1]
+	 [ 4  7]]
+
+
+Rule list cluster 72: posterior probability 0.000511
+Representative rule list:
+Rule list with 1 rules (overall likelihood -6.89):
+If NO rules apply: positive outcome probability 9.59e-05 (3.96e-08 -- 0.0137) (log-odds: -9.25 (-17 -- -4.28))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 4.93 (1.73 -- 10.3))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.421 (0.00898 -- 0.999)):
+	 Odds of positive outcome INCREASE (log-odds change by 8.93 (4.55 -- 16.8)), if:
+		Between time 62.500 and time 156.250, variable 14341 average is below 0.0012
+		Between time 93.750 and time 250.000, variable 13229 average is above 0.0230
+This rule applies to 17/35 (0.486) subjects in dataset, 11/17 with positive outcomes (0.647).
+
+Accuracy of representative rule:
+AUC: 0.818
+Confusion matrix: 
+	[[24  0]
+	 [ 4  7]]
+
+
+Rule list cluster 73: posterior probability 0.000511
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.0326):
+If NO rules apply: positive outcome probability 0.0016 (7.17e-06 -- 0.0279) (log-odds: -6.44 (-11.8 -- -3.55))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome DECREASE (log-odds change by -1.07 (-7.59 -- 5.4))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.955 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 17.3 (9.5 -- 32.4)), if:
+		Between time 156.250 and time 250.000, variable 13141 average is above 0.0009
+		Between time 0.000 and time 156.250, variable 13230 slope is above 0.0003
+This rule applies to 11/35 (0.314) subjects in dataset, 11/11 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 74: posterior probability 0.000489
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.308):
+If NO rules apply: positive outcome probability 1.02e-09 (1.99e-12 -- 5.36e-07) (log-odds: -20.7 (-26.9 -- -14.4))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 8.29 (4.75 -- 14.8))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 3.55e-06 (3.24e-08 -- 0.000412)):
+	 Odds of positive outcome INCREASE (log-odds change by 8.16 (3.46 -- 12.9)), if:
+		Between time 0.000 and time 125.000, variable 13240 slope is above 0.0003
+This rule applies to 16/35 (0.457) subjects in dataset, 9/16 with positive outcomes (0.562).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.00756 (2.26e-05 -- 0.65)):
+	 Odds of positive outcome INCREASE (log-odds change by 15.8 (10 -- 21.3)), if:
+		Between time 125.000 and time 281.250, variable 13141 average is above 0.0023
+This rule applies to 18/35 (0.514) subjects in dataset, 11/18 with positive outcomes (0.611).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 75: posterior probability 0.000489
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.136):
+If NO rules apply: positive outcome probability 0.982 (0.535 -- 1) (log-odds: 4.03 (0.141 -- 9.69))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 10.6 (4.25 -- 18.5))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 4.45e-07 (5.99e-10 -- 0.000573)):
+	 Odds of positive outcome DECREASE (log-odds change by -18.7 (-25.3 -- -11.5)), if:
+		Between time 187.500 and time 312.500, variable 13140 average is below 0.0021
+This rule applies to 13/35 (0.371) subjects in dataset, 0/13 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.00179 (8.25e-06 -- 0.312)):
+	 Odds of positive outcome DECREASE (log-odds change by -10.4 (-15.7 -- -4.82)), if:
+		Between time 0.000 and time 125.000, variable 13258 slope is below 0.0006
+This rule applies to 25/35 (0.714) subjects in dataset, 2/25 with positive outcomes (0.080).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 76: posterior probability 0.000489
+Representative rule list:
+Rule list with 2 rules (overall likelihood -2.59):
+If NO rules apply: positive outcome probability 0.999 (0.892 -- 1) (log-odds: 6.94 (2.11 -- 12.9))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 4.38 (1.7 -- 6.75))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 3.21e-05 (5.82e-07 -- 0.00442)):
+	 Odds of positive outcome DECREASE (log-odds change by -17.3 (-21.3 -- -12.4)), if:
+		Between time 125.000 and time 187.500, variable 13240 average is below 0.0693
+This rule applies to 14/35 (0.400) subjects in dataset, 0/14 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.0198 (5.29e-05 -- 0.802)):
+	 Odds of positive outcome DECREASE (log-odds change by -10.8 (-16.8 -- -5.54)), if:
+		Between time 62.500 and time 187.500, variable sq35;size=126951; average is below 0.0053
+This rule applies to 25/35 (0.714) subjects in dataset, 3/25 with positive outcomes (0.120).
+
+Accuracy of representative rule:
+AUC: 0.979
+Confusion matrix: 
+	[[23  1]
+	 [ 0 11]]
+
+
+Rule list cluster 77: posterior probability 0.000489
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.231):
+If NO rules apply: positive outcome probability 0.00968 (0.000982 -- 0.0721) (log-odds: -4.63 (-6.92 -- -2.56))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome DECREASE (log-odds change by -0.457 (-8.68 -- 4.89))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.999 (0.815 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 11.3 (6.11 -- 21.3)), if:
+		Between time 0.000 and time 156.250, variable 13240 slope is above 0.0002
+		Between time 0.000 and time 125.000, variable 14341 slope is below 0.0000
+This rule applies to 11/35 (0.314) subjects in dataset, 11/11 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 78: posterior probability 0.000489
+Representative rule list:
+Rule list with 1 rules (overall likelihood -10.8):
+If NO rules apply: positive outcome probability 3.6e-05 (1.86e-07 -- 0.018) (log-odds: -10.2 (-15.5 -- -4))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 3.25 (1.18 -- 5.69))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.33 (0.000677 -- 0.991)):
+	 Odds of positive outcome INCREASE (log-odds change by 9.52 (2.93 -- 15)), if:
+		Between time 93.750 and time 250.000, variable sq4;size=882628; average is above 0.0319
+This rule applies to 20/35 (0.571) subjects in dataset, 11/20 with positive outcomes (0.550).
+
+Accuracy of representative rule:
+AUC: 0.797
+Confusion matrix: 
+	[[23  1]
+	 [ 4  7]]
+
+
+Rule list cluster 79: posterior probability 0.000467
+Representative rule list:
+Rule list with 2 rules (overall likelihood -5.1):
+If NO rules apply: positive outcome probability 0.149 (0.0488 -- 0.395) (log-odds: -1.74 (-2.97 -- -0.424))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome DECREASE (log-odds change by -3.15 (-12.6 -- 6.03))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 4.04e-08 (5.89e-11 -- 4.9e-05)):
+	 Odds of positive outcome DECREASE (log-odds change by -15.3 (-21.8 -- -8.18)), if:
+		Between time 156.250 and time 250.000, variable 13140 average is below 0.0002
+This rule applies to 16/35 (0.457) subjects in dataset, 0/16 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (0.79 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 14.3 (3.06 -- 21)), if:
+		Between time 93.750 and time 156.250, variable 13231 average is above 0.1309
+This rule applies to 9/35 (0.257) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 0.909
+Confusion matrix: 
+	[[24  0]
+	 [ 2  9]]
+
+
+Rule list cluster 80: posterior probability 0.000444
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.000778):
+If NO rules apply: positive outcome probability 2.44e-05 (5.51e-11 -- 0.00431) (log-odds: -10.6 (-23.6 -- -5.44))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 0.225 (-7.96 -- 8.63))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.788 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 21.7 (11.9 -- 33.5)), if:
+		Between time 0.000 and time 156.250, variable 13240 slope is above 0.0003
+		Between time 125.000 and time 250.000, variable 13199 average is below 0.0127
+This rule applies to 11/35 (0.314) subjects in dataset, 11/11 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 81: posterior probability 0.000444
+Representative rule list:
+Rule list with 1 rules (overall likelihood -8.83):
+If NO rules apply: positive outcome probability 0.305 (0.0892 -- 0.477) (log-odds: -0.822 (-2.32 -- -0.0917))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 5.51 (1.96 -- 13.3))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 5.3e-06 (1.73e-09 -- 0.00584)):
+	 Odds of positive outcome DECREASE (log-odds change by -11.3 (-19.4 -- -4.32)), if:
+		Between time 187.500 and time 281.250, variable 12628 average is below 0.0078
+This rule applies to 13/35 (0.371) subjects in dataset, 0/13 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.818
+Confusion matrix: 
+	[[24  0]
+	 [ 4  7]]
+
+
+Rule list cluster 82: posterior probability 0.000444
+Representative rule list:
+Rule list with 2 rules (overall likelihood -2.55):
+If NO rules apply: positive outcome probability 0.785 (0.49 -- 0.976) (log-odds: 1.3 (-0.04 -- 3.69))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 10.9 (5.83 -- 18.9))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 5.79e-08 (8.75e-13 -- 0.000638)):
+	 Odds of positive outcome DECREASE (log-odds change by -18 (-29.1 -- -8.65)), if:
+		Between time 125.000 and time 281.250, variable 13141 average is below 0.0022
+This rule applies to 16/35 (0.457) subjects in dataset, 0/16 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.00276 (5.66e-06 -- 0.122)):
+	 Odds of positive outcome DECREASE (log-odds change by -7.19 (-13.4 -- -3.27)), if:
+		Between time 0.000 and time 62.500, variable 8002 slope is above -0.0128
+This rule applies to 22/35 (0.629) subjects in dataset, 3/22 with positive outcomes (0.136).
+
+Accuracy of representative rule:
+AUC: 0.979
+Confusion matrix: 
+	[[23  1]
+	 [ 0 11]]
+
+
+Rule list cluster 83: posterior probability 0.000444
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.182):
+If NO rules apply: positive outcome probability 0.969 (0.528 -- 1) (log-odds: 3.45 (0.113 -- 8.68))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 9.51 (2.83 -- 16.5))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.0184 (1.9e-05 -- 0.701)):
+	 Odds of positive outcome DECREASE (log-odds change by -7.42 (-14.3 -- -2.6)), if:
+		Between time 187.500 and time 343.750, variable 13241 average is above 0.2734
+This rule applies to 9/35 (0.257) subjects in dataset, 5/9 with positive outcomes (0.556).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 3.17e-09 (3.25e-12 -- 4.42e-06)):
+	 Odds of positive outcome DECREASE (log-odds change by -23 (-29.9 -- -15.8)), if:
+		Between time 0.000 and time 156.250, variable 13241 slope is below 0.0003
+This rule applies to 22/35 (0.629) subjects in dataset, 0/22 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 84: posterior probability 0.000422
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0624):
+If NO rules apply: positive outcome probability 0.0028 (3.71e-05 -- 0.0885) (log-odds: -5.87 (-10.2 -- -2.33))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 11.7 (7.02 -- 24.2))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.999 (0.822 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 12.6 (7.4 -- 26.4)), if:
+		Between time 93.750 and time 250.000, variable 4039 average is above 0.1217
+This rule applies to 5/35 (0.143) subjects in dataset, 4/5 with positive outcomes (0.800).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1.34e-09 (2.12e-14 -- 1.32e-06)):
+	 Odds of positive outcome DECREASE (log-odds change by -14.6 (-25.6 -- -7.66)), if:
+		Between time 125.000 and time 281.250, variable 13141 average is below 0.0010
+This rule applies to 11/35 (0.314) subjects in dataset, 0/11 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 85: posterior probability 0.000422
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0916):
+If NO rules apply: positive outcome probability 0.0093 (5.47e-07 -- 0.307) (log-odds: -4.67 (-14.4 -- -0.816))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 0.603 (-7.19 -- 5.2))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1.44e-08 (7.26e-13 -- 2.6e-05)):
+	 Odds of positive outcome DECREASE (log-odds change by -13.4 (-23.3 -- -5.89)), if:
+		Between time 156.250 and time 281.250, variable 13140 average is below 0.0029
+This rule applies to 18/35 (0.514) subjects in dataset, 0/18 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (0.772 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 12.8 (5.89 -- 17.8)), if:
+		Between time 0.000 and time 156.250, variable 13230 slope is above 0.0001
+This rule applies to 16/35 (0.457) subjects in dataset, 11/16 with positive outcomes (0.688).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 86: posterior probability 0.000422
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.0511):
+If NO rules apply: positive outcome probability 0.00263 (1.05e-05 -- 0.0396) (log-odds: -5.94 (-11.5 -- -3.19))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome DECREASE (log-odds change by -1.45 (-10.8 -- 5.21))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.997 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 20 (11.9 -- 30.6)), if:
+		Between time 0.000 and time 156.250, variable 13241 slope is above 0.0003
+		Between time 93.750 and time 250.000, variable 14341 slope is above -0.0000
+This rule applies to 11/35 (0.314) subjects in dataset, 11/11 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 87: posterior probability 0.000422
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.0783):
+If NO rules apply: positive outcome probability 0.000539 (2.79e-07 -- 0.0145) (log-odds: -7.52 (-15.1 -- -4.22))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 3.06 (-2.79 -- 10.8))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.99 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 20.3 (12.1 -- 30.1)), if:
+		Between time 0.000 and time 156.250, variable 13240 slope is above 0.0003
+		Between time 218.750 and time 375.000, variable 12762 slope is below 0.0000
+This rule applies to 11/35 (0.314) subjects in dataset, 11/11 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 88: posterior probability 0.0004
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.141):
+If NO rules apply: positive outcome probability 0.0135 (1.78e-05 -- 0.417) (log-odds: -4.29 (-10.9 -- -0.336))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 12.5 (7.5 -- 17.8))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.999 (0.905 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 10.9 (6.54 -- 18.2)), if:
+		Between time 93.750 and time 250.000, variable 12628 average is above 0.0037
+This rule applies to 25/35 (0.714) subjects in dataset, 11/25 with positive outcomes (0.440).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 4.84e-08 (3.36e-11 -- 6.95e-06)):
+	 Odds of positive outcome DECREASE (log-odds change by -12.6 (-19.8 -- -7.59)), if:
+		Between time 125.000 and time 218.750, variable 4039 average is below 0.1191
+This rule applies to 30/35 (0.857) subjects in dataset, 7/30 with positive outcomes (0.233).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 89: posterior probability 0.0004
+Representative rule list:
+Rule list with 1 rules (overall likelihood -10.8):
+If NO rules apply: positive outcome probability 0.32 (0.115 -- 0.585) (log-odds: -0.754 (-2.04 -- 0.345))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 3.2 (0.898 -- 5.4))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 2.81e-05 (2.62e-09 -- 0.0233)):
+	 Odds of positive outcome DECREASE (log-odds change by -9.72 (-19 -- -2.98)), if:
+		Between time 62.500 and time 125.000, variable 14341 average is above 0.0001
+This rule applies to 15/35 (0.429) subjects in dataset, 0/15 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.797
+Confusion matrix: 
+	[[23  1]
+	 [ 4  7]]
+
+
+Rule list cluster 90: posterior probability 0.0004
+Representative rule list:
+Rule list with 1 rules (overall likelihood -7.22):
+If NO rules apply: positive outcome probability 0.353 (0.139 -- 0.66) (log-odds: -0.606 (-1.82 -- 0.665))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 7.14 (1.87 -- 17.5))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1.35e-09 (4.72e-15 -- 0.000449)):
+	 Odds of positive outcome DECREASE (log-odds change by -19.8 (-32.4 -- -7.1)), if:
+		Between time 93.750 and time 218.750, variable sq35;size=126951; average is below 0.0073
+		Between time 250.000 and time 375.000, variable sq6;size=717096; slope is above -0.0000
+This rule applies to 17/35 (0.486) subjects in dataset, 0/17 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.818
+Confusion matrix: 
+	[[24  0]
+	 [ 4  7]]
+
+
+Rule list cluster 91: posterior probability 0.0004
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.113):
+If NO rules apply: positive outcome probability 0.000199 (9.75e-07 -- 0.201) (log-odds: -8.52 (-13.8 -- -1.38))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 13.8 (3.66 -- 20.6))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.996 (0.019 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 14.1 (4.58 -- 19)), if:
+		Between time 93.750 and time 187.500, variable sq35;size=126951; average is above 0.0080
+This rule applies to 9/35 (0.257) subjects in dataset, 8/9 with positive outcomes (0.889).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1.17e-08 (1.14e-10 -- 3.63e-07)):
+	 Odds of positive outcome DECREASE (log-odds change by -9.74 (-14.4 -- -6.3)), if:
+		Between time 156.250 and time 312.500, variable 13154 average is below 0.0003
+This rule applies to 23/35 (0.657) subjects in dataset, 3/23 with positive outcomes (0.130).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 92: posterior probability 0.000378
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.264):
+If NO rules apply: positive outcome probability 0.103 (0.000657 -- 0.613) (log-odds: -2.17 (-7.33 -- 0.46))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 8.93 (2.85 -- 13.5))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 9.07e-12 (3.47e-13 -- 7.78e-10)):
+	 Odds of positive outcome DECREASE (log-odds change by -23.3 (-26.5 -- -18.8)), if:
+		Between time 0.000 and time 156.250, variable 13240 slope is below 0.0003
+This rule applies to 22/35 (0.629) subjects in dataset, 0/22 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.99 (0.74 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 6.76 (3.22 -- 16.3)), if:
+		Between time 156.250 and time 218.750, variable 13241 average is below 0.2377
+This rule applies to 23/35 (0.657) subjects in dataset, 5/23 with positive outcomes (0.217).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 93: posterior probability 0.000378
+Representative rule list:
+Rule list with 2 rules (overall likelihood -2.76):
+If NO rules apply: positive outcome probability 0.00421 (1.15e-06 -- 0.132) (log-odds: -5.47 (-13.7 -- -1.89))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome DECREASE (log-odds change by -1.19 (-6.89 -- 3.78))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 4.52e-06 (3.07e-10 -- 0.000318)):
+	 Odds of positive outcome DECREASE (log-odds change by -6.84 (-16.4 -- -2.59)), if:
+		Between time 187.500 and time 281.250, variable 13258 slope is above 0.0002
+This rule applies to 17/35 (0.486) subjects in dataset, 1/17 with positive outcomes (0.059).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.999 (0.809 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 12.7 (6.91 -- 19.9)), if:
+		Between time 0.000 and time 156.250, variable 13240 slope is above 0.0003
+This rule applies to 14/35 (0.400) subjects in dataset, 11/14 with positive outcomes (0.786).
+
+Accuracy of representative rule:
+AUC: 0.958
+Confusion matrix: 
+	[[22  2]
+	 [ 0 11]]
+
+
+Rule list cluster 94: posterior probability 0.000378
+Representative rule list:
+Rule list with 2 rules (overall likelihood -2.83):
+If NO rules apply: positive outcome probability 1.48e-05 (9.35e-08 -- 0.00135) (log-odds: -11.1 (-16.2 -- -6.6))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 7.09 (2.5 -- 13.1))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.0394 (3.19e-05 -- 0.901)):
+	 Odds of positive outcome INCREASE (log-odds change by 7.93 (0.769 -- 13.3)), if:
+		Between time 218.750 and time 343.750, variable 12620 slope is below -0.0000
+This rule applies to 5/35 (0.143) subjects in dataset, 3/5 with positive outcomes (0.600).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.865 (0.027 -- 0.999)):
+	 Odds of positive outcome INCREASE (log-odds change by 13 (7.54 -- 18.2)), if:
+		Between time 93.750 and time 187.500, variable sq35;size=126951; average is above 0.0080
+This rule applies to 9/35 (0.257) subjects in dataset, 8/9 with positive outcomes (0.889).
+
+Accuracy of representative rule:
+AUC: 0.979
+Confusion matrix: 
+	[[23  1]
+	 [ 0 11]]
+
+
+Rule list cluster 95: posterior probability 0.000356
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.289):
+If NO rules apply: positive outcome probability 0.957 (0.699 -- 0.999) (log-odds: 3.11 (0.842 -- 6.74))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 1.32 (-4.06 -- 5.08))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1.02e-08 (8.39e-11 -- 4.67e-06)):
+	 Odds of positive outcome DECREASE (log-odds change by -21.5 (-26.3 -- -15.4)), if:
+		Between time 156.250 and time 281.250, variable 13140 average is below 0.0029
+This rule applies to 18/35 (0.514) subjects in dataset, 0/18 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.00528 (0.000131 -- 0.207)):
+	 Odds of positive outcome DECREASE (log-odds change by -8.35 (-12 -- -4.46)), if:
+		Between time 0.000 and time 156.250, variable 13231 slope is below 0.0001
+This rule applies to 19/35 (0.543) subjects in dataset, 0/19 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 96: posterior probability 0.000356
+Representative rule list:
+Rule list with 2 rules (overall likelihood -3.04):
+If NO rules apply: positive outcome probability 2.59e-05 (1.66e-07 -- 0.000719) (log-odds: -10.6 (-15.6 -- -7.24))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 5.13 (1.97 -- 8.89))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.0507 (0.00114 -- 0.575)):
+	 Odds of positive outcome INCREASE (log-odds change by 7.63 (3.79 -- 10.9)), if:
+		Between time 62.500 and time 218.750, variable 13231 average is above 0.1821
+This rule applies to 8/35 (0.229) subjects in dataset, 6/8 with positive outcomes (0.750).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.72 (0.137 -- 0.999)):
+	 Odds of positive outcome INCREASE (log-odds change by 11.5 (8.72 -- 17.5)), if:
+		Between time 93.750 and time 187.500, variable sq35;size=126951; average is above 0.0080
+This rule applies to 9/35 (0.257) subjects in dataset, 8/9 with positive outcomes (0.889).
+
+Accuracy of representative rule:
+AUC: 0.979
+Confusion matrix: 
+	[[23  1]
+	 [ 0 11]]
+
+
+Rule list cluster 97: posterior probability 0.000356
+Representative rule list:
+Rule list with 1 rules (overall likelihood -6.8):
+If NO rules apply: positive outcome probability 0.356 (0.174 -- 0.678) (log-odds: -0.594 (-1.56 -- 0.743))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 7.65 (3.4 -- 12.5))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1.79e-06 (1.19e-08 -- 3.41e-05)):
+	 Odds of positive outcome DECREASE (log-odds change by -12.6 (-17.7 -- -9.69)), if:
+		Between time 31.250 and time 125.000, variable 8250 average is above 0.1352
+		Between time 31.250 and time 187.500, variable 13241 average is below 0.1637
+This rule applies to 18/35 (0.514) subjects in dataset, 0/18 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.818
+Confusion matrix: 
+	[[24  0]
+	 [ 4  7]]
+
+
+Rule list cluster 98: posterior probability 0.000356
+Representative rule list:
+Rule list with 1 rules (overall likelihood -0.0397):
+If NO rules apply: positive outcome probability 0.00123 (2.42e-06 -- 0.0407) (log-odds: -6.7 (-12.9 -- -3.16))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome DECREASE (log-odds change by -0.456 (-8.72 -- 5.01))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.999 (0.874 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 13.8 (8.64 -- 22.7)), if:
+		Between time 0.000 and time 156.250, variable 13240 slope is above 0.0003
+		Between time 0.000 and time 156.250, variable 13141 average is above 0.0002
+This rule applies to 11/35 (0.314) subjects in dataset, 11/11 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+
+Rule list cluster 99: posterior probability 0.000333
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0596):
+If NO rules apply: positive outcome probability 0.999 (0.819 -- 1) (log-odds: 7.44 (1.51 -- 13.4))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 13.3 (6.9 -- 21.9))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000385 (1.71e-06 -- 0.313)):
+	 Odds of positive outcome DECREASE (log-odds change by -15.3 (-20.7 -- -8.22)), if:
+		Between time 156.250 and time 312.500, variable 13140 average is below 0.0020
+This rule applies to 13/35 (0.371) subjects in dataset, 0/13 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.00461 (3.9e-06 -- 0.379)):
+	 Odds of positive outcome DECREASE (log-odds change by -12.8 (-19.9 -- -7.93)), if:
+		Between time 93.750 and time 156.250, variable 4250 average is below 0.0000
+This rule applies to 27/35 (0.771) subjects in dataset, 5/27 with positive outcomes (0.185).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+

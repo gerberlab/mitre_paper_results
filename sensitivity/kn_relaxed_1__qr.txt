@@ -1,0 +1,100 @@
+BAYES FACTOR FOR THE EMPTY RULE SET: 0
+
+
+POINT SUMMARY:
+Rule list with 8 rules (overall likelihood -4.92):
+If NO rules apply: positive outcome probability 0.996 (0.967 -- 0.999) (log-odds: 5.47 (3.39 -- 7.25))
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.999 (8.55e-07 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 2.06 (-19.4 -- 17.2)), if:
+		Between time 27.000 and time 415.000, variable 14882 average is above 0.4147
+		Between time 221.000 and time 512.000, variable 13128 average is below 0.0003
+		Between time 221.000 and time 609.000, variable sq62;size=199303; slope is below 0.0000
+		Between time 221.000 and time 609.000, variable sq123;size=72805; slope is above 0.0000
+		Between time 221.000 and time 609.000, variable sq242;size=27049; slope is below 0.0000
+		Between time 415.000 and time 609.000, variable sq57;size=209041; average is above 0.0005
+		Between time 415.000 and time 803.000, variable sq98;size=101965; average is above 0.0025
+		Between time 512.000 and time 803.000, variable 12612 average is below 0.0031
+		Between time 512.000 and time 803.000, variable 13164 average is above 0.0304
+		Between time 512.000 and time 900.000, variable 6146 average is below 0.0652
+This rule applies to 0/90 (0.000) subjects in dataset, 0/0 with positive outcomes (nan).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (1 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 11.5 (6.43 -- 14.9)), if:
+		Between time 124.000 and time 512.000, variable sq42;size=355037; average is below 0.0546
+		Between time 124.000 and time 512.000, variable 12608 average is above 0.0001
+		Between time 124.000 and time 512.000, variable 13230 average is above 0.1251
+		Between time 512.000 and time 803.000, variable 15300 average is above 0.4931
+This rule applies to 5/90 (0.056) subjects in dataset, 5/5 with positive outcomes (1.000).
+
+Rule 2 (predicted positive outcome probability if only this rule is satisfied, 0.967 (0.599 -- 0.992)):
+	 Odds of positive outcome DECREASE (log-odds change by -2.1 (-5.07 -- -0.664)), if:
+		Between time 27.000 and time 415.000, variable 12580 average is below 0.0565
+		Between time 221.000 and time 609.000, variable 12595 average is below 0.0443
+		Between time 415.000 and time 706.000, variable sq182;size=42391; average is above 0.0008
+This rule applies to 21/90 (0.233) subjects in dataset, 1/21 with positive outcomes (0.048).
+
+Rule 3 (predicted positive outcome probability if only this rule is satisfied, 0.993 (3.49e-05 -- 1)):
+	 Odds of positive outcome DECREASE (log-odds change by -0.563 (-15.7 -- 11.4)), if:
+		Between time 27.000 and time 415.000, variable 6158 slope is below -0.0001
+		Between time 124.000 and time 512.000, variable 7983 slope is below -0.0000
+		Between time 221.000 and time 512.000, variable 12593 average is below 0.0008
+		Between time 221.000 and time 609.000, variable 12598 slope is above 0.0000
+		Between time 318.000 and time 609.000, variable 12590 average is below 0.0381
+		Between time 318.000 and time 706.000, variable sq121;size=74695; average is below 0.0032
+		Between time 415.000 and time 803.000, variable 6146 slope is below -0.0002
+		Between time 512.000 and time 706.000, variable 13109 average is above 0.0056
+This rule applies to 0/90 (0.000) subjects in dataset, 0/0 with positive outcomes (nan).
+
+Rule 4 (predicted positive outcome probability if only this rule is satisfied, 1 (0.992 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 2.6 (-0.682 -- 5.51)), if:
+		Between time 512.000 and time 900.000, variable 12065 average is below 0.0466
+This rule applies to 66/90 (0.733) subjects in dataset, 15/66 with positive outcomes (0.227).
+
+Rule 5 (predicted positive outcome probability if only this rule is satisfied, 0.00106 (0.000386 -- 0.00999)):
+	 Odds of positive outcome DECREASE (log-odds change by -12.3 (-13.3 -- -10.1)), if:
+		Between time 27.000 and time 415.000, variable 14676 average is below 0.0276
+This rule applies to 72/90 (0.800) subjects in dataset, 6/72 with positive outcomes (0.083).
+
+Rule 6 (predicted positive outcome probability if only this rule is satisfied, 0.951 (0.0193 -- 1)):
+	 Odds of positive outcome DECREASE (log-odds change by -2.51 (-9.4 -- 16.4)), if:
+		Between time 124.000 and time 512.000, variable sq23;size=649275; average is above 0.0388
+		Between time 124.000 and time 512.000, variable sq66;size=186030; slope is below 0.0003
+		Between time 221.000 and time 609.000, variable sq60;size=200724; slope is below 0.0000
+		Between time 318.000 and time 706.000, variable 4057 slope is above -0.0001
+		Between time 415.000 and time 609.000, variable sq30;size=495992; average is below 0.0068
+		Between time 415.000 and time 706.000, variable 13149 average is below 0.1777
+		Between time 415.000 and time 803.000, variable 13077 average is below 0.0084
+		Between time 512.000 and time 900.000, variable sq2;size=3651925; slope is below 0.0008
+		Between time 512.000 and time 900.000, variable sq207;size=34903; average is below 0.0011
+This rule applies to 0/90 (0.000) subjects in dataset, 0/0 with positive outcomes (nan).
+
+Rule 7 (predicted positive outcome probability if only this rule is satisfied, 1 (0.599 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 4.77 (-5.07 -- 19.5)), if:
+		Between time 124.000 and time 512.000, variable sq70;size=169081; slope is below -0.0000
+		Between time 124.000 and time 512.000, variable 12664 average is above 0.1616
+		Between time 415.000 and time 803.000, variable 6264 slope is below 0.0000
+		Between time 512.000 and time 900.000, variable 12615 slope is above -0.0000
+		Between time 512.000 and time 900.000, variable 13142 average is below 0.0241
+This rule applies to 0/90 (0.000) subjects in dataset, 0/0 with positive outcomes (nan).
+
+POINT SUMMARY CLASSIFIER PERFORMANCE:
+AUC: 0.983
+Confusion matrix: 
+	[[66  0]
+	 [ 1 23]]
+
+ENSEMBLE CLASSIFIER PERFORMANCE:
+AUC: 1.000
+Confusion matrix: 
+	[[66  0]
+	 [24  0]]
+
+23749 total samples after 1250 burnin
+Most frequent rule list lengths (counting total number of primitives):
+	frequency	length
+	0.76		41
+	0.0189		12
+	0.0184		9
+	0.0179		8
+	0.0152		13

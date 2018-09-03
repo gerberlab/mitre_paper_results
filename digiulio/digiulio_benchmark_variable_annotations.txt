@@ -1,0 +1,66 @@
+name	description	leaves
+sq1;size=1301081;	OTU mapped to Lactobacillus iners	
+sq2;size=1167935;	OTU mapped to Lactobacillus acidophilus/casei/crispatus/fermentum/gallinarum/helveticus/rhamnosus	
+sq4;size=270582;	OTU mapped to Lactobacillus gasseri/johnsonii	
+sq5;size=214563;	OTU mapped to Lactobacillus fornicalis/jensenii	
+sq6;size=172090;	OTU mapped to Lactobacillus jensenii	
+sq8;size=101995;	OTU mapped to Gardnerella vaginalis	
+sq9;size=88970;	OTU mapped to Lactobacillus iners	
+sq10;size=81987;	OTU mapped to Atopobium vaginae	
+sq11;size=68881;	OTU mapped to Prevotella bivia	
+sq13;size=64232;	OTU mapped to Finegoldia magna	
+sq14;size=45304;	OTU mapped to a clade within genus Lactobacillus,including representatives of species Lactobacillus taiwanensis, Lactobacillus gasseri, Lactobacillus johnsonii	
+sq15;size=41461;	OTU mapped to Prevotella timonensis	
+sq17;size=37588;	OTU mapped to Prevotella bivia	
+sq19;size=28060;	OTU mapped to a clade within genus Prevotella,including representatives of species Prevotella loescheii, Prevotella shahii	
+sq20;size=26462;	OTU mapped to Gardnerella vaginalis	
+sq21;size=22766;	OTU mapped to Prevotella timonensis	
+sq30;size=13263;	OTU mapped to a clade within order Clostridiales,including representatives of family Peptostreptococcaceae, Clostridiales Family XI. Incertae Sedis	
+sq31;size=12696;	OTU mapped to Negativicoccus succinicivorans	
+sq34;size=11083;	OTU mapped to Gardnerella vaginalis	
+sq38;size=10206;	OTU mapped to Prevotella timonensis	
+sq44;size=8039;	OTU mapped to Lactobacillus helveticus	
+sq55;size=6557;	OTU mapped to Dialister micraerophilus	
+sq141;size=1280;	OTU mapped to a clade within family Coriobacteriaceae,including representatives of genus Cryptobacterium, Gordonibacter, Adlercreutzia, Paraeggerthella, Eggerthella, Slackia, Denitrobacterium, Enterorhabdus, Asaccharobacter	
+15300	a clade within phylum Tenericutes or Fusobacteria or Elusimicrobia or Bacteroidetes or Proteobacteria or Firmicutes	12202 12340 sq30;size=13263; 12927 sq13;size=64232; 12913 sq55;size=6557; 12055 12058 sq31;size=12696; sq1;size=1301081; sq9;size=88970; sq4;size=270582; sq14;size=45304; sq5;size=214563; sq2;size=1167935; sq44;size=8039; sq6;size=172090; 14317
+11798	a clade within phylum Tenericutes or Planctomycetes or Acidobacteria or Ignavibacteriae or Gemmatimonadetes or Proteobacteria or Spirochaetes or Chlamydiae or Lentisphaerae or Chlorobi or Bacteroidetes or Deinococcus-Thermus or Fibrobacteres or Nitrospirae or Actinobacteria or Firmicutes or Verrucomicrobia or Chloroflexi	1408 2827 sq8;size=101995; sq20;size=26462; sq34;size=11083; sq141;size=1280; sq10;size=81987; 9997 sq17;size=37588; sq11;size=68881; 6041 6086 sq38;size=10206; sq21;size=22766; sq15;size=41461; sq19;size=28060;
+13284	a clade within phylum Tenericutes or Fusobacteria or Elusimicrobia or Bacteroidetes or Proteobacteria or Firmicutes	12202 12340 sq30;size=13263; 12927 sq13;size=64232; 12913 sq55;size=6557; 12055 12058 sq31;size=12696;
+13260	a clade within phylum Tenericutes or Bacteroidetes or Fusobacteria or Elusimicrobia or Firmicutes	12202 12340 sq30;size=13263; 12927 sq13;size=64232; 12913
+11789	a clade within phylum Bacteroidetes or Deinococcus-Thermus or Chlorobi or Ignavibacteriae or Proteobacteria	9997 sq17;size=37588; sq11;size=68881; 6041 6086 sq38;size=10206; sq21;size=22766; sq15;size=41461; sq19;size=28060;
+4216	a clade within phylum Chloroflexi or Actinobacteria or Firmicutes	1408 2827 sq8;size=101995; sq20;size=26462; sq34;size=11083; sq141;size=1280; sq10;size=81987;
+12580	a clade within phylum Tenericutes or Bacteroidetes or Fusobacteria or Firmicutes	12202 12340
+4090	a clade within phylum Actinobacteria or Firmicutes	1408 2827 sq8;size=101995; sq20;size=26462; sq34;size=11083;
+12202	a clade within order Fusobacteriales,including representatives of family Leptotrichiaceae, Fusobacteriaceae	
+4214	a clade within family Coriobacteriaceae,including representatives of genus Cryptobacterium, Atopobium, Olsenella, Gordonibacter, Adlercreutzia, Paraeggerthella, Coriobacterium, Eggerthella, Slackia, Denitrobacterium, Enterorhabdus, Collinsella, Asaccharobacter	sq141;size=1280; sq10;size=81987;
+9997	a clade within phylum Proteobacteria,including representatives of class Betaproteobacteria, Gammaproteobacteria	
+3398	a clade within phylum Actinobacteria or Firmicutes	1408 2827
+12062	a clade within family Veillonellaceae,including representatives of genus Negativicoccus, Dialister, Allisonella	sq55;size=6557; 12055 12058 sq31;size=12696;
+12061	a clade within family Veillonellaceae,including representatives of genus Dialister, Allisonella	sq55;size=6557; 12055 12058
+12943	a clade within order Clostridiales,including representatives of family Peptostreptococcaceae, Clostridiales Family XI. Incertae Sedis	sq30;size=13263; 12927 sq13;size=64232; 12913
+4077	Gardnerella vaginalis	sq8;size=101995; sq20;size=26462; sq34;size=11083;
+12942	a clade within order Clostridiales,including representatives of family Peptostreptococcaceae, Clostridiales Family XI. Incertae Sedis	sq30;size=13263; 12927 sq13;size=64232;
+12059	a clade within genus Dialister,including representatives of species Dialister propionicifaciens, Dialister invisus, Dialister succinatiphilus	12055 12058
+12055	Dialister propionicifaciens	
+12058	a clade within genus Dialister,including representatives of species Dialister invisus, Dialister succinatiphilus	
+12340	a clade within genus Ureaplasma,including representatives of species Ureaplasma urealyticum, Ureaplasma parvum	
+2827	a clade within family Corynebacteriaceae,including representatives of genus Turicella, Corynebacterium	
+12913	a clade within genus Peptoniphilus,including representatives of species Peptoniphilus olsenii, Peptoniphilus harei, Peptoniphilus gorbachii	
+12927	a clade within genus Anaerococcus,including representatives of species Anaerococcus lactolyticus, Anaerococcus murdochii, Anaerococcus prevotii, Anaerococcus tetradius, Anaerococcus octavius	
+14341	a clade within family Lactobacillaceae,including representatives of genus Lactobacillus, Pediococcus	sq1;size=1301081; sq9;size=88970; sq4;size=270582; sq14;size=45304; sq5;size=214563; sq2;size=1167935; sq44;size=8039; sq6;size=172090; 14317
+6109	a clade within family Prevotellaceae,including representatives of genus Hallella, Prevotella	sq17;size=37588; sq11;size=68881; 6041 6086 sq38;size=10206; sq21;size=22766; sq15;size=41461; sq19;size=28060;
+6073	a clade within genus Prevotella,including representatives of species Prevotella maculosa, Prevotella multiformis, Prevotella histicola, Prevotella salivae, Prevotella copri, Prevotella amnii, Prevotella denticola, Prevotella albensis, Prevotella paludivivens, Prevotella falsenii, Prevotella bivia, Prevotella pallens, Prevotella corporis, Prevotella dentasini, Prevotella disiens, Prevotella intermedia, Prevotella melaninogenica, Prevotella nigrescens, Prevotella oris, Prevotella oulorum, Prevotella veroralis, Prevotella aurantiaca, Prevotella fusca, Prevotella scopos	sq17;size=37588; sq11;size=68881; 6041
+14157	a clade within genus Lactobacillus,including representatives of species Lactobacillus acetotolerans, Lactobacillus taiwanensis, Lactobacillus amylovorus, Lactobacillus intestinalis, Lactobacillus kitasatonis, Lactobacillus johnsonii, Lactobacillus kalixensis, Lactobacillus ultunensis, Lactobacillus kefiranofaciens, Lactobacillus acidophilus, Lactobacillus delbrueckii, Lactobacillus gallinarum, Lactobacillus helveticus, Lactobacillus hamsteri, Lactobacillus amylolyticus, Lactobacillus fornicalis, Lactobacillus iners, Lactobacillus gasseri, Lactobacillus crispatus, Lactobacillus jensenii, Lactobacillus equicursoris	sq1;size=1301081; sq9;size=88970; sq4;size=270582; sq14;size=45304; sq5;size=214563; sq2;size=1167935; sq44;size=8039; sq6;size=172090;
+1408	a clade within family Actinomycetaceae,including representatives of genus Mobiluncus, Varibaculum, Actinomyces	
+14123	a clade within genus Lactobacillus,including representatives of species Lactobacillus iners, Lactobacillus taiwanensis, Lactobacillus gasseri, Lactobacillus johnsonii	sq1;size=1301081; sq9;size=88970; sq4;size=270582; sq14;size=45304;
+14156	a clade within genus Lactobacillus,including representatives of species Lactobacillus acetotolerans, Lactobacillus amylolyticus, Lactobacillus amylovorus, Lactobacillus intestinalis, Lactobacillus kitasatonis, Lactobacillus kalixensis, Lactobacillus ultunensis, Lactobacillus kefiranofaciens, Lactobacillus acidophilus, Lactobacillus delbrueckii, Lactobacillus gallinarum, Lactobacillus helveticus, Lactobacillus hamsteri, Lactobacillus fornicalis, Lactobacillus crispatus, Lactobacillus jensenii, Lactobacillus equicursoris	sq5;size=214563; sq2;size=1167935; sq44;size=8039; sq6;size=172090;
+6027	Prevotella bivia	sq17;size=37588; sq11;size=68881;
+14117	Lactobacillus iners	sq1;size=1301081; sq9;size=88970;
+14122	a clade within genus Lactobacillus,including representatives of species Lactobacillus taiwanensis, Lactobacillus gasseri, Lactobacillus johnsonii	sq4;size=270582; sq14;size=45304;
+14317	a clade within genus Lactobacillus,including representatives of species Lactobacillus oris, Lactobacillus vaginalis, Lactobacillus coleohominis, Lactobacillus panis, Lactobacillus antri, Lactobacillus pontis, Lactobacillus secaliphilus, Lactobacillus frumenti, Lactobacillus ingluviei, Lactobacillus reuteri	
+6090	a clade within genus Prevotella,including representatives of species Prevotella saccharolytica, Prevotella oralis, Prevotella loescheii, Prevotella timonensis, Prevotella marshii, Prevotella shahii, Prevotella buccalis	6086 sq38;size=10206; sq21;size=22766; sq15;size=41461; sq19;size=28060;
+6041	Prevotella corporis	
+6088	a clade within genus Prevotella,including representatives of species Prevotella timonensis, Prevotella buccalis	6086 sq38;size=10206; sq21;size=22766; sq15;size=41461;
+14147	a clade within genus Lactobacillus,including representatives of species Lactobacillus amylolyticus, Lactobacillus amylovorus, Lactobacillus intestinalis, Lactobacillus kitasatonis, Lactobacillus kalixensis, Lactobacillus ultunensis, Lactobacillus kefiranofaciens, Lactobacillus acidophilus, Lactobacillus gallinarum, Lactobacillus helveticus, Lactobacillus hamsteri, Lactobacillus crispatus	sq2;size=1167935; sq44;size=8039;
+6086	Prevotella buccalis	
+6087	Prevotella timonensis	sq38;size=10206; sq21;size=22766; sq15;size=41461;
+16275	a clade within phylum Thermotogae or Chlamydiae or Fusobacteria or Deinococcus-Thermus or Crenarchaeota or Planctomycetes or Elusimicrobia or Synergistetes or Spirochaetes or Fibrobacteres or Nitrospirae or Tenericutes or Chlorobi or Ignavibacteriae or Proteobacteria or Dictyoglomi or Lentisphaerae or Aquificae or Bacteroidetes or Actinobacteria or Firmicutes or Verrucomicrobia or Euryarchaeota or Chloroflexi or Deferribacteres or Caldiserica or Gemmatimonadetes or Chrysiogenetes or Thermodesulfobacteria or Acidobacteria	12202 12340 sq30;size=13263; 12927 sq13;size=64232; 12913 sq55;size=6557; 12055 12058 sq31;size=12696; sq1;size=1301081; sq9;size=88970; sq4;size=270582; sq14;size=45304; sq5;size=214563; sq2;size=1167935; sq44;size=8039; sq6;size=172090; 14317 1408 2827 sq8;size=101995; sq20;size=26462; sq34;size=11083; sq141;size=1280; sq10;size=81987; 9997 sq17;size=37588; sq11;size=68881; 6041 6086 sq38;size=10206; sq21;size=22766; sq15;size=41461; sq19;size=28060;

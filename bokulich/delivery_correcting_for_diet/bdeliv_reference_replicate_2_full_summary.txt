@@ -1,0 +1,2235 @@
+BAYES FACTOR FOR THE EMPTY RULE SET: 0.0573
+
+
+POINT SUMMARY:
+Rule list with 1 rules (overall likelihood -7.63):
+If NO rules apply: positive outcome probability 0.0099 (0.00118 -- 0.0749) (log-odds: -4.61 (-6.74 -- -2.51))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 5.03 (2.4 -- 7.7))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.965 (0.793 -- 0.998)):
+	 Odds of positive outcome INCREASE (log-odds change by 7.92 (5.95 -- 10.8)), if:
+		Between time 125.000 and time 281.250, variable 12628 average is below 0.0028
+This rule applies to 6/35 (0.171) subjects in dataset, 6/6 with positive outcomes (1.000).
+
+POINT SUMMARY CLASSIFIER PERFORMANCE:
+AUC: 0.951
+Confusion matrix: 
+	[[22  0]
+	 [ 7  6]]
+
+ENSEMBLE CLASSIFIER PERFORMANCE:
+AUC: 1.000
+Confusion matrix: 
+	[[22  0]
+	 [ 0 13]]
+
+44999 total samples after 5000 burnin
+Most frequent rule list lengths (counting total number of primitives):
+	frequency	length
+	0.336		1
+	0.297		2
+	0.149		3
+	0.075		4
+	0.0542		0
+
+ Best (highest posterior probability) rule list clusters: 
+Rule list cluster 0: posterior probability 0.0754
+Representative rule list:
+Rule list with 1 rules (overall likelihood -7.29):
+If NO rules apply: positive outcome probability 0.00417 (3.4e-06 -- 0.0926) (log-odds: -5.48 (-12.6 -- -2.28))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 6.1 (2.6 -- 13.2))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.999 (0.538 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 12.9 (5.63 -- 25.7)), if:
+		Between time 125.000 and time 281.250, variable 12628 average is below 0.0028
+This rule applies to 6/35 (0.171) subjects in dataset, 6/6 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 0.909
+Confusion matrix: 
+	[[18  4]
+	 [ 0 13]]
+
+
+Rule list cluster 1: posterior probability 0.0542
+Representative rule list:
+Rule list with 0 rules (overall likelihood -20.7):
+If NO rules apply: positive outcome probability 0.244 (0.104 -- 0.435) (log-odds: -1.13 (-2.15 -- -0.261))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 1.74 (0.204 -- 3.4))
+
+
+
+Accuracy of representative rule:
+AUC: 0.678
+Confusion matrix: 
+	[[18  4]
+	 [ 6  7]]
+
+
+Rule list cluster 2: posterior probability 0.0225
+Representative rule list:
+Rule list with 1 rules (overall likelihood -11.5):
+If NO rules apply: positive outcome probability 0.326 (0.154 -- 0.569) (log-odds: -0.726 (-1.7 -- 0.277))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 5.96 (1.55 -- 15.2))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 6.2e-07 (1.08e-12 -- 0.00325)):
+	 Odds of positive outcome DECREASE (log-odds change by -13.6 (-26.8 -- -5)), if:
+		Between time 156.250 and time 218.750, variable 4039 average is above 0.0621
+This rule applies to 10/35 (0.286) subjects in dataset, 0/10 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.769
+Confusion matrix: 
+	[[22  0]
+	 [ 6  7]]
+
+
+Rule list cluster 3: posterior probability 0.0221
+Representative rule list:
+Rule list with 1 rules (overall likelihood -11.5):
+If NO rules apply: positive outcome probability 0.328 (0.154 -- 0.579) (log-odds: -0.718 (-1.71 -- 0.317))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 6.14 (1.97 -- 15.7))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1.22e-06 (5.92e-12 -- 0.00237)):
+	 Odds of positive outcome DECREASE (log-odds change by -12.9 (-25.1 -- -5.32)), if:
+		Between time 156.250 and time 218.750, variable 4057 average is above 0.0621
+This rule applies to 10/35 (0.286) subjects in dataset, 0/10 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.769
+Confusion matrix: 
+	[[22  0]
+	 [ 6  7]]
+
+
+Rule list cluster 4: posterior probability 0.0209
+Representative rule list:
+Rule list with 1 rules (overall likelihood -9.78):
+If NO rules apply: positive outcome probability 0.605 (0.32 -- 0.865) (log-odds: 0.428 (-0.756 -- 1.85))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 1.81 (-0.527 -- 5.09))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 5.35e-05 (1.42e-09 -- 0.0301)):
+	 Odds of positive outcome DECREASE (log-odds change by -10.3 (-20.8 -- -3.9)), if:
+		Between time 156.250 and time 312.500, variable sq11;size=509495; average is above 0.0036
+This rule applies to 17/35 (0.486) subjects in dataset, 0/17 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.886
+Confusion matrix: 
+	[[17  5]
+	 [ 0 13]]
+
+
+Rule list cluster 5: posterior probability 0.0208
+Representative rule list:
+Rule list with 1 rules (overall likelihood -9.59):
+If NO rules apply: positive outcome probability 0.432 (0.196 -- 0.678) (log-odds: -0.275 (-1.41 -- 0.742))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 5.87 (1.64 -- 14.9))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 4.14e-06 (1.46e-11 -- 0.00624)):
+	 Odds of positive outcome DECREASE (log-odds change by -12.1 (-24.7 -- -4.8)), if:
+		Between time 0.000 and time 156.250, variable 6269 average is above 0.1906
+This rule applies to 14/35 (0.400) subjects in dataset, 0/14 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.769
+Confusion matrix: 
+	[[22  0]
+	 [ 6  7]]
+
+
+Rule list cluster 6: posterior probability 0.0185
+Representative rule list:
+Rule list with 1 rules (overall likelihood -9.59):
+If NO rules apply: positive outcome probability 0.432 (0.199 -- 0.693) (log-odds: -0.274 (-1.39 -- 0.813))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 5.91 (1.71 -- 15.4))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 2.1e-06 (1.77e-11 -- 0.00692)):
+	 Odds of positive outcome DECREASE (log-odds change by -12.8 (-24.5 -- -4.69)), if:
+		Between time 125.000 and time 218.750, variable 6161 slope is below -0.0000
+This rule applies to 14/35 (0.400) subjects in dataset, 0/14 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.769
+Confusion matrix: 
+	[[22  0]
+	 [ 6  7]]
+
+
+Rule list cluster 7: posterior probability 0.0166
+Representative rule list:
+Rule list with 1 rules (overall likelihood -10.1):
+If NO rules apply: positive outcome probability 0.401 (0.174 -- 0.656) (log-odds: -0.399 (-1.56 -- 0.644))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 5.76 (1.71 -- 15))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 4.44e-06 (2.14e-12 -- 0.0108)):
+	 Odds of positive outcome DECREASE (log-odds change by -11.9 (-26.5 -- -4.12)), if:
+		Between time 0.000 and time 156.250, variable 6247 average is above 0.1827
+This rule applies to 13/35 (0.371) subjects in dataset, 0/13 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.769
+Confusion matrix: 
+	[[22  0]
+	 [ 6  7]]
+
+
+Rule list cluster 8: posterior probability 0.0112
+Representative rule list:
+Rule list with 1 rules (overall likelihood -10.6):
+If NO rules apply: positive outcome probability 0.373 (0.166 -- 0.622) (log-odds: -0.52 (-1.62 -- 0.5))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 5.73 (1.96 -- 15.3))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1.46e-06 (9.53e-12 -- 0.00384)):
+	 Odds of positive outcome DECREASE (log-odds change by -12.9 (-24.9 -- -5.04)), if:
+		Between time 31.250 and time 125.000, variable 12805 average is below 0.0226
+This rule applies to 12/35 (0.343) subjects in dataset, 0/12 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.769
+Confusion matrix: 
+	[[22  0]
+	 [ 6  7]]
+
+
+Rule list cluster 9: posterior probability 0.00856
+Representative rule list:
+Rule list with 1 rules (overall likelihood -11.3):
+If NO rules apply: positive outcome probability 0.506 (0.267 -- 0.747) (log-odds: 0.023 (-1.01 -- 1.08))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 2.03 (-0.114 -- 5.57))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000304 (2.91e-08 -- 0.0637)):
+	 Odds of positive outcome DECREASE (log-odds change by -8.12 (-17.4 -- -2.71)), if:
+		Between time 125.000 and time 218.750, variable sq9;size=659995; average is above 0.0000
+This rule applies to 15/35 (0.429) subjects in dataset, 0/15 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.841
+Confusion matrix: 
+	[[15  7]
+	 [ 0 13]]
+
+
+Rule list cluster 10: posterior probability 0.00753
+Representative rule list:
+Rule list with 1 rules (overall likelihood -11.5):
+If NO rules apply: positive outcome probability 0.331 (0.143 -- 0.565) (log-odds: -0.702 (-1.79 -- 0.262))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 5.91 (1.96 -- 15))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 6.41e-07 (1.34e-11 -- 0.00222)):
+	 Odds of positive outcome DECREASE (log-odds change by -13.6 (-24.3 -- -5.4)), if:
+		Between time 31.250 and time 187.500, variable 4057 slope is above 0.0001
+This rule applies to 10/35 (0.286) subjects in dataset, 0/10 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.769
+Confusion matrix: 
+	[[22  0]
+	 [ 6  7]]
+
+
+Rule list cluster 11: posterior probability 0.00658
+Representative rule list:
+Rule list with 1 rules (overall likelihood -11.4):
+If NO rules apply: positive outcome probability 0.508 (0.257 -- 0.758) (log-odds: 0.0311 (-1.06 -- 1.14))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 2.15 (-0.0682 -- 5.1))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 3.92e-06 (2.05e-10 -- 0.0233)):
+	 Odds of positive outcome DECREASE (log-odds change by -12.5 (-22.3 -- -3.77)), if:
+		Between time 93.750 and time 250.000, variable sq11;size=509495; average is above 0.0006
+This rule applies to 15/35 (0.429) subjects in dataset, 0/15 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.841
+Confusion matrix: 
+	[[15  7]
+	 [ 0 13]]
+
+
+Rule list cluster 12: posterior probability 0.0064
+Representative rule list:
+Rule list with 1 rules (overall likelihood -11.9):
+If NO rules apply: positive outcome probability 0.312 (0.125 -- 0.517) (log-odds: -0.789 (-1.94 -- 0.0685))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 5.54 (2.22 -- 17.2))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 6.08e-07 (2.85e-12 -- 0.00343)):
+	 Odds of positive outcome DECREASE (log-odds change by -13.5 (-25.8 -- -4.88)), if:
+		Between time 125.000 and time 281.250, variable 12805 average is below 0.0232
+This rule applies to 9/35 (0.257) subjects in dataset, 0/9 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.769
+Confusion matrix: 
+	[[22  0]
+	 [ 6  7]]
+
+
+Rule list cluster 13: posterior probability 0.00589
+Representative rule list:
+Rule list with 1 rules (overall likelihood -11.5):
+If NO rules apply: positive outcome probability 0.34 (0.148 -- 0.568) (log-odds: -0.663 (-1.75 -- 0.274))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 6.25 (1.71 -- 14.1))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 2.22e-06 (2.46e-12 -- 0.00527)):
+	 Odds of positive outcome DECREASE (log-odds change by -12.4 (-26.1 -- -4.58)), if:
+		Between time 31.250 and time 187.500, variable 4039 slope is above 0.0001
+This rule applies to 10/35 (0.286) subjects in dataset, 0/10 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.769
+Confusion matrix: 
+	[[22  0]
+	 [ 6  7]]
+
+
+Rule list cluster 14: posterior probability 0.00416
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.123):
+If NO rules apply: positive outcome probability 0.993 (0.629 -- 1) (log-odds: 4.91 (0.527 -- 12.9))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 12.1 (6.15 -- 22.3))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.00113 (2.62e-07 -- 0.522)):
+	 Odds of positive outcome DECREASE (log-odds change by -11.7 (-20.1 -- -4.83)), if:
+		Between time 93.750 and time 218.750, variable 4039 average is above 0.1113
+This rule applies to 7/35 (0.200) subjects in dataset, 0/7 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.000578 (4.01e-08 -- 0.31)):
+	 Odds of positive outcome DECREASE (log-odds change by -12.4 (-21.9 -- -5.71)), if:
+		Between time 125.000 and time 281.250, variable 12628 average is above 0.0028
+This rule applies to 29/35 (0.829) subjects in dataset, 7/29 with positive outcomes (0.241).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[22  0]
+	 [ 0 13]]
+
+
+Rule list cluster 15: posterior probability 0.00404
+Representative rule list:
+Rule list with 1 rules (overall likelihood -10.6):
+If NO rules apply: positive outcome probability 0.376 (0.163 -- 0.61) (log-odds: -0.508 (-1.63 -- 0.449))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 6.45 (1.79 -- 15))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 7.06e-07 (2.49e-13 -- 0.00495)):
+	 Odds of positive outcome DECREASE (log-odds change by -13.7 (-28.5 -- -4.8)), if:
+		Between time 0.000 and time 62.500, variable 6269 slope is above 0.0039
+This rule applies to 12/35 (0.343) subjects in dataset, 0/12 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.769
+Confusion matrix: 
+	[[22  0]
+	 [ 6  7]]
+
+
+Rule list cluster 16: posterior probability 0.00393
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.127):
+If NO rules apply: positive outcome probability 0.989 (0.735 -- 1) (log-odds: 4.49 (1.02 -- 13.1))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 13.8 (5.29 -- 25.4))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000542 (1.1e-08 -- 0.24)):
+	 Odds of positive outcome DECREASE (log-odds change by -12 (-22.8 -- -5.65)), if:
+		Between time 125.000 and time 281.250, variable 12628 average is above 0.0028
+This rule applies to 29/35 (0.829) subjects in dataset, 7/29 with positive outcomes (0.241).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.00164 (4.95e-08 -- 0.66)):
+	 Odds of positive outcome DECREASE (log-odds change by -10.9 (-21.3 -- -3.83)), if:
+		Between time 93.750 and time 250.000, variable 6161 slope is below -0.0000
+This rule applies to 9/35 (0.257) subjects in dataset, 0/9 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[22  0]
+	 [ 0 13]]
+
+
+Rule list cluster 17: posterior probability 0.00376
+Representative rule list:
+Rule list with 1 rules (overall likelihood -10.1):
+If NO rules apply: positive outcome probability 0.741 (0.396 -- 0.945) (log-odds: 1.05 (-0.421 -- 2.84))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 7.83 (2.53 -- 17.3))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.00038 (3.66e-08 -- 0.0717)):
+	 Odds of positive outcome DECREASE (log-odds change by -8.93 (-18.2 -- -3.61)), if:
+		Between time 281.250 and time 343.750, variable 6247 average is above 0.1206
+This rule applies to 24/35 (0.686) subjects in dataset, 4/24 with positive outcomes (0.167).
+
+Accuracy of representative rule:
+AUC: 0.801
+Confusion matrix: 
+	[[20  2]
+	 [ 4  9]]
+
+
+Rule list cluster 18: posterior probability 0.00362
+Representative rule list:
+Rule list with 1 rules (overall likelihood -10.1):
+If NO rules apply: positive outcome probability 0.751 (0.37 -- 0.958) (log-odds: 1.1 (-0.534 -- 3.12))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 5.84 (1.87 -- 20.9))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.00273 (2.09e-09 -- 0.0876)):
+	 Odds of positive outcome DECREASE (log-odds change by -7 (-21.1 -- -3.45)), if:
+		Between time 218.750 and time 343.750, variable 11789 average is above 0.2898
+This rule applies to 24/35 (0.686) subjects in dataset, 4/24 with positive outcomes (0.167).
+
+Accuracy of representative rule:
+AUC: 0.801
+Confusion matrix: 
+	[[20  2]
+	 [ 4  9]]
+
+
+Rule list cluster 19: posterior probability 0.00356
+Representative rule list:
+Rule list with 1 rules (overall likelihood -10.1):
+If NO rules apply: positive outcome probability 0.76 (0.403 -- 0.956) (log-odds: 1.15 (-0.394 -- 3.09))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 8.6 (3.89 -- 19.6))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000196 (1.35e-09 -- 0.0219)):
+	 Odds of positive outcome DECREASE (log-odds change by -9.69 (-21.6 -- -4.95)), if:
+		Between time 281.250 and time 343.750, variable 6269 average is above 0.1400
+This rule applies to 24/35 (0.686) subjects in dataset, 4/24 with positive outcomes (0.167).
+
+Accuracy of representative rule:
+AUC: 0.864
+Confusion matrix: 
+	[[16  6]
+	 [ 0 13]]
+
+
+Rule list cluster 20: posterior probability 0.00327
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.277):
+If NO rules apply: positive outcome probability 0.00949 (4.15e-05 -- 0.147) (log-odds: -4.65 (-10.1 -- -1.76))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 9.57 (4.48 -- 18.9))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.999 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 21.8 (12.2 -- 31.1)), if:
+		Between time 125.000 and time 281.250, variable 12628 average is below 0.0028
+This rule applies to 6/35 (0.171) subjects in dataset, 6/6 with positive outcomes (1.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 2.32e-06 (1.28e-10 -- 0.000267)):
+	 Odds of positive outcome DECREASE (log-odds change by -8.33 (-18.1 -- -3.58)), if:
+		Between time 125.000 and time 218.750, variable 4057 average is above 0.0190
+This rule applies to 14/35 (0.400) subjects in dataset, 2/14 with positive outcomes (0.143).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[22  0]
+	 [ 0 13]]
+
+
+Rule list cluster 21: posterior probability 0.00316
+Representative rule list:
+Rule list with 1 rules (overall likelihood -11.9):
+If NO rules apply: positive outcome probability 0.317 (0.167 -- 0.508) (log-odds: -0.768 (-1.61 -- 0.0307))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 5.17 (1.67 -- 12.9))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 6.41e-07 (5.57e-12 -- 0.00202)):
+	 Odds of positive outcome DECREASE (log-odds change by -13.5 (-25.1 -- -5.44)), if:
+		Between time 93.750 and time 187.500, variable 4039 average is above 0.1002
+This rule applies to 9/35 (0.257) subjects in dataset, 0/9 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.769
+Confusion matrix: 
+	[[22  0]
+	 [ 6  7]]
+
+
+Rule list cluster 22: posterior probability 0.00311
+Representative rule list:
+Rule list with 1 rules (overall likelihood -12.6):
+If NO rules apply: positive outcome probability 0.296 (0.121 -- 0.501) (log-odds: -0.866 (-1.99 -- 0.00379))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 6.04 (2.86 -- 16.2))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 6.11e-06 (4.17e-11 -- 0.00324)):
+	 Odds of positive outcome DECREASE (log-odds change by -11.1 (-23 -- -4.86)), if:
+		Between time 93.750 and time 187.500, variable 4057 average is above 0.1280
+This rule applies to 7/35 (0.200) subjects in dataset, 0/7 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.769
+Confusion matrix: 
+	[[22  0]
+	 [ 6  7]]
+
+
+Rule list cluster 23: posterior probability 0.0026
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.319):
+If NO rules apply: positive outcome probability 0.0316 (0.000179 -- 0.174) (log-odds: -3.42 (-8.63 -- -1.56))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 10.3 (4.48 -- 17.3))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1.74e-07 (4.93e-13 -- 8.62e-05)):
+	 Odds of positive outcome DECREASE (log-odds change by -12.1 (-24.9 -- -5.94)), if:
+		Between time 0.000 and time 156.250, variable 6247 average is above 0.1827
+This rule applies to 13/35 (0.371) subjects in dataset, 0/13 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (0.837 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 11.8 (5.06 -- 23.8)), if:
+		Between time 125.000 and time 281.250, variable 12628 average is below 0.0028
+This rule applies to 6/35 (0.171) subjects in dataset, 6/6 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[22  0]
+	 [ 0 13]]
+
+
+Rule list cluster 24: posterior probability 0.00256
+Representative rule list:
+Rule list with 1 rules (overall likelihood -11.1):
+If NO rules apply: positive outcome probability 0.349 (0.153 -- 0.603) (log-odds: -0.625 (-1.71 -- 0.416))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 6.29 (2.09 -- 15))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1.5e-06 (5.83e-12 -- 0.0022)):
+	 Odds of positive outcome DECREASE (log-odds change by -12.8 (-25.2 -- -5.49)), if:
+		Between time 0.000 and time 62.500, variable 6247 slope is above 0.0041
+This rule applies to 11/35 (0.314) subjects in dataset, 0/11 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.769
+Confusion matrix: 
+	[[22  0]
+	 [ 6  7]]
+
+
+Rule list cluster 25: posterior probability 0.00229
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.286):
+If NO rules apply: positive outcome probability 2.52e-06 (1.39e-09 -- 0.000185) (log-odds: -12.9 (-20.4 -- -8.6))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 7.31 (4.47 -- 14.2))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.726 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 21.2 (13.9 -- 29.9)), if:
+		Between time 125.000 and time 281.250, variable 12628 average is below 0.0028
+This rule applies to 6/35 (0.171) subjects in dataset, 6/6 with positive outcomes (1.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.0345 (0.000857 -- 0.976)):
+	 Odds of positive outcome INCREASE (log-odds change by 9.56 (5.83 -- 16.6)), if:
+		Between time 31.250 and time 187.500, variable 11798 average is below 0.6178
+This rule applies to 14/35 (0.400) subjects in dataset, 10/14 with positive outcomes (0.714).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[22  0]
+	 [ 0 13]]
+
+
+Rule list cluster 26: posterior probability 0.00216
+Representative rule list:
+Rule list with 1 rules (overall likelihood -12.4):
+If NO rules apply: positive outcome probability 0.000802 (1.01e-05 -- 0.0372) (log-odds: -7.13 (-11.5 -- -3.25))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 6.79 (2.4 -- 11.2))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.549 (0.0189 -- 0.992)):
+	 Odds of positive outcome INCREASE (log-odds change by 7.33 (3.18 -- 11.9)), if:
+		Between time 281.250 and time 375.000, variable sq12;size=487553; average is above 0.0018
+This rule applies to 15/35 (0.429) subjects in dataset, 10/15 with positive outcomes (0.667).
+
+Accuracy of representative rule:
+AUC: 0.771
+Confusion matrix: 
+	[[17  5]
+	 [ 3 10]]
+
+
+Rule list cluster 27: posterior probability 0.00207
+Representative rule list:
+Rule list with 1 rules (overall likelihood -12.1):
+If NO rules apply: positive outcome probability 0.092 (0.0154 -- 0.262) (log-odds: -2.29 (-4.16 -- -1.04))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 2.38 (0.232 -- 4.79))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.67 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 10.2 (3 -- 17.9)), if:
+		Between time 156.250 and time 218.750, variable 6247 average is below 0.0006
+This rule applies to 7/35 (0.200) subjects in dataset, 7/7 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 0.832
+Confusion matrix: 
+	[[18  4]
+	 [ 2 11]]
+
+
+Rule list cluster 28: posterior probability 0.00198
+Representative rule list:
+Rule list with 1 rules (overall likelihood -12.3):
+If NO rules apply: positive outcome probability 0.448 (0.174 -- 0.684) (log-odds: -0.209 (-1.56 -- 0.773))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 4.1 (1.38 -- 8.37))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.00298 (4.28e-05 -- 0.0802)):
+	 Odds of positive outcome DECREASE (log-odds change by -5.6 (-9.85 -- -2.23)), if:
+		Between time 218.750 and time 312.500, variable 8002 average is below 0.0397
+This rule applies to 15/35 (0.429) subjects in dataset, 1/15 with positive outcomes (0.067).
+
+Accuracy of representative rule:
+AUC: 0.731
+Confusion matrix: 
+	[[22  0]
+	 [ 7  6]]
+
+
+Rule list cluster 29: posterior probability 0.00196
+Representative rule list:
+Rule list with 1 rules (overall likelihood -11.7):
+If NO rules apply: positive outcome probability 0.00212 (4.37e-08 -- 0.0874) (log-odds: -6.15 (-16.9 -- -2.35))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 4.35 (1.22 -- 14.2))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.515 (0.0239 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 6.21 (2.44 -- 17)), if:
+		Between time 218.750 and time 312.500, variable 8002 average is above 0.0415
+This rule applies to 19/35 (0.543) subjects in dataset, 12/19 with positive outcomes (0.632).
+
+Accuracy of representative rule:
+AUC: 0.802
+Confusion matrix: 
+	[[15  7]
+	 [ 1 12]]
+
+
+Rule list cluster 30: posterior probability 0.00196
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.308):
+If NO rules apply: positive outcome probability 0.996 (0.645 -- 1) (log-odds: 5.58 (0.597 -- 12.6))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 8.75 (4.7 -- 13.5))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1.48e-06 (1.87e-09 -- 0.00202)):
+	 Odds of positive outcome DECREASE (log-odds change by -19 (-25.7 -- -11.8)), if:
+		Between time 125.000 and time 281.250, variable 12628 average is above 0.0028
+This rule applies to 29/35 (0.829) subjects in dataset, 7/29 with positive outcomes (0.241).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (1 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 8.09 (4.86 -- 12)), if:
+		Between time 125.000 and time 187.500, variable 13284 average is above 0.2934
+This rule applies to 17/35 (0.486) subjects in dataset, 10/17 with positive outcomes (0.588).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[22  0]
+	 [ 0 13]]
+
+
+Rule list cluster 31: posterior probability 0.00193
+Representative rule list:
+Rule list with 1 rules (overall likelihood -11.1):
+If NO rules apply: positive outcome probability 0.347 (0.164 -- 0.581) (log-odds: -0.63 (-1.63 -- 0.328))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 5.66 (2.03 -- 10.8))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 3.07e-05 (2.27e-08 -- 0.00385)):
+	 Odds of positive outcome DECREASE (log-odds change by -9.76 (-17 -- -4.92)), if:
+		Between time 31.250 and time 156.250, variable 6181 average is above 0.2093
+This rule applies to 11/35 (0.314) subjects in dataset, 0/11 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.769
+Confusion matrix: 
+	[[22  0]
+	 [ 6  7]]
+
+
+Rule list cluster 32: posterior probability 0.00182
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0887):
+If NO rules apply: positive outcome probability 0.00135 (2.09e-07 -- 0.187) (log-odds: -6.6 (-15.4 -- -1.47))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 10.9 (4.6 -- 22.7))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 2.96e-09 (5.82e-13 -- 7.25e-07)):
+	 Odds of positive outcome DECREASE (log-odds change by -13 (-21.6 -- -7.53)), if:
+		Between time 187.500 and time 343.750, variable 12805 average is below 0.0560
+This rule applies to 24/35 (0.686) subjects in dataset, 5/24 with positive outcomes (0.208).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (0.805 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 14.3 (8.02 -- 23.1)), if:
+		Between time 62.500 and time 187.500, variable 4057 slope is below 0.0003
+This rule applies to 26/35 (0.743) subjects in dataset, 13/26 with positive outcomes (0.500).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[22  0]
+	 [ 0 13]]
+
+
+Rule list cluster 33: posterior probability 0.0018
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.269):
+If NO rules apply: positive outcome probability 0.0191 (6.32e-05 -- 0.277) (log-odds: -3.94 (-9.67 -- -0.959))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 8.34 (4.15 -- 15.8))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1.79e-06 (1.98e-09 -- 0.00201)):
+	 Odds of positive outcome DECREASE (log-odds change by -9.29 (-16.1 -- -2.27)), if:
+		Between time 62.500 and time 218.750, variable 13259 average is below 0.1854
+This rule applies to 18/35 (0.514) subjects in dataset, 3/18 with positive outcomes (0.167).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (0.995 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 18.3 (9.2 -- 24.6)), if:
+		Between time 125.000 and time 281.250, variable 12628 average is below 0.0028
+This rule applies to 6/35 (0.171) subjects in dataset, 6/6 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[22  0]
+	 [ 0 13]]
+
+
+Rule list cluster 34: posterior probability 0.00173
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.334):
+If NO rules apply: positive outcome probability 0.00443 (5.2e-06 -- 0.204) (log-odds: -5.42 (-12.2 -- -1.36))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 9.5 (4.12 -- 14))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 3.36e-06 (2.97e-09 -- 0.00014)):
+	 Odds of positive outcome DECREASE (log-odds change by -7.19 (-14.2 -- -3.46)), if:
+		Between time 125.000 and time 281.250, variable 11798 average is above 0.6434
+This rule applies to 16/35 (0.457) subjects in dataset, 2/16 with positive outcomes (0.125).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (0.998 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 18.4 (11.7 -- 31.4)), if:
+		Between time 125.000 and time 281.250, variable 12628 average is below 0.0028
+This rule applies to 6/35 (0.171) subjects in dataset, 6/6 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[22  0]
+	 [ 0 13]]
+
+
+Rule list cluster 35: posterior probability 0.00162
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.103):
+If NO rules apply: positive outcome probability 0.987 (0.785 -- 1) (log-odds: 4.35 (1.29 -- 9.82))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 13.8 (5.56 -- 21.1))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000302 (8.29e-08 -- 0.0141)):
+	 Odds of positive outcome DECREASE (log-odds change by -12.5 (-20.7 -- -8.6)), if:
+		Between time 0.000 and time 156.250, variable 6269 average is above 0.1906
+This rule applies to 14/35 (0.400) subjects in dataset, 0/14 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.000723 (1.55e-05 -- 0.105)):
+	 Odds of positive outcome DECREASE (log-odds change by -11.6 (-15.4 -- -6.49)), if:
+		Between time 125.000 and time 281.250, variable 12628 average is above 0.0028
+This rule applies to 29/35 (0.829) subjects in dataset, 7/29 with positive outcomes (0.241).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[22  0]
+	 [ 0 13]]
+
+
+Rule list cluster 36: posterior probability 0.00156
+Representative rule list:
+Rule list with 1 rules (overall likelihood -13):
+If NO rules apply: positive outcome probability 1.48e-05 (2.85e-10 -- 0.00595) (log-odds: -11.1 (-22 -- -5.12))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 5.68 (1.69 -- 11.1))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.254 (0.000847 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 10 (4.04 -- 20.8)), if:
+		Between time 31.250 and time 93.750, variable 8250 average is above 0.0921
+This rule applies to 29/35 (0.829) subjects in dataset, 13/29 with positive outcomes (0.448).
+
+Accuracy of representative rule:
+AUC: 0.769
+Confusion matrix: 
+	[[22  0]
+	 [ 6  7]]
+
+
+Rule list cluster 37: posterior probability 0.00156
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.279):
+If NO rules apply: positive outcome probability 0.0356 (0.00106 -- 0.301) (log-odds: -3.3 (-6.84 -- -0.842))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 9.04 (3.42 -- 14.7))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 7.58e-07 (1.4e-10 -- 0.000927)):
+	 Odds of positive outcome DECREASE (log-odds change by -10.8 (-19.4 -- -3.68)), if:
+		Between time 93.750 and time 250.000, variable 15300 average is below 0.3396
+This rule applies to 18/35 (0.514) subjects in dataset, 2/18 with positive outcomes (0.111).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (0.994 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 19.1 (8.45 -- 30.5)), if:
+		Between time 125.000 and time 281.250, variable 12628 average is below 0.0028
+This rule applies to 6/35 (0.171) subjects in dataset, 6/6 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[22  0]
+	 [ 0 13]]
+
+
+Rule list cluster 38: posterior probability 0.00149
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.439):
+If NO rules apply: positive outcome probability 0.904 (0.212 -- 1) (log-odds: 2.24 (-1.32 -- 11.3))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 8.95 (5.43 -- 15.8))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.997 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 7.85 (3.62 -- 11.8)), if:
+		Between time 62.500 and time 218.750, variable 15300 average is above 0.2427
+This rule applies to 24/35 (0.686) subjects in dataset, 12/24 with positive outcomes (0.500).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1.38e-06 (7.74e-11 -- 0.00136)):
+	 Odds of positive outcome DECREASE (log-odds change by -15.7 (-25.5 -- -8.84)), if:
+		Between time 125.000 and time 281.250, variable 12628 average is above 0.0028
+This rule applies to 29/35 (0.829) subjects in dataset, 7/29 with positive outcomes (0.241).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[22  0]
+	 [ 0 13]]
+
+
+Rule list cluster 39: posterior probability 0.00142
+Representative rule list:
+Rule list with 1 rules (overall likelihood -13.2):
+If NO rules apply: positive outcome probability 0.377 (0.18 -- 0.62) (log-odds: -0.503 (-1.51 -- 0.489))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 2.84 (0.862 -- 5.57))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 8.47e-05 (3.96e-11 -- 0.00688)):
+	 Odds of positive outcome DECREASE (log-odds change by -8.87 (-23.4 -- -4.47)), if:
+		Between time 62.500 and time 125.000, variable sq9;size=659995; average is above 0.0009
+This rule applies to 12/35 (0.343) subjects in dataset, 0/12 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.747
+Confusion matrix: 
+	[[21  1]
+	 [ 6  7]]
+
+
+Rule list cluster 40: posterior probability 0.0014
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.284):
+If NO rules apply: positive outcome probability 0.971 (0.535 -- 1) (log-odds: 3.5 (0.14 -- 10.4))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 10.4 (6.09 -- 15.1))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (1 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 8.61 (4.32 -- 12.8)), if:
+		Between time 0.000 and time 156.250, variable 13284 average is above 0.2520
+This rule applies to 17/35 (0.486) subjects in dataset, 9/17 with positive outcomes (0.529).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 5.19e-07 (3.13e-10 -- 0.000364)):
+	 Odds of positive outcome DECREASE (log-odds change by -18 (-25.4 -- -11.4)), if:
+		Between time 125.000 and time 281.250, variable 12628 average is above 0.0028
+This rule applies to 29/35 (0.829) subjects in dataset, 7/29 with positive outcomes (0.241).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[22  0]
+	 [ 0 13]]
+
+
+Rule list cluster 41: posterior probability 0.00133
+Representative rule list:
+Rule list with 1 rules (overall likelihood -12.8):
+If NO rules apply: positive outcome probability 0.71 (0.377 -- 0.865) (log-odds: 0.893 (-0.501 -- 1.86))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 3.07 (0.937 -- 5.92))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.00998 (0.000366 -- 0.16)):
+	 Odds of positive outcome DECREASE (log-odds change by -5.49 (-8.81 -- -2.55)), if:
+		Between time 62.500 and time 218.750, variable 6269 average is above 0.1398
+This rule applies to 21/35 (0.600) subjects in dataset, 2/21 with positive outcomes (0.095).
+
+Accuracy of representative rule:
+AUC: 0.855
+Confusion matrix: 
+	[[19  3]
+	 [ 2 11]]
+
+
+Rule list cluster 42: posterior probability 0.00129
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.139):
+If NO rules apply: positive outcome probability 0.0075 (8.2e-05 -- 0.095) (log-odds: -4.89 (-9.41 -- -2.25))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 11.1 (6.45 -- 14.1))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.827 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 12.7 (6.45 -- 19.9)), if:
+		Between time 125.000 and time 281.250, variable 12628 average is below 0.0028
+This rule applies to 6/35 (0.171) subjects in dataset, 6/6 with positive outcomes (1.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 3.77e-08 (5.76e-11 -- 5.81e-05)):
+	 Odds of positive outcome DECREASE (log-odds change by -12.2 (-18.7 -- -4.87)), if:
+		Between time 31.250 and time 187.500, variable 4057 average is above 0.0893
+This rule applies to 7/35 (0.200) subjects in dataset, 0/7 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[22  0]
+	 [ 0 13]]
+
+
+Rule list cluster 43: posterior probability 0.00127
+Representative rule list:
+Rule list with 2 rules (overall likelihood -1.69):
+If NO rules apply: positive outcome probability 0.0184 (0.000313 -- 0.269) (log-odds: -3.98 (-8.07 -- -1))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 9.1 (4.55 -- 17.4))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.999 (0.659 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 10.7 (4.64 -- 17.6)), if:
+		Between time 156.250 and time 281.250, variable 4214 average is below 0.0003
+This rule applies to 15/35 (0.429) subjects in dataset, 9/15 with positive outcomes (0.600).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1.24e-09 (5.6e-13 -- 3.84e-07)):
+	 Odds of positive outcome DECREASE (log-odds change by -16.5 (-24.2 -- -10.8)), if:
+		Between time 31.250 and time 187.500, variable 6247 average is above 0.2033
+This rule applies to 15/35 (0.429) subjects in dataset, 1/15 with positive outcomes (0.067).
+
+Accuracy of representative rule:
+AUC: 0.962
+Confusion matrix: 
+	[[22  0]
+	 [ 1 12]]
+
+
+Rule list cluster 44: posterior probability 0.00124
+Representative rule list:
+Rule list with 1 rules (overall likelihood -12.8):
+If NO rules apply: positive outcome probability 0.393 (0.202 -- 0.642) (log-odds: -0.433 (-1.37 -- 0.584))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 6.09 (1.94 -- 18.4))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000264 (2.08e-09 -- 0.0371)):
+	 Odds of positive outcome DECREASE (log-odds change by -7.81 (-19.6 -- -2.82)), if:
+		Between time 187.500 and time 281.250, variable 8002 average is below 0.0489
+This rule applies to 14/35 (0.400) subjects in dataset, 1/14 with positive outcomes (0.071).
+
+Accuracy of representative rule:
+AUC: 0.731
+Confusion matrix: 
+	[[22  0]
+	 [ 7  6]]
+
+
+Rule list cluster 45: posterior probability 0.0012
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.0952):
+If NO rules apply: positive outcome probability 0.000298 (1.35e-07 -- 0.0245) (log-odds: -8.12 (-15.8 -- -3.68))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 13.1 (5.79 -- 21.6))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.992 (0.414 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 13 (7.77 -- 23.9)), if:
+		Between time 93.750 and time 250.000, variable 12628 average is below 0.0031
+This rule applies to 8/35 (0.229) subjects in dataset, 6/8 with positive outcomes (0.750).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1.56e-10 (1.16e-15 -- 6.21e-08)):
+	 Odds of positive outcome DECREASE (log-odds change by -14.5 (-26.3 -- -8.48)), if:
+		Between time 62.500 and time 187.500, variable 4057 slope is above 0.0000
+This rule applies to 12/35 (0.343) subjects in dataset, 0/12 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[22  0]
+	 [ 0 13]]
+
+
+Rule list cluster 46: posterior probability 0.0012
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.121):
+If NO rules apply: positive outcome probability 0.00315 (2.53e-05 -- 0.198) (log-odds: -5.76 (-10.6 -- -1.4))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 10.5 (6.41 -- 18.1))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1.92e-07 (1.85e-11 -- 1.98e-05)):
+	 Odds of positive outcome DECREASE (log-odds change by -9.71 (-19 -- -5.07)), if:
+		Between time 31.250 and time 156.250, variable 15300 average is below 0.2803
+This rule applies to 15/35 (0.429) subjects in dataset, 2/15 with positive outcomes (0.133).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (1 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 21.5 (13.7 -- 31.9)), if:
+		Between time 125.000 and time 281.250, variable 12628 average is below 0.0028
+This rule applies to 6/35 (0.171) subjects in dataset, 6/6 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[22  0]
+	 [ 0 13]]
+
+
+Rule list cluster 47: posterior probability 0.00118
+Representative rule list:
+Rule list with 1 rules (overall likelihood -12.2):
+If NO rules apply: positive outcome probability 0.292 (0.123 -- 0.489) (log-odds: -0.887 (-1.96 -- -0.0448))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 8.63 (3.45 -- 17))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 8.31e-08 (4.24e-13 -- 0.000589)):
+	 Odds of positive outcome DECREASE (log-odds change by -15.4 (-27.6 -- -6.55)), if:
+		Between time 0.000 and time 93.750, variable 8009 slope is below -0.0087
+This rule applies to 8/35 (0.229) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.769
+Confusion matrix: 
+	[[22  0]
+	 [ 6  7]]
+
+
+Rule list cluster 48: posterior probability 0.00118
+Representative rule list:
+Rule list with 1 rules (overall likelihood -12.9):
+If NO rules apply: positive outcome probability 0.277 (0.135 -- 0.464) (log-odds: -0.961 (-1.86 -- -0.146))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 6.67 (2.42 -- 16.6))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 3.13e-07 (1.47e-12 -- 0.0014)):
+	 Odds of positive outcome DECREASE (log-odds change by -14 (-26.3 -- -5.61)), if:
+		Between time 0.000 and time 62.500, variable 6181 slope is above 0.0048
+This rule applies to 6/35 (0.171) subjects in dataset, 0/6 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.769
+Confusion matrix: 
+	[[22  0]
+	 [ 6  7]]
+
+
+Rule list cluster 49: posterior probability 0.00113
+Representative rule list:
+Rule list with 1 rules (overall likelihood -13.2):
+If NO rules apply: positive outcome probability 0.00186 (4.92e-08 -- 0.0681) (log-odds: -6.29 (-16.8 -- -2.62))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 4.73 (1.78 -- 14.3))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.359 (0.0232 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 5.71 (2.55 -- 15.5)), if:
+		Between time 218.750 and time 281.250, variable 8250 average is above 0.0714
+This rule applies to 22/35 (0.629) subjects in dataset, 12/22 with positive outcomes (0.545).
+
+Accuracy of representative rule:
+AUC: 0.731
+Confusion matrix: 
+	[[22  0]
+	 [ 7  6]]
+
+
+Rule list cluster 50: posterior probability 0.00113
+Representative rule list:
+Rule list with 1 rules (overall likelihood -12.3):
+If NO rules apply: positive outcome probability 0.283 (0.122 -- 0.474) (log-odds: -0.928 (-1.97 -- -0.103))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 8.2 (2.47 -- 16.5))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1.74e-06 (2.74e-12 -- 0.00193)):
+	 Odds of positive outcome DECREASE (log-odds change by -12.3 (-25.7 -- -5.32)), if:
+		Between time 0.000 and time 93.750, variable 8250 slope is below -0.0087
+This rule applies to 8/35 (0.229) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.769
+Confusion matrix: 
+	[[22  0]
+	 [ 6  7]]
+
+
+Rule list cluster 51: posterior probability 0.00111
+Representative rule list:
+Rule list with 1 rules (overall likelihood -14.1):
+If NO rules apply: positive outcome probability 0.324 (0.176 -- 0.549) (log-odds: -0.734 (-1.54 -- 0.197))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 2.48 (0.975 -- 4.23))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 4.03e-05 (1.96e-11 -- 0.029)):
+	 Odds of positive outcome DECREASE (log-odds change by -9.38 (-23.9 -- -2.78)), if:
+		Between time 31.250 and time 125.000, variable 6181 average is above 0.2339
+This rule applies to 10/35 (0.286) subjects in dataset, 0/10 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.747
+Confusion matrix: 
+	[[21  1]
+	 [ 6  7]]
+
+
+Rule list cluster 52: posterior probability 0.00111
+Representative rule list:
+Rule list with 1 rules (overall likelihood -12.6):
+If NO rules apply: positive outcome probability 0.413 (0.183 -- 0.687) (log-odds: -0.35 (-1.49 -- 0.785))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 2.23 (0.446 -- 4.87))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 7e-05 (8.11e-11 -- 0.0107)):
+	 Odds of positive outcome DECREASE (log-odds change by -9.22 (-22.9 -- -4.18)), if:
+		Between time 218.750 and time 281.250, variable sq9;size=659995; average is above 0.0078
+This rule applies to 13/35 (0.371) subjects in dataset, 0/13 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.747
+Confusion matrix: 
+	[[21  1]
+	 [ 6  7]]
+
+
+Rule list cluster 53: posterior probability 0.00102
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.144):
+If NO rules apply: positive outcome probability 0.989 (0.797 -- 1) (log-odds: 4.53 (1.37 -- 11.6))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 12.5 (5.34 -- 18))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.00671 (1.75e-06 -- 0.514)):
+	 Odds of positive outcome DECREASE (log-odds change by -9.53 (-17.8 -- -4.48)), if:
+		Between time 125.000 and time 281.250, variable 12628 average is above 0.0031
+This rule applies to 28/35 (0.800) subjects in dataset, 7/28 with positive outcomes (0.250).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 2.69e-05 (4.08e-08 -- 0.0357)):
+	 Odds of positive outcome DECREASE (log-odds change by -15.1 (-21.5 -- -7.83)), if:
+		Between time 125.000 and time 281.250, variable 12805 average is below 0.0238
+This rule applies to 11/35 (0.314) subjects in dataset, 0/11 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[22  0]
+	 [ 0 13]]
+
+
+Rule list cluster 54: posterior probability 0.000956
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.019):
+If NO rules apply: positive outcome probability 9.32e-05 (1.54e-06 -- 0.257) (log-odds: -9.28 (-13.4 -- -1.06))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 14.4 (9.98 -- 20.8))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.0583 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 16.9 (6.5 -- 22.4)), if:
+		Between time 31.250 and time 187.500, variable 6269 average is below 0.2071
+This rule applies to 20/35 (0.571) subjects in dataset, 12/20 with positive outcomes (0.600).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1.28e-11 (2.16e-15 -- 8.34e-09)):
+	 Odds of positive outcome DECREASE (log-odds change by -15.8 (-24.5 -- -9.32)), if:
+		Between time 156.250 and time 281.250, variable 4214 average is above 0.0002
+This rule applies to 22/35 (0.629) subjects in dataset, 4/22 with positive outcomes (0.182).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[22  0]
+	 [ 0 13]]
+
+
+Rule list cluster 55: posterior probability 0.000911
+Representative rule list:
+Rule list with 1 rules (overall likelihood -11.4):
+If NO rules apply: positive outcome probability 0.676 (0.366 -- 0.904) (log-odds: 0.736 (-0.548 -- 2.24))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 4.79 (1.81 -- 12.2))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.00857 (4.31e-06 -- 0.179)):
+	 Odds of positive outcome DECREASE (log-odds change by -5.49 (-13.1 -- -2.26)), if:
+		Between time 31.250 and time 187.500, variable 14341 slope is above -0.0000
+This rule applies to 23/35 (0.657) subjects in dataset, 4/23 with positive outcomes (0.174).
+
+Accuracy of representative rule:
+AUC: 0.841
+Confusion matrix: 
+	[[15  7]
+	 [ 0 13]]
+
+
+Rule list cluster 56: posterior probability 0.000844
+Representative rule list:
+Rule list with 1 rules (overall likelihood -15.5):
+If NO rules apply: positive outcome probability 0.294 (0.128 -- 0.527) (log-odds: -0.878 (-1.92 -- 0.11))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 3.57 (0.962 -- 5.69))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000755 (1.21e-07 -- 0.0214)):
+	 Odds of positive outcome DECREASE (log-odds change by -6.31 (-15.1 -- -2.94)), if:
+		Between time 156.250 and time 250.000, variable 4214 average is above 0.0020
+This rule applies to 7/35 (0.200) subjects in dataset, 0/7 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.747
+Confusion matrix: 
+	[[21  1]
+	 [ 6  7]]
+
+
+Rule list cluster 57: posterior probability 0.000844
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.34):
+If NO rules apply: positive outcome probability 0.989 (0.515 -- 1) (log-odds: 4.52 (0.0606 -- 12.2))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 8.17 (4.48 -- 13.5))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (1 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 8.96 (5.14 -- 13.3)), if:
+		Between time 93.750 and time 250.000, variable 13260 average is above 0.2485
+This rule applies to 18/35 (0.514) subjects in dataset, 10/18 with positive outcomes (0.556).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 2.92e-06 (4.69e-09 -- 0.00128)):
+	 Odds of positive outcome DECREASE (log-odds change by -17.3 (-23.7 -- -11.2)), if:
+		Between time 125.000 and time 281.250, variable 12628 average is above 0.0028
+This rule applies to 29/35 (0.829) subjects in dataset, 7/29 with positive outcomes (0.241).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[22  0]
+	 [ 0 13]]
+
+
+Rule list cluster 58: posterior probability 0.000822
+Representative rule list:
+Rule list with 1 rules (overall likelihood -12):
+If NO rules apply: positive outcome probability 0.317 (0.138 -- 0.527) (log-odds: -0.767 (-1.83 -- 0.107))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 5.22 (2.04 -- 17.5))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 4.36e-05 (3.78e-10 -- 0.0126)):
+	 Odds of positive outcome DECREASE (log-odds change by -9.27 (-20.9 -- -3.6)), if:
+		Between time 125.000 and time 218.750, variable sq90;size=44749; slope is below -0.0000
+This rule applies to 9/35 (0.257) subjects in dataset, 0/9 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.769
+Confusion matrix: 
+	[[22  0]
+	 [ 6  7]]
+
+
+Rule list cluster 59: posterior probability 0.000822
+Representative rule list:
+Rule list with 1 rules (overall likelihood -14.9):
+If NO rules apply: positive outcome probability 0.313 (0.16 -- 0.537) (log-odds: -0.785 (-1.66 -- 0.148))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 2.91 (0.934 -- 5.54))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 2.4e-06 (5.67e-11 -- 0.00343)):
+	 Odds of positive outcome DECREASE (log-odds change by -12.2 (-22.8 -- -4.89)), if:
+		Between time 312.500 and time 375.000, variable sq14;size=460888; average is above 0.0189
+This rule applies to 8/35 (0.229) subjects in dataset, 0/8 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.747
+Confusion matrix: 
+	[[21  1]
+	 [ 6  7]]
+
+
+Rule list cluster 60: posterior probability 0.000822
+Representative rule list:
+Rule list with 1 rules (overall likelihood -5.88):
+If NO rules apply: positive outcome probability 1.1e-05 (3.46e-08 -- 0.000718) (log-odds: -11.4 (-17.2 -- -7.24))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 5.29 (0.28 -- 10.1))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.744 (0.0183 -- 0.998)):
+	 Odds of positive outcome INCREASE (log-odds change by 12.5 (7.43 -- 17.7)), if:
+		Between time 187.500 and time 312.500, variable sq11;size=509495; average is below 0.0045
+		Between time 0.000 and time 156.250, variable 6247 average is below 0.2141
+This rule applies to 16/35 (0.457) subjects in dataset, 13/16 with positive outcomes (0.812).
+
+Accuracy of representative rule:
+AUC: 0.932
+Confusion matrix: 
+	[[19  3]
+	 [ 0 13]]
+
+
+Rule list cluster 61: posterior probability 0.0008
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.607):
+If NO rules apply: positive outcome probability 1 (0.969 -- 1) (log-odds: 9.35 (3.44 -- 15.6))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 8.11 (4.53 -- 12.6))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.957 (0.236 -- 0.997)):
+	 Odds of positive outcome DECREASE (log-odds change by -6.24 (-10.5 -- -3.43)), if:
+		Between time 125.000 and time 281.250, variable 15300 average is below 0.3056
+This rule applies to 12/35 (0.343) subjects in dataset, 1/12 with positive outcomes (0.083).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.00585 (7.12e-06 -- 0.722)):
+	 Odds of positive outcome DECREASE (log-odds change by -14.5 (-21.2 -- -8.4)), if:
+		Between time 125.000 and time 281.250, variable 12628 average is above 0.0028
+This rule applies to 29/35 (0.829) subjects in dataset, 7/29 with positive outcomes (0.241).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[22  0]
+	 [ 0 13]]
+
+
+Rule list cluster 62: posterior probability 0.0008
+Representative rule list:
+Rule list with 1 rules (overall likelihood -14.1):
+If NO rules apply: positive outcome probability 0.383 (0.171 -- 0.55) (log-odds: -0.475 (-1.58 -- 0.199))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 2.43 (0.69 -- 4.83))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000345 (8.26e-10 -- 0.0626)):
+	 Odds of positive outcome DECREASE (log-odds change by -7.5 (-20.4 -- -2.23)), if:
+		Between time 93.750 and time 250.000, variable sq9;size=659995; slope is above 0.0000
+This rule applies to 10/35 (0.286) subjects in dataset, 0/10 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.747
+Confusion matrix: 
+	[[21  1]
+	 [ 6  7]]
+
+
+Rule list cluster 63: posterior probability 0.0008
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.123):
+If NO rules apply: positive outcome probability 0.00437 (1.63e-07 -- 0.994) (log-odds: -5.43 (-15.6 -- 5.08))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 12.2 (4.38 -- 17.9))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 5.72e-10 (9.46e-16 -- 4.34e-06)):
+	 Odds of positive outcome DECREASE (log-odds change by -15.9 (-29.2 -- -6.92)), if:
+		Between time 125.000 and time 281.250, variable 12628 average is above 0.0028
+This rule applies to 29/35 (0.829) subjects in dataset, 7/29 with positive outcomes (0.241).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (0.978 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 16.6 (9.24 -- 25.1)), if:
+		Between time 31.250 and time 187.500, variable 4039 slope is below 0.0002
+This rule applies to 26/35 (0.743) subjects in dataset, 13/26 with positive outcomes (0.500).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[22  0]
+	 [ 0 13]]
+
+
+Rule list cluster 64: posterior probability 0.0008
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.646):
+If NO rules apply: positive outcome probability 0.985 (0.643 -- 1) (log-odds: 4.18 (0.589 -- 10.4))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 6.81 (3.77 -- 10.3))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.999 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 7.49 (2.79 -- 17.1)), if:
+		Between time 31.250 and time 156.250, variable 13260 average is above 0.2084
+This rule applies to 20/35 (0.571) subjects in dataset, 10/20 with positive outcomes (0.500).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1.34e-05 (1.3e-08 -- 0.000744)):
+	 Odds of positive outcome DECREASE (log-odds change by -15.4 (-22.3 -- -11.4)), if:
+		Between time 125.000 and time 281.250, variable 12628 average is above 0.0028
+This rule applies to 29/35 (0.829) subjects in dataset, 7/29 with positive outcomes (0.241).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[22  0]
+	 [ 0 13]]
+
+
+Rule list cluster 65: posterior probability 0.000778
+Representative rule list:
+Rule list with 1 rules (overall likelihood -5.64):
+If NO rules apply: positive outcome probability 0.00136 (1.65e-06 -- 0.0913) (log-odds: -6.6 (-13.3 -- -2.3))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 6.85 (1.99 -- 13.6))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.998 (0.674 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 13.1 (7.33 -- 26.1)), if:
+		Between time 31.250 and time 187.500, variable 14341 slope is below -0.0000
+		Between time 187.500 and time 343.750, variable sq66;size=73380; average is below 0.0005
+This rule applies to 9/35 (0.257) subjects in dataset, 9/9 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 0.909
+Confusion matrix: 
+	[[18  4]
+	 [ 0 13]]
+
+
+Rule list cluster 66: posterior probability 0.000778
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.28):
+If NO rules apply: positive outcome probability 0.972 (0.646 -- 1) (log-odds: 3.54 (0.604 -- 7.71))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 10.5 (4.05 -- 19.4))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.0016 (4.3e-06 -- 0.694)):
+	 Odds of positive outcome DECREASE (log-odds change by -9.97 (-15.9 -- -2.72)), if:
+		Between time 125.000 and time 281.250, variable 4214 average is above 0.0003
+This rule applies to 22/35 (0.629) subjects in dataset, 5/22 with positive outcomes (0.227).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 2.38e-07 (4.09e-11 -- 0.000958)):
+	 Odds of positive outcome DECREASE (log-odds change by -18.8 (-27.5 -- -10.5)), if:
+		Between time 31.250 and time 156.250, variable 6181 average is above 0.2093
+This rule applies to 11/35 (0.314) subjects in dataset, 0/11 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[22  0]
+	 [ 0 13]]
+
+
+Rule list cluster 67: posterior probability 0.000778
+Representative rule list:
+Rule list with 2 rules (overall likelihood -5.93):
+If NO rules apply: positive outcome probability 0.00046 (1.34e-06 -- 0.0443) (log-odds: -7.68 (-13.5 -- -3.07))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 5.31 (1.72 -- 9.01))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1.34e-06 (3.34e-08 -- 1.82e-05)):
+	 Odds of positive outcome DECREASE (log-odds change by -5.84 (-9.53 -- -3.23)), if:
+		Between time 125.000 and time 250.000, variable 4214 average is above 0.0004
+This rule applies to 17/35 (0.486) subjects in dataset, 4/17 with positive outcomes (0.235).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.921 (0.099 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 10.1 (5.48 -- 16.3)), if:
+		Between time 125.000 and time 281.250, variable sq9;size=659995; average is below 0.0004
+This rule applies to 21/35 (0.600) subjects in dataset, 13/21 with positive outcomes (0.619).
+
+Accuracy of representative rule:
+AUC: 0.955
+Confusion matrix: 
+	[[20  2]
+	 [ 0 13]]
+
+
+Rule list cluster 68: posterior probability 0.000756
+Representative rule list:
+Rule list with 1 rules (overall likelihood -2.98):
+If NO rules apply: positive outcome probability 0.907 (0.54 -- 0.996) (log-odds: 2.28 (0.16 -- 5.52))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 4.04 (-1.95 -- 13.5))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 3.88e-06 (3.66e-10 -- 0.00609)):
+	 Odds of positive outcome DECREASE (log-odds change by -14.7 (-24 -- -7.38)), if:
+		Between time 156.250 and time 218.750, variable 6247 average is above 0.0006
+		Between time 0.000 and time 62.500, variable 15300 slope is below 0.0108
+This rule applies to 21/35 (0.600) subjects in dataset, 0/21 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.977
+Confusion matrix: 
+	[[21  1]
+	 [ 0 13]]
+
+
+Rule list cluster 69: posterior probability 0.000756
+Representative rule list:
+Rule list with 2 rules (overall likelihood -3.73):
+If NO rules apply: positive outcome probability 0.000275 (1.69e-07 -- 0.177) (log-odds: -8.2 (-15.6 -- -1.53))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 5.58 (2.74 -- 11))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 6.63e-09 (1.24e-11 -- 1.97e-06)):
+	 Odds of positive outcome DECREASE (log-odds change by -10.6 (-16.9 -- -4.94)), if:
+		Between time 125.000 and time 250.000, variable 12628 average is above 0.0058
+This rule applies to 22/35 (0.629) subjects in dataset, 7/22 with positive outcomes (0.318).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.997 (0.168 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 14.1 (6.6 -- 23.7)), if:
+		Between time 156.250 and time 218.750, variable sq9;size=659995; average is below 0.0000
+This rule applies to 21/35 (0.600) subjects in dataset, 13/21 with positive outcomes (0.619).
+
+Accuracy of representative rule:
+AUC: 0.977
+Confusion matrix: 
+	[[21  1]
+	 [ 0 13]]
+
+
+Rule list cluster 70: posterior probability 0.000733
+Representative rule list:
+Rule list with 1 rules (overall likelihood -2.87):
+If NO rules apply: positive outcome probability 0.862 (0.492 -- 0.999) (log-odds: 1.83 (-0.0334 -- 6.87))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 6.79 (0.679 -- 12.6))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 5.89e-08 (1.53e-11 -- 0.000795)):
+	 Odds of positive outcome DECREASE (log-odds change by -18.5 (-26.7 -- -8.97)), if:
+		Between time 156.250 and time 218.750, variable 6269 average is above 0.0006
+		Between time 0.000 and time 62.500, variable 13284 slope is below 0.0099
+This rule applies to 21/35 (0.600) subjects in dataset, 0/21 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.977
+Confusion matrix: 
+	[[21  1]
+	 [ 0 13]]
+
+
+Rule list cluster 71: posterior probability 0.000733
+Representative rule list:
+Rule list with 1 rules (overall likelihood -14.7):
+If NO rules apply: positive outcome probability 0.00133 (2.14e-06 -- 0.124) (log-odds: -6.62 (-13.1 -- -1.96))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 6.35 (1.82 -- 12.8))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.396 (0.00696 -- 0.998)):
+	 Odds of positive outcome INCREASE (log-odds change by 6.2 (1.66 -- 12.8)), if:
+		Between time 0.000 and time 62.500, variable sq33;size=136471; slope is above 0.0001
+This rule applies to 16/35 (0.457) subjects in dataset, 9/16 with positive outcomes (0.562).
+
+Accuracy of representative rule:
+AUC: 0.615
+Confusion matrix: 
+	[[22  0]
+	 [10  3]]
+
+
+Rule list cluster 72: posterior probability 0.000733
+Representative rule list:
+Rule list with 1 rules (overall likelihood -11.6):
+If NO rules apply: positive outcome probability 0.339 (0.175 -- 0.613) (log-odds: -0.666 (-1.55 -- 0.461))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 4.96 (1.74 -- 11.7))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 2.37e-05 (1.48e-11 -- 0.00533)):
+	 Odds of positive outcome DECREASE (log-odds change by -9.99 (-24.3 -- -4.56)), if:
+		Between time 93.750 and time 250.000, variable 12805 average is below 0.0279
+This rule applies to 10/35 (0.286) subjects in dataset, 0/10 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.769
+Confusion matrix: 
+	[[22  0]
+	 [ 6  7]]
+
+
+Rule list cluster 73: posterior probability 0.000733
+Representative rule list:
+Rule list with 2 rules (overall likelihood -3.02):
+If NO rules apply: positive outcome probability 0.99 (0.932 -- 1) (log-odds: 4.58 (2.62 -- 7.93))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 10.5 (3.3 -- 15.6))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000721 (6.28e-06 -- 0.0938)):
+	 Odds of positive outcome DECREASE (log-odds change by -11.8 (-16.6 -- -6.84)), if:
+		Between time 218.750 and time 312.500, variable 12805 average is below 0.0446
+This rule applies to 22/35 (0.629) subjects in dataset, 4/22 with positive outcomes (0.182).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.108 (0.00425 -- 0.715)):
+	 Odds of positive outcome DECREASE (log-odds change by -6.69 (-10 -- -3.66)), if:
+		Between time 125.000 and time 187.500, variable 4057 average is above 0.0070
+This rule applies to 15/35 (0.429) subjects in dataset, 1/15 with positive outcomes (0.067).
+
+Accuracy of representative rule:
+AUC: 0.962
+Confusion matrix: 
+	[[22  0]
+	 [ 1 12]]
+
+
+Rule list cluster 74: posterior probability 0.000733
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.208):
+If NO rules apply: positive outcome probability 0.000458 (4.27e-08 -- 0.444) (log-odds: -7.69 (-17 -- -0.225))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 9.88 (4.22 -- 17.1))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 2.17e-08 (2.55e-12 -- 5.28e-06)):
+	 Odds of positive outcome DECREASE (log-odds change by -9.96 (-19 -- -4.46)), if:
+		Between time 187.500 and time 343.750, variable 12805 average is below 0.0560
+This rule applies to 24/35 (0.686) subjects in dataset, 5/24 with positive outcomes (0.208).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.996 (0.068 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 13.3 (5.07 -- 22.4)), if:
+		Between time 62.500 and time 187.500, variable 4039 slope is below 0.0002
+This rule applies to 26/35 (0.743) subjects in dataset, 13/26 with positive outcomes (0.500).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[22  0]
+	 [ 0 13]]
+
+
+Rule list cluster 75: posterior probability 0.000689
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.385):
+If NO rules apply: positive outcome probability 0.979 (0.718 -- 1) (log-odds: 3.85 (0.935 -- 9.35))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 7.49 (2.94 -- 17.3))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.999 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 9.1 (3.29 -- 16.7)), if:
+		Between time 31.250 and time 156.250, variable 6161 average is below 0.0010
+This rule applies to 14/35 (0.400) subjects in dataset, 9/14 with positive outcomes (0.643).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 2.48e-06 (1.17e-10 -- 0.00295)):
+	 Odds of positive outcome DECREASE (log-odds change by -16.8 (-26.7 -- -9.68)), if:
+		Between time 125.000 and time 281.250, variable 12628 average is above 0.0028
+This rule applies to 29/35 (0.829) subjects in dataset, 7/29 with positive outcomes (0.241).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[22  0]
+	 [ 0 13]]
+
+
+Rule list cluster 76: posterior probability 0.000689
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.346):
+If NO rules apply: positive outcome probability 0.0267 (0.00113 -- 0.203) (log-odds: -3.59 (-6.78 -- -1.37))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 11 (4.76 -- 17.3))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.998 (0.629 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 10 (4.12 -- 19.5)), if:
+		Between time 93.750 and time 250.000, variable 12628 average is below 0.0031
+This rule applies to 8/35 (0.229) subjects in dataset, 6/8 with positive outcomes (0.750).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 2.3e-08 (6e-11 -- 4.36e-06)):
+	 Odds of positive outcome DECREASE (log-odds change by -14 (-19.9 -- -8.75)), if:
+		Between time 93.750 and time 250.000, variable 12805 average is below 0.0279
+This rule applies to 10/35 (0.286) subjects in dataset, 0/10 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[22  0]
+	 [ 0 13]]
+
+
+Rule list cluster 77: posterior probability 0.000689
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.746):
+If NO rules apply: positive outcome probability 0.0117 (1.2e-05 -- 0.261) (log-odds: -4.44 (-11.3 -- -1.04))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 7.27 (3.61 -- 13.2))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 3.91e-05 (1.17e-08 -- 0.000541)):
+	 Odds of positive outcome DECREASE (log-odds change by -5.71 (-13.8 -- -3.09)), if:
+		Between time 125.000 and time 281.250, variable sq1;size=1726155; slope is below -0.0001
+This rule applies to 17/35 (0.486) subjects in dataset, 4/17 with positive outcomes (0.235).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (0.996 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 15.3 (9.86 -- 27.9)), if:
+		Between time 125.000 and time 281.250, variable 12628 average is below 0.0028
+This rule applies to 6/35 (0.171) subjects in dataset, 6/6 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[22  0]
+	 [ 0 13]]
+
+
+Rule list cluster 78: posterior probability 0.000644
+Representative rule list:
+Rule list with 1 rules (overall likelihood -2.92):
+If NO rules apply: positive outcome probability 0.878 (0.544 -- 0.993) (log-odds: 1.97 (0.176 -- 5))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 3.48 (-1.87 -- 11.8))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 3.73e-05 (3.61e-09 -- 0.0256)):
+	 Odds of positive outcome DECREASE (log-odds change by -12.2 (-21.4 -- -5.62)), if:
+		Between time 156.250 and time 218.750, variable 6269 average is above 0.0006
+		Between time 0.000 and time 62.500, variable 13260 slope is below 0.0087
+This rule applies to 21/35 (0.600) subjects in dataset, 0/21 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.977
+Confusion matrix: 
+	[[21  1]
+	 [ 0 13]]
+
+
+Rule list cluster 79: posterior probability 0.000622
+Representative rule list:
+Rule list with 1 rules (overall likelihood -13.7):
+If NO rules apply: positive outcome probability 0.347 (0.156 -- 0.614) (log-odds: -0.634 (-1.68 -- 0.466))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 6.57 (2.42 -- 12.2))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.000598 (3.02e-07 -- 0.0312)):
+	 Odds of positive outcome DECREASE (log-odds change by -6.79 (-14.4 -- -2.8)), if:
+		Between time 218.750 and time 312.500, variable 8250 average is below 0.0542
+This rule applies to 12/35 (0.343) subjects in dataset, 1/12 with positive outcomes (0.083).
+
+Accuracy of representative rule:
+AUC: 0.731
+Confusion matrix: 
+	[[22  0]
+	 [ 7  6]]
+
+
+Rule list cluster 80: posterior probability 0.000622
+Representative rule list:
+Rule list with 2 rules (overall likelihood -4.63):
+If NO rules apply: positive outcome probability 0.00888 (0.000256 -- 0.143) (log-odds: -4.71 (-8.27 -- -1.79))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 8.33 (3.93 -- 11.8))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.726 (0.123 -- 0.994)):
+	 Odds of positive outcome INCREASE (log-odds change by 5.69 (2.75 -- 9.89)), if:
+		Between time 250.000 and time 375.000, variable 4250 average is below 0.0085
+This rule applies to 21/35 (0.600) subjects in dataset, 12/21 with positive outcomes (0.571).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 9.72e-09 (2.45e-13 -- 4.25e-06)):
+	 Odds of positive outcome DECREASE (log-odds change by -13.7 (-24.3 -- -7.65)), if:
+		Between time 62.500 and time 187.500, variable 4057 slope is above 0.0000
+This rule applies to 12/35 (0.343) subjects in dataset, 0/12 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.955
+Confusion matrix: 
+	[[20  2]
+	 [ 0 13]]
+
+
+Rule list cluster 81: posterior probability 0.000622
+Representative rule list:
+Rule list with 1 rules (overall likelihood -7.59):
+If NO rules apply: positive outcome probability 0.548 (0.273 -- 0.771) (log-odds: 0.194 (-0.978 -- 1.22))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 7.36 (1.4 -- 11))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 3.57e-07 (3.99e-11 -- 5.73e-05)):
+	 Odds of positive outcome DECREASE (log-odds change by -15 (-24.1 -- -9.96)), if:
+		Between time 218.750 and time 312.500, variable 12616 average is above 0.0000
+		Between time 125.000 and time 218.750, variable 13067 average is below 0.0074
+This rule applies to 17/35 (0.486) subjects in dataset, 0/17 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.886
+Confusion matrix: 
+	[[17  5]
+	 [ 0 13]]
+
+
+Rule list cluster 82: posterior probability 0.000622
+Representative rule list:
+Rule list with 1 rules (overall likelihood -12.3):
+If NO rules apply: positive outcome probability 0.00365 (2.02e-05 -- 0.0565) (log-odds: -5.61 (-10.8 -- -2.82))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 4.81 (2.09 -- 10))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.448 (0.0395 -- 0.997)):
+	 Odds of positive outcome INCREASE (log-odds change by 5.4 (2.42 -- 11.6)), if:
+		Between time 250.000 and time 343.750, variable 12628 average is below 0.0631
+This rule applies to 17/35 (0.486) subjects in dataset, 11/17 with positive outcomes (0.647).
+
+Accuracy of representative rule:
+AUC: 0.692
+Confusion matrix: 
+	[[22  0]
+	 [ 8  5]]
+
+
+Rule list cluster 83: posterior probability 0.0006
+Representative rule list:
+Rule list with 1 rules (overall likelihood -4.86):
+If NO rules apply: positive outcome probability 0.0031 (7.92e-07 -- 0.0692) (log-odds: -5.77 (-14 -- -2.6))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 5.63 (1.81 -- 13.3))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.918 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 14.8 (8.2 -- 25.1)), if:
+		Between time 156.250 and time 312.500, variable sq11;size=509495; average is below 0.0036
+		Between time 93.750 and time 250.000, variable 12624 slope is below 0.0000
+This rule applies to 10/35 (0.286) subjects in dataset, 10/10 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 0.885
+Confusion matrix: 
+	[[22  0]
+	 [ 3 10]]
+
+
+Rule list cluster 84: posterior probability 0.0006
+Representative rule list:
+Rule list with 1 rules (overall likelihood -14.6):
+If NO rules apply: positive outcome probability 0.29 (0.149 -- 0.469) (log-odds: -0.895 (-1.74 -- -0.125))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 2.93 (1.26 -- 4.76))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 3.96e-08 (3.26e-10 -- 4.87e-06)):
+	 Odds of positive outcome DECREASE (log-odds change by -16.1 (-20.9 -- -11.3)), if:
+		Between time 62.500 and time 156.250, variable sq11;size=509495; average is above 0.0012
+This rule applies to 9/35 (0.257) subjects in dataset, 0/9 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.747
+Confusion matrix: 
+	[[21  1]
+	 [ 6  7]]
+
+
+Rule list cluster 85: posterior probability 0.0006
+Representative rule list:
+Rule list with 1 rules (overall likelihood -14.7):
+If NO rules apply: positive outcome probability 0.354 (0.209 -- 0.551) (log-odds: -0.601 (-1.33 -- 0.205))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 6.86 (2.63 -- 16.6))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.00011 (1.17e-08 -- 0.0216)):
+	 Odds of positive outcome DECREASE (log-odds change by -8.51 (-17.7 -- -3.21)), if:
+		Between time 218.750 and time 281.250, variable 9997 average is below 0.0691
+This rule applies to 10/35 (0.286) subjects in dataset, 1/10 with positive outcomes (0.100).
+
+Accuracy of representative rule:
+AUC: 0.731
+Confusion matrix: 
+	[[22  0]
+	 [ 7  6]]
+
+
+Rule list cluster 86: posterior probability 0.0006
+Representative rule list:
+Rule list with 1 rules (overall likelihood -14.4):
+If NO rules apply: positive outcome probability 0.388 (0.132 -- 0.602) (log-odds: -0.456 (-1.88 -- 0.416))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 3.29 (0.543 -- 8.16))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 3.15e-05 (3.18e-11 -- 0.00362)):
+	 Odds of positive outcome DECREASE (log-odds change by -9.91 (-23.7 -- -5.16)), if:
+		Between time 187.500 and time 281.250, variable sq14;size=460888; slope is above 0.0000
+This rule applies to 10/35 (0.286) subjects in dataset, 0/10 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.747
+Confusion matrix: 
+	[[21  1]
+	 [ 6  7]]
+
+
+Rule list cluster 87: posterior probability 0.000578
+Representative rule list:
+Rule list with 1 rules (overall likelihood -11.9):
+If NO rules apply: positive outcome probability 0.316 (0.133 -- 0.547) (log-odds: -0.773 (-1.88 -- 0.188))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 5.34 (2.48 -- 15))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 4.76e-06 (9.17e-11 -- 0.00878)):
+	 Odds of positive outcome DECREASE (log-odds change by -11.5 (-22.3 -- -3.95)), if:
+		Between time 187.500 and time 250.000, variable 4057 average is above 0.0878
+This rule applies to 9/35 (0.257) subjects in dataset, 0/9 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.769
+Confusion matrix: 
+	[[22  0]
+	 [ 6  7]]
+
+
+Rule list cluster 88: posterior probability 0.000578
+Representative rule list:
+Rule list with 1 rules (overall likelihood -14.3):
+If NO rules apply: positive outcome probability 1 (0.899 -- 1) (log-odds: 7.68 (2.18 -- 15.3))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 1.87 (-0.0935 -- 3.98))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.165 (2.89e-05 -- 0.975)):
+	 Odds of positive outcome DECREASE (log-odds change by -9.3 (-18.1 -- -4.01)), if:
+		Between time 62.500 and time 218.750, variable sq23;size=209580; slope is above -0.0003
+This rule applies to 29/35 (0.829) subjects in dataset, 7/29 with positive outcomes (0.241).
+
+Accuracy of representative rule:
+AUC: 0.794
+Confusion matrix: 
+	[[18  4]
+	 [ 3 10]]
+
+
+Rule list cluster 89: posterior probability 0.000578
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.271):
+If NO rules apply: positive outcome probability 0.013 (3.58e-05 -- 0.311) (log-odds: -4.33 (-10.2 -- -0.794))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 8.39 (4.29 -- 14.4))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 2.43e-06 (1e-08 -- 0.000332)):
+	 Odds of positive outcome DECREASE (log-odds change by -8.6 (-14.1 -- -3.68)), if:
+		Between time 0.000 and time 156.250, variable 13259 average is below 0.1571
+This rule applies to 17/35 (0.486) subjects in dataset, 3/17 with positive outcomes (0.176).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (0.995 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 19.6 (9.69 -- 36.3)), if:
+		Between time 125.000 and time 281.250, variable 12628 average is below 0.0028
+This rule applies to 6/35 (0.171) subjects in dataset, 6/6 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[22  0]
+	 [ 0 13]]
+
+
+Rule list cluster 90: posterior probability 0.000578
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.327):
+If NO rules apply: positive outcome probability 0.00539 (0.00035 -- 0.0914) (log-odds: -5.22 (-7.96 -- -2.3))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 8.57 (5.75 -- 13.2))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1.53e-06 (1.65e-09 -- 5.87e-05)):
+	 Odds of positive outcome DECREASE (log-odds change by -8.17 (-15 -- -4.53)), if:
+		Between time 93.750 and time 218.750, variable 13284 average is below 0.2632
+This rule applies to 16/35 (0.457) subjects in dataset, 3/16 with positive outcomes (0.188).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (0.999 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 19.8 (12.4 -- 26.7)), if:
+		Between time 125.000 and time 281.250, variable 12628 average is below 0.0028
+This rule applies to 6/35 (0.171) subjects in dataset, 6/6 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[22  0]
+	 [ 0 13]]
+
+
+Rule list cluster 91: posterior probability 0.000578
+Representative rule list:
+Rule list with 1 rules (overall likelihood -15.5):
+If NO rules apply: positive outcome probability 0.341 (0.171 -- 0.691) (log-odds: -0.658 (-1.58 -- 0.804))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 2.47 (0.42 -- 6.82))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.0202 (3.12e-05 -- 0.103)):
+	 Odds of positive outcome DECREASE (log-odds change by -3.22 (-9.72 -- -1.5)), if:
+		Between time 187.500 and time 250.000, variable 13284 average is below 0.3143
+This rule applies to 13/35 (0.371) subjects in dataset, 1/13 with positive outcomes (0.077).
+
+Accuracy of representative rule:
+AUC: 0.769
+Confusion matrix: 
+	[[22  0]
+	 [ 6  7]]
+
+
+Rule list cluster 92: posterior probability 0.000556
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.271):
+If NO rules apply: positive outcome probability 1.31e-06 (9.35e-09 -- 0.000847) (log-odds: -13.5 (-18.5 -- -7.07))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 8.63 (4.01 -- 15.2))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.0129 (2.1e-05 -- 0.828)):
+	 Odds of positive outcome INCREASE (log-odds change by 9.21 (2.77 -- 15.1)), if:
+		Between time 31.250 and time 156.250, variable 12805 average is above 0.0346
+This rule applies to 24/35 (0.686) subjects in dataset, 13/24 with positive outcomes (0.542).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.16 (8.4e-05 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 11.9 (4.16 -- 25.9)), if:
+		Between time 125.000 and time 281.250, variable 12628 average is below 0.0028
+This rule applies to 6/35 (0.171) subjects in dataset, 6/6 with positive outcomes (1.000).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[22  0]
+	 [ 0 13]]
+
+
+Rule list cluster 93: posterior probability 0.000556
+Representative rule list:
+Rule list with 2 rules (overall likelihood -3.16):
+If NO rules apply: positive outcome probability 0.0102 (0.00204 -- 0.0813) (log-odds: -4.58 (-6.19 -- -2.43))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 6.53 (4.73 -- 8.7))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (0.858 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 13 (6.38 -- 21.3)), if:
+		Between time 125.000 and time 281.250, variable 12628 average is below 0.0028
+This rule applies to 6/35 (0.171) subjects in dataset, 6/6 with positive outcomes (1.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 3.09e-06 (5.82e-12 -- 0.000254)):
+	 Odds of positive outcome DECREASE (log-odds change by -8.11 (-21.3 -- -3.7)), if:
+		Between time 125.000 and time 218.750, variable sq11;size=509495; average is above 0.0715
+This rule applies to 7/35 (0.200) subjects in dataset, 0/7 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.977
+Confusion matrix: 
+	[[21  1]
+	 [ 0 13]]
+
+
+Rule list cluster 94: posterior probability 0.000556
+Representative rule list:
+Rule list with 2 rules (overall likelihood -3.01):
+If NO rules apply: positive outcome probability 0.997 (0.593 -- 1) (log-odds: 5.68 (0.376 -- 10.1))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 9.49 (4 -- 14.5))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 0.0105 (2.68e-06 -- 0.529)):
+	 Odds of positive outcome DECREASE (log-odds change by -10.2 (-18.5 -- -5.57)), if:
+		Between time 125.000 and time 218.750, variable sq9;size=659995; average is above 0.0000
+This rule applies to 15/35 (0.429) subjects in dataset, 0/15 with positive outcomes (0.000).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 0.000557 (5.88e-06 -- 0.782)):
+	 Odds of positive outcome DECREASE (log-odds change by -13.2 (-17.7 -- -4.41)), if:
+		Between time 125.000 and time 281.250, variable 12624 average is above 0.0032
+This rule applies to 19/35 (0.543) subjects in dataset, 6/19 with positive outcomes (0.316).
+
+Accuracy of representative rule:
+AUC: 0.977
+Confusion matrix: 
+	[[21  1]
+	 [ 0 13]]
+
+
+Rule list cluster 95: posterior probability 0.000533
+Representative rule list:
+Rule list with 1 rules (overall likelihood -15.4):
+If NO rules apply: positive outcome probability 0.373 (0.145 -- 0.545) (log-odds: -0.52 (-1.78 -- 0.181))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 1.94 (0.271 -- 3.9))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 7.84e-07 (4.64e-10 -- 0.00249)):
+	 Odds of positive outcome DECREASE (log-odds change by -13.5 (-21 -- -5.47)), if:
+		Between time 218.750 and time 343.750, variable sq46;size=99378; slope is above 0.0000
+This rule applies to 10/35 (0.286) subjects in dataset, 0/10 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.724
+Confusion matrix: 
+	[[20  2]
+	 [ 6  7]]
+
+
+Rule list cluster 96: posterior probability 0.000533
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.626):
+If NO rules apply: positive outcome probability 0.955 (0.197 -- 1) (log-odds: 3.06 (-1.41 -- 10.7))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 7.59 (3.46 -- 12.4))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 4.89e-06 (6.14e-09 -- 0.00069)):
+	 Odds of positive outcome DECREASE (log-odds change by -15.3 (-22 -- -10.3)), if:
+		Between time 125.000 and time 281.250, variable 12628 average is above 0.0028
+This rule applies to 29/35 (0.829) subjects in dataset, 7/29 with positive outcomes (0.241).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 1 (0.999 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 7.41 (3.55 -- 11.9)), if:
+		Between time 62.500 and time 156.250, variable 11798 average is below 0.7478
+This rule applies to 20/35 (0.571) subjects in dataset, 11/20 with positive outcomes (0.550).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[22  0]
+	 [ 0 13]]
+
+
+Rule list cluster 97: posterior probability 0.000533
+Representative rule list:
+Rule list with 1 rules (overall likelihood -14.6):
+If NO rules apply: positive outcome probability 0.317 (0.144 -- 0.503) (log-odds: -0.765 (-1.78 -- 0.011))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 3.13 (1.35 -- 6.48))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 5.09e-06 (3.59e-10 -- 0.0286)):
+	 Odds of positive outcome DECREASE (log-odds change by -11.4 (-21 -- -2.76)), if:
+		Between time 31.250 and time 187.500, variable 11798 average is above 0.7860
+This rule applies to 9/35 (0.257) subjects in dataset, 0/9 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.747
+Confusion matrix: 
+	[[21  1]
+	 [ 6  7]]
+
+
+Rule list cluster 98: posterior probability 0.000511
+Representative rule list:
+Rule list with 2 rules (overall likelihood -0.937):
+If NO rules apply: positive outcome probability 0.982 (0.142 -- 1) (log-odds: 4 (-1.8 -- 14))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 9.69 (4.73 -- 14.5))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1 (1 -- 1)):
+	 Odds of positive outcome INCREASE (log-odds change by 6.87 (4.24 -- 11.6)), if:
+		Between time 187.500 and time 250.000, variable 4039 average is below 0.0828
+This rule applies to 26/35 (0.743) subjects in dataset, 12/26 with positive outcomes (0.462).
+
+Rule 1 (predicted positive outcome probability if only this rule is satisfied, 4.78e-07 (1.3e-09 -- 0.00773)):
+	 Odds of positive outcome DECREASE (log-odds change by -18.6 (-24.5 -- -8.85)), if:
+		Between time 125.000 and time 281.250, variable 12628 average is above 0.0028
+This rule applies to 29/35 (0.829) subjects in dataset, 7/29 with positive outcomes (0.241).
+
+Accuracy of representative rule:
+AUC: 1.000
+Confusion matrix: 
+	[[22  0]
+	 [ 0 13]]
+
+
+Rule list cluster 99: posterior probability 0.000511
+Representative rule list:
+Rule list with 1 rules (overall likelihood -2.88):
+If NO rules apply: positive outcome probability 0.864 (0.46 -- 0.994) (log-odds: 1.85 (-0.159 -- 5.08))
+Effect of feature "diet" == "fd": Odds of positive outcome INCREASE (log-odds change by 5.25 (-0.46 -- 23))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 1.42e-08 (1.7e-13 -- 0.000509)):
+	 Odds of positive outcome DECREASE (log-odds change by -19.9 (-31.3 -- -9.44)), if:
+		Between time 156.250 and time 218.750, variable 6269 average is above 0.0006
+		Between time 0.000 and time 62.500, variable 15300 slope is below 0.0108
+This rule applies to 21/35 (0.600) subjects in dataset, 0/21 with positive outcomes (0.000).
+
+Accuracy of representative rule:
+AUC: 0.977
+Confusion matrix: 
+	[[21  1]
+	 [ 0 13]]
+
+

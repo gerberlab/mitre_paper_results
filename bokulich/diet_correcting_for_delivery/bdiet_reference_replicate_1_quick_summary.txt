@@ -1,0 +1,35 @@
+BAYES FACTOR FOR THE EMPTY RULE SET: 0.00595
+
+
+POINT SUMMARY:
+Rule list with 1 rules (overall likelihood -5.02):
+If NO rules apply: positive outcome probability 0.63 (0.321 -- 0.957) (log-odds: 0.533 (-0.75 -- 3.1))
+Effect of feature "delivery" == "Cesarean": Odds of positive outcome INCREASE (log-odds change by 3.08 (1.93 -- 4.24))
+
+
+
+Rule 0 (predicted positive outcome probability if only this rule is satisfied, 4.46e-08 (1.01e-08 -- 2.94e-06)):
+	 Odds of positive outcome DECREASE (log-odds change by -17.5 (-18.9 -- -13.3)), if:
+		Between time 0.000 and time 156.250, variable 13257 slope is below 0.0004
+This rule applies to 21/35 (0.600) subjects in dataset, 0/21 with positive outcomes (0.000).
+
+POINT SUMMARY CLASSIFIER PERFORMANCE:
+AUC: 0.977
+Confusion matrix: 
+	[[24  0]
+	 [ 4  7]]
+
+ENSEMBLE CLASSIFIER PERFORMANCE:
+AUC: 1.000
+Confusion matrix: 
+	[[24  0]
+	 [ 0 11]]
+
+44999 total samples after 5000 burnin
+Most frequent rule list lengths (counting total number of primitives):
+	frequency	length
+	0.462		1
+	0.241		2
+	0.133		3
+	0.0745		4
+	0.0429		5

@@ -1,0 +1,27 @@
+BAYES FACTOR FOR THE EMPTY RULE SET: 1.14
+
+
+POINT SUMMARY:
+Rule list with 0 rules (overall likelihood -47):
+If NO rules apply: positive outcome probability 0.211 (0.166 -- 0.347) (log-odds: -1.32 (-1.61 -- -0.631))
+
+POINT SUMMARY CLASSIFIER PERFORMANCE:
+AUC: 0.500
+Confusion matrix: 
+	[[67  0]
+	 [20  0]]
+
+ENSEMBLE CLASSIFIER PERFORMANCE:
+AUC: 1.000
+Confusion matrix: 
+	[[67  0]
+	 [20  0]]
+
+22499 total samples after 2500 burnin
+Most frequent rule list lengths (counting total number of primitives):
+	frequency	length
+	0.532		0
+	0.199		1
+	0.13		2
+	0.0608		3
+	0.0292		4

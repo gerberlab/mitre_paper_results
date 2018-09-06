@@ -83,6 +83,7 @@ def process_leave_one_out(path, comparison):
 def check_convergence(path):
     t = pd.read_csv(path + '_convergence.csv', index_col=0)
     worst_statistic = np.max(t.iloc[-1,:].values)
+    print path
     print t.index[-1]
     return worst_statistic
 
@@ -104,10 +105,36 @@ def process_sensitivity(path):
 
     return (np.percentile(point,[25.,50.,75.]),
             np.percentile(ensemble,[25.,50.,75.]))
-    
+
+def get_sizes(path,comparison):
+    detectors = None
+    s3 = None
+    s4 = None
+    # Didn't request detector/feature numbers for sensitivity calculations
+    if 'sensitivity' in path:
+        return detectors, s3, s4
+    pool_path = path + '.detector.pool.size'
+    with open(pool_path) as f:
+        detectors = int(f.read().strip())
+    if comparison:
+        s3_path = path + '_benchmark_step3_comparison.data_matrix_size'
+        with open(s3_path) as f:
+            l = f.read().strip()
+            t = l.split(')')[0]
+            i = t.split(', ')[1]
+            s3 = int(i)
+    if comparison:
+        s4_path = path + '_benchmark_step4_comparison.data_matrix_size'
+        with open(s4_path) as f:
+            l = f.read().strip()
+            t = l.split(')')[0]
+            i = t.split(', ')[1]
+            s4 = int(i)
+    return s3, s4, detectors
+
 if __name__ == '__main__':
     calculations = pd.read_csv('calculations.csv',index_col=0)
-    results = pd.DataFrame(index=calculations.index,columns=['group','mitre_ensemble_f1','mitre_point_f1','rf_f1','l1_f1','worst_convergence_statistic','convergence_ok'])
+    results = pd.DataFrame(index=calculations.index,columns=['group','mitre_ensemble_f1','mitre_point_f1','rf_f1','l1_f1','comparator_features_step3','comparator_features_step4','detector_pool_size','worst_convergence_statistic','convergence_ok'])
     results['group'] = calculations['group']
     
     # First extract performance measurements
@@ -128,6 +155,7 @@ if __name__ == '__main__':
 
 
         results.loc[k,['mitre_ensemble_f1','mitre_point_f1','rf_f1','l1_f1']] = scores
+        results.loc[k,['comparator_features_step3','comparator_features_step4','detector_pool_size']] = get_sizes(path, has_comparison)
 
     # Now check convergence where appropriate
     for k in calculations.index:
@@ -143,7 +171,8 @@ if __name__ == '__main__':
     reference.to_csv('reference_calculation_convergence_results.csv')
     benchmark.to_csv('performance_results.csv')
 
-    sensitivity = calculations[calculations.group=='sensitivity']
+    sensitivity = calculations[calculations.group=='sensitivity'].copy()
+    sensitivity.loc['knat_benchmark',:] = calculations.loc['knat_benchmark',:]
     sensitivity_results = pd.DataFrame(index=sensitivity.index,
                                        columns=['point_q1','point_median','point_q3','ensemble_q1','ensemble_median','ensemble_q3'])
     for k,path in zip(sensitivity.index, sensitivity.paths.values):

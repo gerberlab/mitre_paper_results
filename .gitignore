@@ -3,6 +3,8 @@
 *.pickle
 *.out
 *.err
+*.lsf
+*.zip
 build
 dist
 mitre.egg-info

@@ -154,7 +154,7 @@ if __name__ == '__main__':
             scores = process_leave_one_out(path, has_comparison)
 
 
-        results.loc[k,['mitre_ensemble_f1','mitre_point_f1','rf_f1','l1_f1']] = scores
+        results.loc[k,['mitre_ensemble_f1','mitre_point_f1','l1_f1','rf_f1']] = scores
         results.loc[k,['comparator_features_step3','comparator_features_step4','detector_pool_size']] = get_sizes(path, has_comparison)
 
     # Now check convergence where appropriate

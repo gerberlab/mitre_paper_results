@@ -13,8 +13,7 @@ perf['index'] = perf.index
 perf = pd.melt(perf, id_vars=['index'], value_vars=perf.columns[:4])
 
 f,ax = plt.subplots(figsize=(7,3))
-sns.barplot(data=perf, x='index', y='value', hue='variable')
-ax.legend_.remove()
+sns.barplot(data=perf, x='index', y='value', hue='variable', hue_order=['mitre_ensemble_f1', 'mitre_point_f1', 'l1_f1', 'rf_f1'])
 ax.set_yticks(np.linspace(0.2,1.0,5))
 ax.set_ylabel('F1 score')
 ax.set_ylim(0.,1.)
@@ -23,6 +22,9 @@ ax.set_xlabel('')
 sns.despine()
 f.savefig('figure1d.base.pdf')
 f.savefig('figure1d.base.eps')
+ax.legend_.remove()
+f.savefig('figure1d.base.nolegend.pdf')
+f.savefig('figure1d.base.nolegend.eps')
 
 # Make the supplementary figure showing the David results with
 # and without Bacteroides normalization
@@ -41,7 +43,7 @@ f,ax = plt.subplots(1,2,figsize=(7,3))
 ax[1].axis('off')
 ax = ax[0]
 sns.barplot(ax=ax,data=perf, x='index', y='value', hue='variable')
-ax.legend_.remove()
+#ax.legend_.remove()
 ax.set_yticks(np.linspace(0.2,1.0,5))
 ax.set_ylim(0.,1.)
 ax.set_ylabel('F1 score')

@@ -42,7 +42,7 @@ perf['variable'] = perf.variable.apply(rename)
 f,ax = plt.subplots(1,2,figsize=(7,3))
 ax[1].axis('off')
 ax = ax[0]
-sns.barplot(ax=ax,data=perf, x='index', y='value', hue='variable')
+sns.barplot(ax=ax,data=perf, x='index', y='value', hue='variable', hue_order=map(rename,['mitre_ensemble_f1', 'mitre_point_f1', 'l1_f1', 'rf_f1']))
 #ax.legend_.remove()
 ax.set_yticks(np.linspace(0.2,1.0,5))
 ax.set_ylim(0.,1.)

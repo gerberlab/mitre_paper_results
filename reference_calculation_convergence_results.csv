@@ -1,7 +1,5 @@
 ,group,worst_convergence_statistic,convergence_ok
-diet_correcting_for_delivery,bokulich,1.0275028562590125,True
 bdiet_reference,bokulich,1.0282902569990902,True
-delivery_correcting_for_diet,bokulich,1.038485189221373,True
 bdeliv_reference,bokulich,1.0310616366878549,True
 kige_reference,karelia,1.0317315707344217,True
 knat_reference,karelia,1.0432774162813063,True

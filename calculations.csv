@@ -1,8 +1,6 @@
 ,group,is_reference,is_benchmark,cv_type,has_comparison,paths
-diet_correcting_for_delivery,bokulich,True,False,,False,./bokulich/diet_correcting_for_delivery/bdiet_reference
 bdiet_reference,bokulich,True,False,,False,./bokulich/diet/bdiet_reference
 bdiet_benchmark,bokulich,False,True,leave_one_out,True,./bokulich/diet/bdiet_benchmark
-delivery_correcting_for_diet,bokulich,True,False,,False,./bokulich/delivery_correcting_for_diet/bdeliv_reference
 bdeliv_reference,bokulich,True,False,,False,./bokulich/delivery/bdeliv_reference
 bdeliv_benchmark,bokulich,False,True,leave_one_out,True,./bokulich/delivery/bdeliv_benchmark
 kn_relaxed,sensitivity,False,True,k_fold,False,./sensitivity/kn_relaxed
